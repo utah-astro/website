@@ -1,0 +1,25 @@
+@charset "UTF-8";
+/* CSS Print Stylesheet */
+
+body {
+	font-size:65%;
+}
+
+
+#headerRight, #headerNavBar, #sideColumn1, #footer, #search, #banner {
+	display: none;
+}
+
+#header, #main, #wrapper, #innerWrapper, #sideColumn2, #content .divspacer {
+	color:#000;
+	float:none;
+	border:none;
+	margin:0;
+	padding:0;
+	width:100%;
+	overflow:visible;
+}
+
+
+
+
