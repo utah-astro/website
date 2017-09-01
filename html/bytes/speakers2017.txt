@@ -1,0 +1,35 @@
+// Enter speaker information here. The format is:
+//
+// ["Date","Name","Affiliation","Title","Abstract","Day","Time"]
+//
+// In the Abstract field you must escape double quotes (\"). Some HTML
+// is possible (like <br>, <b>, etc.).
+//
+// ** Edited to add color change for special day/time.
+// ** If Day or Time field is not empty, special day/time
+// ** is/are added in date column in red.
+//
+// 201208, add host column
+// ******* Please follow the format below. 
+// ******* IMPORTANT: 
+// ******* All the information for one talk should be in a single line.
+// Month[i]=["date","Speaker","Institution","Title","Abstract","Host","Special Time Notes","Special Time Notes"];
+// *******
+
+September[0]=["15","","","","","","","",""]
+
+October[0]=["6","","","","","","","",""]
+
+October[1]=["20","","","","","","","",""]
+
+October[2]=["27","","","","","","","",""]
+
+November[0]=["3","","","","","","","",""]
+
+November[1]=["17","","","","","","","",""]
+
+December[0]=["1","","","","","","","",""]
+
+December[1]=["8","","","","","","","",""]
+
+
