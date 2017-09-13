@@ -20,7 +20,7 @@ September[0]=["15","","","","","","","",""]
 
 October[0]=["6","","","","","","","",""]
 
-October[1]=["20","Paul Woodward","Minnesota","","","","Chris Johnson","Friday 2pm",""]
+October[1]=["20","Paul Woodward","Minnesota","","","Chris Johnson","Friday 2pm","",""]
 
 October[2]=["27","","","","","","","",""]
 
