@@ -16,15 +16,14 @@
 // Month[i]=["date","Speaker","Institution","Title","Abstract","Host","Special Time Notes","Special Time Notes"];
 // *******
 
-September[0]=["15","","","","","","","",""]
 
 October[0]=["6","","","","","","","",""]
 
-October[1]=["20","Paul Woodward","Minnesota","","","Chris Johnson","Friday 2pm","",""]
+October[1]=["20","Paul Woodward","Minnesota","TBD","TBD","Chris Johnson","Friday 2pm","",""]
 
 October[2]=["27","","","","","","","",""]
 
-November[0]=["3","","","","","","","",""]
+November[0]=["3","Kiri Wagstaff","JPL","TBD","TBD","Vivek Srikumar","Friday 2pm","",""]
 
 November[1]=["17","","","","","","","",""]
 
