@@ -17,11 +17,9 @@
 // *******
 
 
-October[0]=["6","","","","","","","",""]
+October[0]=["20","Paul Woodward","Minnesota","TBD","TBD","Chris Johnson","Friday 2pm","",""]
 
-October[1]=["20","Paul Woodward","Minnesota","TBD","TBD","Chris Johnson","Friday 2pm","",""]
-
-October[2]=["27","","","","","","","",""]
+October[1]=["27","","","","","","","",""]
 
 November[0]=["3","Kiri Wagstaff","JPL","TBD","TBD","Vivek Srikumar","Friday 2pm","",""]
 
@@ -33,7 +31,7 @@ December[1]=["8","","","","","","","",""]
 
 January[0]=["12","","","","","","","",""]
 
-January[1]=["19","","","","","","","",""]
+January[1]=["19","Local Faculty","","Lunch and Afternoon Seminars","Off campus get-together for SoC/Astro faculty.","","12-6pm","",""]
 
 March[0]=["2","","","","","","","",""]
 
