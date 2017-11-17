@@ -29,4 +29,4 @@ January[1]=["19","Local Faculty","","Lunch and Afternoon Seminars","Off campus g
 
 March[0]=["2","","","","","","","",""]
 
-March[1]=["30","","","","","","","",""]
+March[1]=["30","Elise Jennings","Argonne","TBD","TBD","Kyle Dawson","Friday 2pm","",""]
