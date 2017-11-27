@@ -23,10 +23,10 @@ October[0]=["20","Paul Woodward","Minnesota","Integrating Simulation and Visuali
 November[0]=["3","Kiri Wagstaff","JPL","Machine Learning at the Outer Limits: In Search of Fast Radio Bursts from Extragalactic Sources","I will discuss the use of machine learning to analyze large-volume streaming data from radio astronomy telescopes.  We have developed the V-FASTR system for real-time detection and classification of radio pulses to enable potential discoveries of new radio sources, such as pulsars, star forming regions, and others we haven’t yet categorized. V-FASTR detects unusual signals and then determines whether they are most likely to be caused by interference or artifacts, or whether they indicate signs of a new source. We have created and repeatedly improved a web portal interface that allows human reviewers to assess each detection.  Machine learning is a key component in reducing the review burden, and each annotation made by a reviewer feeds back in to re-train the random forest classifier.  This symbiotic relationship enables continual improvement in classifier performance and in human time saved.","Vivek Srikumar","Friday 2pm","",""]
 
 
-January[0]=["12","Jeff Regier","Berkeley","TBD","TBD","Kyle Dawson","Friday 2pm","",""]
+January[0]=["12","Alex Szalay","JHU","TBD","TBD","Chris Johnson","Friday","2pm","",""]
 
 January[1]=["19","Local Faculty","","Lunch and Afternoon Seminars","Off campus get-together for SoC/Astro faculty.","","12-6pm","",""]
 
-March[0]=["2","","","","","","","",""]
+March[0]=["2","Jeff Regier","Berkeley","TBD","TBD","Kyle Dawson","Friday 2pm","",""]
 
 March[1]=["30","Elise Jennings","Argonne","TBD","TBD","Kyle Dawson","Friday 2pm","",""]
