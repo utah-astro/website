@@ -27,6 +27,6 @@ January[0]=["12","Alex Szalay","JHU","Numerical Laboratories: the Road to Exasca
 
 January[1]=["19","Local Faculty","","Lunch and Afternoon Seminars","Off campus get-together for SoC/Astro faculty.","","12-6pm","",""]
 
-March[0]=["2","Jeff Regier","Berkeley","TBD","TBD","Kyle Dawson","Friday 2pm","",""]
+March[0]=["2","Jeff Regier","Berkeley","Cataloging the Visible Universe through Approximate Bayesian Inference","In this talk, I will present a new Bayesian model for constructing astronomical catalogs from optical telescope image sets. Each pixel's intensity is treated as a Poisson random variable whose rate parameter depends on the latent properties of stars and galaxies. These latent properties are themselves random, with scientific prior distributions constructed from large ancillary datasets. I compare two procedures for posterior inference: Markov chain Monte Carlo (MCMC) and variational inference (VI). MCMC excels at quantifying uncertainty while VI is roughly 1000x faster. Both procedures outperform the current state-of-the-art method for measuring celestial bodies' brightnesses, colors, shapes, and morphologies. On a supercomputer, the VI procedure efficiently uses 665,000 CPU cores (1.3 million hardware threads) to construct an astronomical catalog from 50 terabytes of images in 14.6 minutes.","Kyle Dawson","Friday 2pm","",""]
 
 March[1]=["30","Elise Jennings","Argonne","TBD","TBD","Kyle Dawson","Friday 2pm","",""]
