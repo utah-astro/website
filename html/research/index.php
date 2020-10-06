@@ -16,7 +16,7 @@
                     <li>
                         <a href="http://www.physics.utah.edu/research/astronomy-astrophysics.php">Astronomy &amp; Astrophysics</a>
                     </li>
-                    <li class="active">Overview</li>
+                    <li class="active">Research</li>
                 </ol>
             </div>
         </div>
@@ -24,64 +24,88 @@
             <div class="uu-container">
                 <div class="uu-main-top row" id="uu-skip-target">
                     <div class="uu-top-content">
-                        <h1 class="page-title">Astronomy and High Energy Astrophysics: Overview</h1>
+                        <h1 class="page-title">Astronomy and High Energy Astrophysics: Research</h1>
+                        <p>Our group works on topics in the frontiers of astronomy and astrophysics.  Here are summaries of our most active areas of research:</p>
                     </div>
                 </div>
                 <div class="uu-main-bottom row">
                     <div class="uu-main-column">
                         <div class="uu-main-content">
-                            <div>Our astronomy and astrophysics faculty members carry out exciting research on the
-                                                       frontiers of astronomy and astrophysics. We work on the nature of dark matter, the
-                                                       large scale structure and expansion rate of the Universe, the relation of galaxies
-                                                       to their dark matter halos, the energetics of galaxy clusters, the history of the
-                                                       Milky Way and nearby galaxies, the demographics of massive black holes, the Milky
-                                                       Way’s interstellar medium, the astrophysics of compact objects, the sources of the
-                                                       highest energy photons, and the formation of planetary systems.
-                                                    </div>
-                            <div>&nbsp;</div>
 
-                            <p>Our University is a member of and data center for the the <a target="_blank" href="https://www.sdss.org">Sloan Digital Sky Survey</a> collaboration (SDSS III, IV, and V surveys). The U is also a part of the Telescope Array cosmic ray experiment, the Veritas gamma-ray astronomy project, and HAWC, which is sensitive to both cosmic rays and gamma rays.</p>
+<ul>
+<li><b>Cosmology and the large-scale structure of the Universe.</b>
+We look at how galaxies in the universe are patterned to
+form clumps and clusters, connected by thin filaments, almost
+like a cosmic sponge. One mysterious entity, dark matter,
+helps form the clumps, while another, dark energy, is starting
+to drive an accelerated expansion of these clumps away from each
+other. A main goal is to identify both dark matter and dark energy.
+[<a href="http://www.physics.utah.edu/~joelbrownstein/">Brownstein</a>, <a href="http://www.physics.utah.edu/~kdawson/">Dawson</a>, <a href="http://www.physics.utah.edu/~wik/">Wik</a>, <a href="http://www.physics.utah.edu/~zhengzheng/">Zheng</a>]
+<br>&nbsp;
+<br>
 
-                            <p class="h3">Astronomy</p>
 
-                            <div>
-                                The University of Utah is a key contributor to cutting-edge survey science. Faculty
-                                                           play leadership roles in the DESI survey and the SDSS-IV and -V surveys, with the
-                                                           University being a full institutional member and data repository of SDSS. Our faculty,
-                                                           postdocs, and students also use a wide range of world-class facilities in their research,
-                                                           including ALMA, HST, Gemini, VLT, Chandra, NuSTAR, and XMM, and are involved in gamma-ray
-                                                           telescopes VERITAS, HAWC, and CTA. Analysis and simulations are performed at the University’s
-                                                           Center for High Performance Computing. We also run a high impact astronomy outreach
-                                                           program and participate in efforts to preserve Utah's unparalleled dark skies. Our
-                                                           faculty are committed to training a talented and diverse group of students and postdocs.&nbsp;
-                                <br>
-                                &nbsp;
+<li><b>Galaxy evolution and dynamics.</b>  Galaxies, including our own
+Milky Way, each contain billions of stars (give or take!), as well as
+mysterious dark matter. We look to see how galaxies were assembled and
+how they interact with each other, giving clues about the formation of
+stars and the nature of dark matter. [<a href="http://www.physics.utah.edu/~joelbrownstein/">Brownstein</a>, <a href="http://www.physics.utah.edu/~iii/">Ivans</a>, <a href="http://www.physics.utah.edu/~aseth/">Seth</a>, <a href="http://www.physics.utah.edu/~zasowski/">Zasowski</a>, <a href="http://www.physics.utah.edu/~zhengzheng/">Zheng</a>]
+<br>&nbsp;
+<br>
 
-                            </div>
-                            
-                            </p>
-                            <p class="h3">High Energy Astrophysics</p>
-                            <p>Astrophysicists study celestial bodies such as stars and galaxies by observing their
-                                                       light emissions and particles. These two fields operate on very different scales:
-                                                       one deals with subatomic particles, the other with the Universe at large. Yet they
-                                                       intertwine when addressing some of our most profound scientific questions, such as
-                                                       "What is the origin fate of the universe?" and "What is the nature of dark energy
-                                                       that drives the accelerating expansion of the universe?"
-                                                    </p>
-                            <p>Researchers at the University of Utah’s Department of Physics and Astronomy are carrying
-                                                       out large-scale computer calculations to recreate the conditions of the quark-gluon
-                                                       plasma. We are able to study the formation of protons and neutrons as the Universe
-                                                       cooled. Such information is vital to our understanding of how the Universe came into
-                                                       being.
-                                                    </p>
+<li><b>Galaxy nuclei and massive black holes.</b>
+Most, if not all, galaxies harbor supermassive black holes.
+These exotic objects have the mass of millions to billions of
+stars packed into a region of space smaller than our solar system.
+We look at how these objects grow and influence the growth of
+their host galaxies. Their origin remains a mystery....
+[<a href="http://www.physics.utah.edu/~aseth/">Seth</a>, <a href="http://www.physics.utah.edu/~bromley/">Bromley</a>, <a href="http://www.physics.utah.edu/~wik/">Wik</a>]
+<br>&nbsp;
+<br>
 
-                            <hr/>
-                            <h3>
-                                Astronomy and High Energy Astrophysics at the U
-                            </h3>
-                            <p><img class="img-float-left" src="/images/banner/bnr_home.jpg"></p>
-                            <p>In addition to our <a href="../research">research</a>, we provide courses to help <a href="../graduate">graduate</a> and <a href="../undergraduate">undergraduate</a> students come up to speed in cutting-edge research with our <a href="../faculty">faculty</a>.</p>
-                            
+<li><b>Stars in the Milky Way and the origins of elements.</b>
+Stellar spectroscopy, the detailed analysis of starlight
+in terms of its color, reveals the elements that make up stars.
+By studying the how these elements are spread across
+different populations of stars in the Milky Way Galaxy,
+we can understand the origin of carbon, oxygen and other
+elements of which we are composed. Spectroscopy also tells us about how the stars are moving, how old they are, and other properties that let us understand how the Milky Way formed and has changed over time.  [<a href="http://www.physics.utah.edu/~iii/">Ivans</a>, <a href="http://www.physics.utah.edu/~aseth/">Seth</a>, <a href="http://www.physics.utah.edu/~zasowski/">Zasowski</a>]
+<br>&nbsp;
+<br>
+
+<li><b>Dark matter.</b> Dark matter is known only
+from its gravitational influence on visible stars and gas.
+It's properties may be inferred from how it affects
+galaxy clustering. A major goal of astronomy is to
+detect dark matter directly by catching a rare
+collision with normal atoms. Alternatively dark matter
+may reveal itself in interactions that can lead to
+showers of high energy particles. So far there
+have been only tentative hints of detections. Thus,
+the mystery continues. [<a href="http://www.physics.utah.edu/~joelbrownstein/">Brownstein</a>, <a href="http://faculty.utah.edu/u0410334-PAOLO_GONDOLO/biography/index.hml">Gondolo</a>, <a href="http://www.physics.utah.edu/~sandick/">Sandick</a>, <a href="http://www.physics.utah.edu/~wik/">Wik</a>, <a href="http://www.physics.utah.edu/~zhaoyue/">Zhao</a>]
+<br>&nbsp;
+<br>
+
+<li><b>Experimental and Observational High Energy Astrophysics.</b> Utah is
+part of VERITAS, HAWC, and TA collaborations looking
+at high-energy particles in the cosmos. The
+source of these particles is not entirely certain,
+but some likely involve physics near the
+edge of supermassive black holes. [<a href="http://faculty.utah.edu/u0028378-DAVID_B_KIEDA/biography/index.hml">Kieda</a>, <a href="http://www.physics.utah.edu/~springer/">Springer</a>, <a href="http://www.physics.utah.edu/~wik/">Wik</a>, <a href="http://www.physics.utah.edu/index.php/research/cosmic-rays">Cosmic Ray Group</a>].
+<br>&nbsp;
+<br>
+
+<li><b>Planets.</b> Amidst dark energy and dark matter, within
+huge galaxies and around stars, small particles of dust began
+to glom together to form planets. Our view of planets in the
+Universe has expanded from just a handful around our solar system
+to thousands seen around other stars. We are working to understand
+the mechanisms at play in the formation planets, in particular
+rocky planets like our own Earth. Is this process universal and
+do we have company in the Universe? [<a href="http://www.physics.utah.edu/~bromley/">Bromley</a>]
+
+
+
                         </div>
                     </div>
                     <?php include '../submenu.php';?>
