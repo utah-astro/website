@@ -25,6 +25,7 @@
                 <div class="uu-main-top row" id="uu-skip-target">
                     <div class="uu-top-content">
                         <h1 class="page-title">Astronomy and High Energy Astrophysics: Research</h1>
+                        <p><img class="img-float-left" src="/images/banner/bnr_research.jpg"></p>
                         <p>Our group works on topics in the frontiers of astronomy and astrophysics.  Here are summaries of our most active areas of research:</p>
                     </div>
                 </div>
