@@ -16,7 +16,7 @@
                     <li>
                         <a href="http://www.physics.utah.edu/research/astronomy-astrophysics.php">Astronomy &amp; Astrophysics</a>
                     </li>
-                    <li class="active">Graduate Program</li>
+                    <li class="active">Undergraduate Program</li>
                 </ol>
             </div>
         </div>
@@ -24,7 +24,7 @@
             <div class="uu-container">
                 <div class="uu-main-top row" id="uu-skip-target">
                     <div class="uu-top-content">
-                        <h1 class="page-title">Astronomy and High Energy Astrophysics: Graduate Program</h1>
+                        <h1 class="page-title">Astronomy and High Energy Astrophysics: Undergraduate Program</h1>
                     </div>
                 </div>
                 <div class="uu-main-bottom row">
@@ -32,19 +32,23 @@
                         <div class="uu-main-content">
                             <p><img class="img-float-left" src="/images/banner/bnr_gradprogram.jpg"></p>
                             <p>
-                                The University of Utah now offers a full array of
-                                courses in graduate physics, astrophysics and astronomy. These
-                                courses, along with research opportunites with our faculty,
-                                help enable students to receive
-                                a Ph.D. in Physics with Emphasis in Astronomy and Astrophysics.
-
+                                The University of Utah offers both a minor and a Physics major with an astrophysics emphasis.  Here are some
+                                resources if you are interested in learning some astronomy:
                             </p>
                             <p>
-                                This page provides some resources for you if you are currently
-                                a Ph.D. student or are interested in becoming one:
                                 <ul>
-                                    <li><a href="http://www.physics.utah.edu/index.php/graduate-program">Departmental Graduate information</a></li>
+                                    <li>The <a href="https://catalog.utah.edu/#/programs/4121i24RW/rybyEQecG?bc=true&bcCurrent=Astronomy%20%26%20Astrophysics&bcGroup=College%20of%20Science&bcItemType=programs">Astrophysics and Astrophysics Emphasis</a>
+                                    requirements and
+                                    <a href="https://catalog.utah.edu/#/programs/VkUGLs40Z?bc=true&bcCurrent=Astronomy&bcGroup=College%20of%20Science&bcItemType=programs">Astronomy Minor</a>
+                                    requirements from the University General Catalog.  The full list of Physics & Astronomy courses is given
+                                      <a href="https://catalog.utah.edu/#/courses?group=Physics%20%26%20Astronomy">here.</a></li>
+
+                                    <li> The
+                                    <a href="http://www.physics.utah.edu/_documents/undergraduate_handbook.pdf">Department Undergraduate Handbook</a>, which has both the degree requirements for the minor and astrophysics emphasis.)</li>
+
+                                    <li> Note that PHYS/ASTR 2500 is the "gateway" course to our astronomy course offerings -- this is offered each fall; other courses may be offered only every two years.  Please talk to us if you need help planning your major.</li>
                                 </ul>
+
                             </p>
                         </div>
                     </div>
