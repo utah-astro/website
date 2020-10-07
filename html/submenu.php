@@ -23,10 +23,10 @@
                         <a href="../faculty/">Faculty</a>
                     </li>
                     <li class="">
-                        <a href="../computing">Computing</a>
+                        <a href="../computing_resources">Computing Resources</a>
                     </li>
                     <li class="">
-                        <a target="_blank" href="https://www.physics.utah.edu/weo">Willard Eccles Observatory</a>
+                        <a target="_blank" href="http://www.physics.utah.edu/weo">Willard Eccles Observatory</a>
                     </li>
                 </ul>
                 <h4 style="color: #666;">Events</h4>

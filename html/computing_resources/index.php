@@ -16,7 +16,7 @@
                     <li>
                         <a href="http://www.physics.utah.edu/research/astronomy-astrophysics.php">Astronomy &amp; Astrophysics</a>
                     </li>
-                    <li class="active">Computing</li>
+                    <li class="active">Computing Resources</li>
                 </ol>
             </div>
         </div>
@@ -24,7 +24,7 @@
             <div class="uu-container">
                 <div class="uu-main-top row" id="uu-skip-target">
                     <div class="uu-top-content">
-                        <h1 class="page-title">Astronomy and High Energy Astrophysics: Computing</h1>
+                        <h1 class="page-title">Astronomy and High Energy Astrophysics: Computing Resources</h1>
                     </div>
                 </div>
                 <div class="uu-main-bottom row">
