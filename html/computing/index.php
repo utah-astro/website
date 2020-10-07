@@ -31,7 +31,7 @@
                     <div class="uu-main-column">
                         <div class="uu-main-content">
                             <p><img class="img-float-left" src="/images/banner/bnr_people.jpg"></p>
-                            <p>Computing resources are hosted by the <a href="https://www.chpc.utah.edu/">Center for High Performance Computing (CHPC)</a>, and include:</p>
+                            <p>Computing resources are hosted by the <a href="https://www.chpc.utah.edu/">Center for High Performance Computing</a>, including:</p>
                             <h5>Astro filesystem:</h5>
                             <ul>
                                 <li>Home disk: 2 TB total, including daily back up (i.e. shared disk for home directories)</li>
@@ -50,9 +50,6 @@
                                     <li>astro06:  32 GB RAM, 16 core, 2100 MHz per core</li>
                                     <li>astro07:  64 GB RAM, 16 core, 2100 MHz per core</li>
                                 </ul>
-                            </p>
-                            <p>
-                                Additional high performance computing resources are available through the<br/> <a href="https://www.chpc.utah.edu/">Center for High Performance Computing</a>.
                             </p>
                         </div>
                     </div>
