@@ -31,7 +31,7 @@
                     <div class="uu-main-column">
                         <div class="uu-main-content">
                             <p><img class="img-float-left" src="/images/banner/bnr_people.jpg"></p>
-                            <h3>The Astronomy group computing resources are Hosted by the <a href="https://www.chpc.utah.edu/">Center for High Performance Computing (CHPC)</a>, and include:</h3>
+                            <p>The Astronomy group computing resources are Hosted by the <a href="https://www.chpc.utah.edu/">Center for High Performance Computing (CHPC)</a>, and include:</p>
                             <H5>Astro filesystem:</H5>
                             <UL>
                                 <LI>Home disk: 2 TB total, including daily back up (i.e. shared disk for home directories)</LI>
