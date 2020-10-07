@@ -30,7 +30,7 @@
                 <div class="uu-main-bottom row">
                     <div class="uu-main-column">
                         <div class="uu-main-content">
-                            <p><img class="img-float-left" src="/images/banner/bnr_gradprogram.jpg"></p>
+                            <p><img class="img-float-left" src="/images/banner/bnr_undergrad.jpg"></p>
                             <p>
                                 The University of Utah offers both a minor and a Physics major with an astrophysics emphasis.  Here are some
                                 resources if you are interested in learning some astronomy:
