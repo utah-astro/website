@@ -35,7 +35,7 @@
                                 <div class="grid-item col-4">
                                     <p>
                                         <a href="https://faculty.utah.edu/u0979082-ANUSHKA_UDARA_ABEYSEKARA/research/index.hml">
-                                            <img src="/_images/professors_research/Bromley.png" alt="Ben Bromley" width="440" height="440">
+                                            <img src="https://www.physics.utah.edu/_images/professors_research/Bromley.png" alt="Ben Bromley" width="440" height="440">
                                         </a>
                                     </p>
                                     <h3 style="text-align: center;">Ben Bromley&nbsp;&nbsp;</h3>
@@ -54,7 +54,7 @@
                                 </div>
                                 <div class="grid-item col-4">
                                     <p>
-                                        <img src="/_images/professors_research/Brownstein.png" alt="Joel Brownstein" width="440" height="440">
+                                        <img src="https://www.physics.utah.edu/_images/professors_research/Brownstein.png" alt="Joel Brownstein" width="440" height="440">
                                     </p>
                                     <h3 style="text-align: center;">Joel Brownstein</h3>
                                     <p>
@@ -76,7 +76,7 @@
                                 <div class="grid-item col-4">
                                     <p>
                                         <a href="http://faculty.utah.edu/u0791607-TABITHA_CHRISTI_BUEHLER/research/index.hml">
-                                            <img src="/_images/professors_research/Buehler.png" alt="Tabitha Buehler" width="440" height="440">
+                                            <img src="https://www.physics.utah.edu/_images/professors_research/Buehler.png" alt="Tabitha Buehler" width="440" height="440">
                                         </a>
                                     </p>
                                     <h3 style="text-align: center;">Tabitha Buehler</h3>
@@ -113,7 +113,7 @@
                                 </div>
                                 <div class="grid-item col-4">
                                     <a href="http://faculty.utah.edu/u0634757-KYLE_DAWSON/research/index.hml">
-                                        <img src="/_images/professors_research/Dawson.png" alt="Kyle Dawson" width="440" height="440">
+                                        <img src="https://www.physics.utah.edu/_images/professors_research/Dawson.png" alt="Kyle Dawson" width="440" height="440">
                                     </a>
                                     <h3 style="text-align: center;">Kyle Dawson</h3>
                                     <p>
@@ -139,7 +139,7 @@
                                 </div>
                                 <div class="grid-item col-4">
                                     <a href="http://faculty.utah.edu/u0028378-DAVID_B_KIEDA/biography/index.hml">
-                                        <img src="/_images/professors_research/Seth.png" alt="Anil Seth" width="440" height="440">
+                                        <img src="https://www.physics.utah.edu/_images/professors_research/Seth.png" alt="Anil Seth" width="440" height="440">
                                     </a>
                                     <h3 style="text-align: center;">Anil Seth&nbsp;</h3>
                                     <p>
@@ -159,7 +159,7 @@
                                 </div>
                                 <div class="grid-item col-4">
                                     <a href="http://faculty.utah.edu/u0458548-STEPHANE_LOUIS_LE_BOHEC/research/index.hml">
-                                        <img src="/_images/professors_research/Wik.png" alt="Daniel Wik" width="440" height="440">
+                                        <img src="https://www.physics.utah.edu/_images/professors_research/Wik.png" alt="Daniel Wik" width="440" height="440">
                                     </a>
                                     <h3 style="text-align: center;">Daniel Wik</h3>
                                     <p>X-ray astronomy; galaxy clusters; galaxies; black holes; cosmology</p>
@@ -171,7 +171,7 @@
                                 </div>
                                 <div class="grid-item col-4">
                                     <a href="http://faculty.utah.edu/u0778105-ANIL_CHANDRA_SETH/research/index.hml">
-                                        <img src="/_images/professors_research/Zasowski.png" alt="Gail Zasowski" width="440" height="440">
+                                        <img src="https://www.physics.utah.edu/_images/professors_research/Zasowski.png" alt="Gail Zasowski" width="440" height="440">
                                     </a>
                                     <h3 style="text-align: center;">Gail Zasowski</h3>
                                     <p>
@@ -192,7 +192,7 @@
                                 </div>
                                 <div class="grid-item col-4">
                                     <a href="http://faculty.utah.edu/u0028793-ROBERT_WAYNE_SPRINGER/research/index.hml">
-                                        <img src="/_images/professors_research/Zheng.png" alt="Zheng Zheng" width="441" height="440">
+                                        <img src="https://www.physics.utah.edu/_images/professors_research/Zheng.png" alt="Zheng Zheng" width="441" height="440">
                                     </a>
                                     <h3 style="text-align: center;">Zheng Zheng</h3>
                                     <div>Zheng is an observationally oriented theorist and his main research interests are
@@ -221,7 +221,7 @@
                             <div class="row layout-grid ">
                                 <div class="grid-item col-4">
                                     <a href="http://faculty.utah.edu/u0410334-PAOLO_GONDOLO/biography/index.hml">
-                                        <img src="/_images/professors_research/Abeysekara.png" alt="Udara Abeysekara" width="640" height="640">
+                                        <img src="https://www.physics.utah.edu/_images/professors_research/Abeysekara.png" alt="Udara Abeysekara" width="640" height="640">
                                     </a>
                                     <h3 style="text-align: center;">Anushka Abeysekara</h3>
                                     <p>
@@ -248,7 +248,7 @@
                                 </div>
                                 <div class="grid-item col-4">
                                     <a href="https://faculty.utah.edu/u0786002-PEARL_SANDICK/biography/index.hml">
-                                        <img src="/_images/professors_research/Gondolo.png" alt="Paolo Gondolo" width="430" height="430">
+                                        <img src="https://www.physics.utah.edu/_images/professors_research/Gondolo.png" alt="Paolo Gondolo" width="430" height="430">
                                     </a>
                                     <h3 style="text-align: center;">Paolo Gondolo</h3>
                                     <p>Cosmology, astrophysics, high energy physics.</p>
@@ -260,7 +260,7 @@
                                 </div>
                                 <div class="grid-item col-4">
                                     <a href="/~zhaoyue/">
-                                        <img src="/_images/professors_research/Kieda.png" alt="Dave Kieda" width="437" height="437">
+                                        <img src="https://www.physics.utah.edu/_images/professors_research/Kieda.png" alt="Dave Kieda" width="437" height="437">
                                     </a>
                                     <h3 style="text-align: center;">Dave Kieda</h3>
                                     <p>
@@ -288,7 +288,7 @@
                                 </div>
                                 <div class="grid-item col-4">
                                     <a href="https://faculty.utah.edu/u0786031-ZHENG_ZHENG/research/index.hml">
-                                        <img src="/_images/professors_research/LeBohec.png" alt="Stephan LeBohec" width="438" height="438">
+                                        <img src="https://www.physics.utah.edu/_images/professors_research/LeBohec.png" alt="Stephan LeBohec" width="438" height="438">
                                     </a>
                                     <h3 style="text-align: center;">Stephan LeBohec</h3>
                                     <p>
@@ -307,7 +307,7 @@
                                     </ul>
                                 </div>
                                 <div class="grid-item col-4">
-                                    <img src="/_images/professors_research/Sandick.1.png" alt="Pearl Sandick" width="585" height="585">
+                                    <img src="https://www.physics.utah.edu/_images/professors_research/Sandick.1.png" alt="Pearl Sandick" width="585" height="585">
                                     <br>
                                     <h3 style="text-align: center;">Pearl Sandick</h3>
                                     <p>
@@ -323,7 +323,7 @@
                                 <div class="grid-item col-4">
                                     <p>
                                         &nbsp;
-                                        <img src="/_images/professors_research/Springer.png" alt="Wayne Springer" width="601" height="601">
+                                        <img src="https://www.physics.utah.edu/_images/professors_research/Springer.png" alt="Wayne Springer" width="601" height="601">
                                     </p>
                                     <h3 style="text-align: center;">Wayne Springer</h3>
                                     <p>
@@ -349,7 +349,7 @@
                                 <div class="grid-item col-4">
                                     &nbsp;
                                     <a href="/~zhaoyue/">
-                                        <img src="/_images/professors_research/Zhao.png" alt="Yue Zhao" width="438" height="438">
+                                        <img src="https://www.physics.utah.edu/_images/professors_research/Zhao.png" alt="Yue Zhao" width="438" height="438">
                                     </a>
                                     <h3 style="text-align: center;">Yue Zhao</h3>
                                     <p>
