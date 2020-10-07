@@ -23,7 +23,7 @@
                         <a href="../faculty/">Faculty</a>
                     </li>
                     <li class="">
-                        <a href="../computing_resources">Computing Resources</a>
+                        <a href="../computing/">Computing Resources</a>
                     </li>
                     <li class="">
                         <a target="_blank" href="http://www.physics.utah.edu/weo">Willard Eccles Observatory</a>
