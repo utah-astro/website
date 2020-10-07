@@ -1,8 +1,8 @@
-<?php include '../head.php';?>
+<?php include '../common/head.php';?>
 <body class="two-column-left">
     <!-- Code to be included after the opening <body> tag can go here -->
     <div class="uu-page-wrapper">
-        <?php include '../header.php';?>
+        <?php include '../common/header.php';?>
         <div class="uu-breadcrumb">
             <div class="uu-container">
                 <p class="sr-only">You are here:</p>
@@ -373,13 +373,13 @@
                             </div>
                         </div>
                     </div>
-                    <?php include '../submenu.php';?>
+                    <?php include '../common/submenu.php';?>
                 </div>
             </div>
         </main>
-        <?php include '../footer.php';?>
+        <?php include '../common/footer.php';?>
     </div>
-    <?php include '../scripts.php';?>
+    <?php include '../common/scripts.php';?>
 </body>
 </html>
 

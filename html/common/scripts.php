@@ -4,7 +4,7 @@
     </script>
     <script src="//templates.utah.edu/_main-v2/_scripts/vendor/bootstrap.min.js"></script>
     <script src="//templates.utah.edu/_main-v2/_scripts/main.js"></script>
-    <script type="text/javascript" src="../js/custom-scripts.js"></script>
+    <script type="text/javascript" src="../resources/js/custom-scripts.js"></script>
 
     <script type="text/javascript" src="//templates.utah.edu/_main-v2/_scripts/directedit.js"></script>
     <script type="text/javascript">

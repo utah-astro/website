@@ -1,4 +1,0 @@
-AuthUserFile ./.htpasswd
-AuthType Basic
-AuthName "sdss3pubs"
-Require valid-user

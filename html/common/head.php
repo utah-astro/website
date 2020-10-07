@@ -19,7 +19,7 @@
     <link rel="shortcut icon" href="https://templates.utah.edu/_main-v2/_images/favicon.ico" type="image/x-icon">
     <link rel="apple-touch-icon-precomposed" href="https://templates.utah.edu/_main-v2/_images/apple-touch-icon.png">
     <link href="https://templates.utah.edu/_main-v2/_css/main.css" rel="stylesheet" type="text/css" media="all">
-    <link href="../css/custom-styles.css" rel="stylesheet" type="text/css" media="all">
+    <link href="../resources/css/custom-styles.css" rel="stylesheet" type="text/css" media="all">
 
     <!--[if lt IE 9]>
           <script src="//oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>

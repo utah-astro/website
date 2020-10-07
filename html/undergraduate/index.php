@@ -1,8 +1,8 @@
-<?php include '../head.php';?>
+<?php include '../common/head.php';?>
 <body class="two-column-left">
     <!-- Code to be included after the opening <body> tag can go here -->
     <div class="uu-page-wrapper">
-        <?php include '../header.php';?>
+        <?php include '../common/header.php';?>
         <div class="uu-breadcrumb">
             <div class="uu-container">
                 <p class="sr-only">You are here:</p>
@@ -30,7 +30,7 @@
                 <div class="uu-main-bottom row">
                     <div class="uu-main-column">
                         <div class="uu-main-content">
-                            <p><img class="img-float-left" src="/images/banner/bnr_undergrad.jpg"></p>
+                            <p><img class="img-float-left" src="../resources/jpg/bnr_undergrad.jpg"></p>
                             <p>
                                 The University of Utah offers both a minor and a Physics major with an astrophysics emphasis.  Here are some
                                 resources if you are interested in learning some astronomy:
@@ -52,13 +52,13 @@
                             </p>
                         </div>
                     </div>
-                    <?php include '../submenu.php';?>
+                    <?php include '../common/submenu.php';?>
                 </div>
             </div>
         </main>
-        <?php include '../footer.php';?>
+        <?php include '../common/footer.php';?>
     </div>
-    <?php include '../scripts.php';?>
+    <?php include '../common/scripts.php';?>
 </body>
 </html>
 
