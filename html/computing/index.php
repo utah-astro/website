@@ -38,7 +38,6 @@
                                 <li>Data disk: 100 TBs of RAIDed disk space, separated by research group / faculty<br/>
                                 Access via <code>cd /uufs/chpc.utah.edu/common/home/astro</code></li>
                             </ul>
-                            </p>
                             <p>
                                 <h5>Interactive astro nodes (for computation and data analysis):</h5>
                                 <ul>
