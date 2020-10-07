@@ -31,7 +31,29 @@
                     <div class="uu-main-column">
                         <div class="uu-main-content">
                             <p><img class="img-float-left" src="/images/banner/bnr_people.jpg"></p>
-                            <p>The Astronomy group computing resources are Hosted by the <a href="https://www.chpc.utah.edu/">Center for High Performance Computing (CHPC)</a>, and include:</p>
+                            <p>Computing resources are hosted by the <a href="https://www.chpc.utah.edu/">Center for High Performance Computing (CHPC)</a>, and include:</p>
+                            <h5>Astro filesystem:</h5>
+                            <ul>
+                                <li>Home disk: 2 TB total, including daily back up (i.e. shared disk for home directories)</li>
+                                <li>Data disk: 100 TBs of RAIDed disk space, separated by research group / faculty<br/>
+                                Access via <code>cd /uufs/chpc.utah.edu/common/home/astro</code></li>
+                            </ul>
+                            </p>
+                            <p>
+                                <h5>Interactive astro nodes (for computation and data analysis):</h5>
+                                <ul>
+                                    <li>astro01:  392 GB RAM, 40 core, Intel Xeon Gold 6230 CPU @ 2.10 GHz</li>
+                                    <li>astro02:  392 GB RAM, 40 core, Intel Xeon Gold 6230 CPU @ 2.10 GHz</li>
+                                    <li>astro03:  392 GB RAM, 40 core, Intel Xeon Gold 6230 CPU @ 2.10 GHz</li>
+                                    <li>astro04:  392 GB RAM, 40 core, Intel Xeon Gold 6230 CPU @ 2.10 GHz</li>
+                                    <li>astro05:  128 GB RAM, 20 core, 1200 MHz per core</li>
+                                    <li>astro06:  32 GB RAM, 16 core, 2100 MHz per core</li>
+                                    <li>astro07:  64 GB RAM, 16 core, 2100 MHz per core</li>
+                                </ul>
+                            </p>
+                            <p>
+                                Additional high performance computing resources are available through the<br/> <a href="https://www.chpc.utah.edu/">Center for High Performance Computing</a>.
+                            </p>
                         </div>
                     </div>
                     <?php include '../submenu.php';?>
