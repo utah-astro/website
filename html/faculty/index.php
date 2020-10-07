@@ -48,13 +48,15 @@
                                     </p>
                                     <ul>
                                         <li>
-                                            <a href="https://www.physics.utah.edu/~bromley">Research Website</a>
+                                            <a href="http://www.physics.utah.edu/~bromley">Research Website</a>
                                         </li>
                                     </ul>
                                 </div>
                                 <div class="grid-item col-4">
                                     <p>
-                                        <img src="https://www.physics.utah.edu/_images/professors_research/Brownstein.png" alt="Joel Brownstein" width="440" height="440">
+                                        <a href="https://faculty.utah.edu/~joelbrownstein">
+                                            <img src="https://www.physics.utah.edu/_images/professors_research/Brownstein.png" alt="Joel Brownstein" width="440" height="440">
+                                        </a>
                                     </p>
                                     <h3 style="text-align: center;">Joel Brownstein</h3>
                                     <p>
@@ -65,7 +67,7 @@
                                     </p>
                                     <ul>
                                         <li>
-                                            <a href="https://www.physics.utah.edu/~joelbrownstein/">Research Website</a>
+                                            <a href="http://www.physics.utah.edu/~joelbrownstein/">Research Website</a>
                                         </li>
                                         <li>
                                             <a href="http://admin.masterlens.org/">The Master Lens Database</a>
@@ -165,7 +167,7 @@
                                     <p>X-ray astronomy; galaxy clusters; galaxies; black holes; cosmology</p>
                                     <ul>
                                         <li>
-                                            <a href="https://www.physics.utah.edu/~wik/">Research Website</a>
+                                            <a href="http://www.physics.utah.edu/~wik/">Research Website</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -183,7 +185,7 @@
                                     </p>
                                     <ul>
                                         <li>
-                                            <a href="https://www.physics.utah.edu/~zasowski/">Research Website</a>
+                                            <a href="http://www.physics.utah.edu/~zasowski/">Research Website</a>
                                         </li>
                                         <li>
                                             <a href="https://www.sdss.org/future/">SDSS-V</a>
@@ -259,7 +261,7 @@
                                     </ul>
                                 </div>
                                 <div class="grid-item col-4">
-                                    <a href="https://www.physics.utah.edu/~zhaoyue/">
+                                    <a href="http://www.physics.utah.edu/~zhaoyue/">
                                         <img src="https://www.physics.utah.edu/_images/professors_research/Kieda.png" alt="Dave Kieda" width="437" height="437">
                                     </a>
                                     <h3 style="text-align: center;">Dave Kieda</h3>
@@ -316,7 +318,7 @@
                                     </p>
                                     <ul>
                                         <li>
-                                            <a href="https://www.physics.utah.edu/~sandick/">Research Website</a>
+                                            <a href="http://www.physics.utah.edu/~sandick/">Research Website</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -348,7 +350,7 @@
                                 </div>
                                 <div class="grid-item col-4">
                                     &nbsp;
-                                    <a href="https://www.physics.utah.edu/~zhaoyue/">
+                                    <a href="http://www.physics.utah.edu/~zhaoyue/">
                                         <img src="https://www.physics.utah.edu/_images/professors_research/Zhao.png" alt="Yue Zhao" width="438" height="438">
                                     </a>
                                     <h3 style="text-align: center;">Yue Zhao</h3>
@@ -364,7 +366,7 @@
                                     </p>
                                     <ul>
                                         <li>
-                                            <a href="https://www.physics.utah.edu/~zhaoyue/">Research Website</a>
+                                            <a href="http://www.physics.utah.edu/~zhaoyue/">Research Website</a>
                                         </li>
                                     </ul>
                                 </div>
