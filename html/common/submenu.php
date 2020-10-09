@@ -5,7 +5,7 @@
                 <div class="skip-subnav">
                     <a href="#skip-subnav-target">Skip Menu</a>
                 </div>
-                <h3 style="color: #666;">Astronomy and High Energy Astrophysics</h3>
+                <h3 style="color: #666;">Astro Group</h3>
                 <ul>
                     <li class="">
                         <a href="../overview/">Overview</a>

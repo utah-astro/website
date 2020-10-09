@@ -9,7 +9,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0">
     <meta charset="utf-8">
-    <title>Astronomy &amp; Astrophysics  - Department of Physics &amp; Astronomy - The University of
+    <title>Astro Group  - Department of Physics &amp; Astronomy - The University of
              Utah
           </title>
     <meta name="keywords" content="physics,astronomy,university,'university of utah',astrophysics,atomic,'condensed matter',dark,everything,experimental,'high energy','cosmic ray',nanoscience,education,'higher education','nanoscience is huge',nanoscale,neutrinos,'newtonian motion',einstein,feynman,research,'whats that in the sky',colloquium,'solid state',science,'things in space',aliens,'space the final frontier',zoom,theoretical,experimental,spectrum,stars,galaxy,light,nurse,doctor,'life the universe everything','scanning electron microscopy',utes,observatory,telescope,'frisco peak', satellite,moon,milkyway,'milky way',novas,dwarfs,planets,universe,cosmology,'observational astronomy',biophysics,relativity,particles,light,'particle theory',acoustics,'heat acoustics','materials science',ufos,muons,darkmatter, 'dark matter',neutrino,'neutrino detector','graduate school','award winning'">

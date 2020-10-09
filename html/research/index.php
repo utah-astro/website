@@ -14,7 +14,7 @@
                         <a href="https://www.physics.utah.edu/research/">Research</a>
                     </li>
                     <li>
-                        <a href="http://www.physics.utah.edu/research/astronomy-astrophysics.php">Astronomy &amp; Astrophysics</a>
+                        <a href="http://www.physics.utah.edu/research/astronomy-astrophysics.php">Astro Group</a>
                     </li>
                     <li class="active">Research</li>
                 </ol>
@@ -24,7 +24,7 @@
             <div class="uu-container">
                 <div class="uu-main-top row" id="uu-skip-target">
                     <div class="uu-top-content">
-                        <h1 class="page-title">Astronomy and High Energy Astrophysics: Research</h1>
+                        <h1 class="page-title">Astro Group: Research</h1>
                     </div>
                 </div>
                 <div class="uu-main-bottom row">

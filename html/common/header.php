@@ -67,7 +67,7 @@
                                 <a href="https://www.physics.utah.edu/research/">Home</a>
                             </li>
                             <li>
-                                <a href="https://www.physics.utah.edu/research/astronomy-astrophysics.php">Astronomy &amp; Astrophysics</a>
+                                <a href="https://www.physics.utah.edu/research/astronomy-astrophysics.php">Astro Group</a>
                             </li>
                             <li>
                                 <a href="https://www.physics.utah.edu/research/biophysics.php">Biophysics</a>

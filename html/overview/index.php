@@ -14,7 +14,7 @@
                         <a href="https://www.physics.utah.edu/research/">Research</a>
                     </li>
                     <li>
-                        <a href="http://www.physics.utah.edu/research/astronomy-astrophysics.php">Astronomy &amp; Astrophysics</a>
+                        <a href="http://www.physics.utah.edu/research/astronomy-astrophysics.php">Astro Group</a>
                     </li>
                     <li class="active">Overview</li>
                 </ol>
@@ -24,7 +24,7 @@
             <div class="uu-container">
                 <div class="uu-main-top row" id="uu-skip-target">
                     <div class="uu-top-content">
-                        <h1 class="page-title">Astronomy and High Energy Astrophysics: Overview</h1>
+                        <h1 class="page-title">Astro Group: Overview</h1>
                     </div>
                 </div>
                 <div class="uu-main-bottom row">
@@ -77,7 +77,7 @@
 
                             <hr/>
                             <h3>
-                                Astronomy and High Energy Astrophysics at the U
+                                Astro Group at the U
                             </h3>
                             <p><img class="img-float-left" src="../resources/jpg/bnr_home.jpg"></p>
                             <p>In addition to our <a href="../research">research</a>, we provide courses to help <a href="../graduate">graduate</a> and <a href="../undergraduate">undergraduate</a> students come up to speed in cutting-edge research with our <a href="../faculty">faculty</a>.</p>
