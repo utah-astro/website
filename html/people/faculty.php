@@ -12,10 +12,10 @@
     );
 
     <table class="table table-header-shade table-bordered">
-        foreach ($members as $membername => $member) {
+        foreach ($members as $key => $value) {
             <tr>
                 <td>
-                    <span>$membername>/span>
+                    <span>$key</span>
                 </td>
             </tr>
         }
