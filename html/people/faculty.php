@@ -16,7 +16,7 @@
                 "image" => "https://faculty.utah.edu/bytes/image.hml?id=u0707758",
                 "homepage" => "http://faculty.utah.edu/u0791607-TABITHA_CHRISTI_BUEHLER/research/index.hml",
                 "keywords" => "Best Teaching Practices, Public Outreach, Informal Education Engagement",
-                "datascience" => ""),
+                "datascience" => "")
         );
     } catch (Exception $e) {
         echo $e->getMessage();
