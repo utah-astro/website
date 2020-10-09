@@ -7,7 +7,7 @@
                 <p>
                     INSCC Building (<a target="_blank" href="http://www.map.utah.edu/index.html?find=0019">map</a>)
                     <br/>
-                    2nd and 3rd floor
+                    3rd floor
                     <br/>
                     SLC, UT 84112-0830
                     <br/>

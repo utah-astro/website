@@ -32,7 +32,7 @@
             "Daniel Wik" => array(
                 "image" => "https://faculty.utah.edu/bytes/image.hml?id=u6008171",
                 "homepage" => "http://www.astro.utah.edu/~wik/",
-                "keywords" => "X-ray Astronomy, Galaxy Clusters Galaxies, Black Holes, Cosmology"
+                "keywords" => "X-ray Astronomy, Galaxy Clusters, Galaxies, Black Holes, Cosmology"
                 ),
             "Gail Zasowski" => array(
                 "image" => "https://faculty.utah.edu/bytes/image.hml?id=u0948422",
