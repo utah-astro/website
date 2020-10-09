@@ -28,6 +28,9 @@
                     <li class="">
                         <a target="_blank" href="http://www.physics.utah.edu/weo">Willard Eccles Observatory</a>
                     </li>
+                    <li class="">
+                        <a target="_blank" href="https://observatory.astro.utah.edu/">South Physics Observatory (on campus)</a>
+                    </li>
                 </ul>
                 <h4 style="color: #666;">Events</h4>
                 <ul>
