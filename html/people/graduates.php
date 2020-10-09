@@ -4,7 +4,7 @@
         $members = array(
             "Michael S. Talbot" => array(
                 "image" => "https://hcav.am/wp-content/uploads/2020/03/work-on-laptop-icon-150x150.jpg",
-                "keywords" => "Galaxy-Galaxy Strong Gravitation Lensing, Spectroscopic Identification of Lensing Objects (SILO) Project",
+                "keywords" => "Galaxy-Galaxy Strong Gravitational Lensing, Spectroscopic Identification of Lensing Objects (SILO) Project",
                 "advisor" => "Prof. Joel Brownstein"
                 )
         );
