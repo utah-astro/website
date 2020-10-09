@@ -21,7 +21,7 @@
             "Kyle Dawson" => array(
                 "image" => "https://faculty.utah.edu/bytes/image.hml?id=u0634757",
                 "homepage" => "http://faculty.utah.edu/u0634757-KYLE_DAWSON/research/index.hml",
-                "keywords" => "Origins of Cosmic Acceleration, Cosmology, Galaxy Clustering"
+                "keywords" => "Origins of Cosmic Acceleration, Cosmology, Galaxy Clustering",
                 "affiliations" => "<a target='_blank' href='https://www.sdss.org/surveys/eboss/'>eBOSS</a>, <a target='_blank' href='https://www.desi.lbl.gov'>DESI</a>, <a target='_blank' href='https://datascience.utah.edu'>Utah Center For Data Science</a>"
                 )
         );
