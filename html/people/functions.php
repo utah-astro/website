@@ -1,20 +1,20 @@
 <?php
     function membertable($members) {
         if ( isset($members) ) {
-            $star = fa('star-o');
-            $term = fa('terminal');
+            $astro = fa('star-o');
+            $conn = fa('connectdevelop');
             echo "<table class='table table-header-shade table-bordered'>";
             foreach ($members as $name => $member) {
                 $image = $member["image"];
                 $homepage = $member["homepage"];
                 $keywords = $member["keywords"];
-                $datascience = $member["datascience"];
+                $dataconn = $member["dataconn"];
                 echo "<tr>";
                 echo "<td width='150'><a href='$homepage'><img src='$image' alt='$name' width='150' height='150'></a></td>";
                 echo "<td>";
                 echo "<h4><a href='$homepage'>$name</a></h4>";
-                if ( isset($keywords) ) {echo "<p>$star $keywords</p>";}
-                if ( isset($datascience) ) {echo "<p>$term $datascience</p>";}
+                if ( isset($keywords) ) {echo "<p>$astro $keywords</p>";}
+                if ( isset($connectdev) ) {echo "<p>$conn $dataconn</p>";}
                 echo "</td>";
                 echo "</tr>";
             }
