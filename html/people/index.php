@@ -24,18 +24,16 @@
             <div class="uu-container">
                 <div class="uu-main-top row" id="uu-skip-target">
                     <div class="uu-top-content">
-                        <h1 class="page-title">Astro Group: Faculty</h1>
+                        <h1 class="page-title">Astro Group: People</h1>
                     </div>
                 </div>
                 <div class="uu-main-bottom row">
                     <div class="uu-main-column">
                         <div class="uu-main-content">
                             <div class="scroll-overflow-sm">
-                                <table class="table table-striped table-header-shade table-bordered">
-                                    <tr><td colspan='2'>Faculty</td></tr>
-                                    <tr><td colspan='2'>Postdocs</td></tr>
-                                    <tr><td colspan='2'>Graduate Students</td></tr>
-                                </table>
+                                <?php include 'faculty.php';?>
+                                <?php include 'postdocs.php';?>
+                                <?php include 'graduates.php';?>
                             </div>
                         </div>
                     </div>
