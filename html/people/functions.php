@@ -1,6 +1,8 @@
 <?php
     function membertable($members) {
         if ( isset($members) ) {
+            $star = fa('star-o');
+            $term = fa('terminal');
             echo "<table class='table table-header-shade table-bordered'>";
             foreach ($members as $name => $member) {
                 $image = $member["image"];
@@ -11,12 +13,16 @@
                 echo "<td width='150'><a href='$homepage'><img src='$image' alt='$name' width='150' height='150'></a></td>";
                 echo "<td>";
                 echo "<h4><a href='$homepage'>$name</a></h4>";
-                if ( isset($keywords) ) {echo "<p><i class='fa fa-star-o' aria-hidden='true'></i> $keywords</p>";}
-                if ( isset($datascience) ) {echo "<p>$datascience</p>";}
+                if ( isset($keywords) ) {echo "<p>$star $keywords</p>";}
+                if ( isset($datascience) ) {echo "<p>$term $datascience</p>";}
                 echo "</td>";
                 echo "</tr>";
             }
             echo "</table>";
         }
+    }
+
+    function fa($icon) {
+        return "<i class=\"fa fa-'.$icon.'\" aria-hidden=\"true\"></i>";
     }
 ?>
