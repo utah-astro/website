@@ -22,5 +22,6 @@
         echo $e->getMessage();
         $members = NULL;
     }
-    membertable($members);
+    echo "test";
+    //membertable($members);
 ?>
