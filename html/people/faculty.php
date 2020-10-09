@@ -27,7 +27,7 @@
             "Anil Seth" => array(
                 "image" => "https://faculty.utah.edu/bytes/image.hml?id=u0778105",
                 "homepage" => "http://www.astro.utah.edu/~aseth/",
-                "links" => "<a target='_blank' href='https://www.nasa.gov/mission_pages/hubble/spacecraft/index.html'>Hubble Space Telescope</a>"
+                "links" => "<a target='_blank' href='https://www.nasa.gov/mission_pages/hubble/spacecraft/index.html'>Hubble Space Telescope</a>",
                 "keywords" => "Galaxy Formation, Nearby Galaxies, Massive Star Clusters &amp; Black Holes in Galaxy Centers"
                 ),
             "Daniel Wik" => array(
