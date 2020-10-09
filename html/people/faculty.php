@@ -11,4 +11,13 @@
             "keywords" => "Galaxies")
     );
 
+    <table class="table table-header-shade table-bordered">
+        foreach ($members as $membername => $member) {
+            <tr>
+                <td>
+                    <span>$membername>/span>
+                </td>
+            </tr>
+        }
+    </table>
 ?>
