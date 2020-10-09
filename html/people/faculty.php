@@ -37,7 +37,7 @@
             "Gail Zasowski" => array(
                 "image" => "https://faculty.utah.edu/bytes/image.hml?id=u0948422",
                 "homepage" => "http://www.physics.utah.edu/~zasowski/",
-                "keywords" => "Galactic Archeology, The Milky Way, Stellar Populations, The Interstellar Medium"
+                "keywords" => "Galactic Archeology, The Milky Way, Stellar Populations, The Interstellar Medium",
                 "affiliations" => "<a target='_blank' href='https://www.sdss.org/surveys/apogee/'>APOGEE-2</a>, <a target='_blank' href='https://test.sdss5.org'>SDSS-V (coming soon)</a>"
                 ),
             "Zheng Zheng" => array(
