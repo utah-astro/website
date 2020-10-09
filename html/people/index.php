@@ -16,7 +16,7 @@
                     <li>
                         <a href="http://www.physics.utah.edu/research/astronomy-astrophysics.php">Astro Group</a>
                     </li>
-                    <li class="active">Faculty</li>
+                    <li class="active">People</li>
                 </ol>
             </div>
         </div>

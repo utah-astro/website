@@ -20,7 +20,7 @@
                         <a href="../undergraduate/">Undergraduate Program</a>
                     </li>
                     <li class="">
-                        <a href="../faculty/">Faculty</a>
+                        <a href="../people/">People</a>
                     </li>
                     <li class="">
                         <a href="../computing/">Computing Resources</a>
