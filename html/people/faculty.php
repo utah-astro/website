@@ -9,7 +9,7 @@
                 ),
             "Joel Brownstein" => array(
                 "image" => "https://faculty.utah.edu/bytes/image.hml?id=u0707758",
-                "homepage" => "https://astro.utah.edu/~joelbrownstein",
+                "homepage" => "http://physics.utah.edu/~joelbrownstein",
                 "keywords" => "Galaxy Clustering and Evolution, Dark Matter, Gravitational Lensing, Cosmology, Gravity, Data Access, Data Visualization, Machine Learning",
                 "affiliations" => "<a target='_blank' href='https://data.sdss.org'>SDSS-IV Data</a>, <a target='_blank' href='https://test.sdss5.org'>SDSS-V (coming soon)</a>, <a target='_blank' href='https://datascience.utah.edu'>Utah Center For Data Science</a>"
                 ),
@@ -26,15 +26,23 @@
                 ),
             "Anil Seth" => array(
                 "image" => "https://faculty.utah.edu/bytes/image.hml?id=u0778105",
-                "homepage" => "http://www.astro.utah.edu/~aseth/"
+                "homepage" => "http://www.astro.utah.edu/~aseth/",
+                "keywords" => "Galaxy Formation, Nearby Galaxies, Massive Star Clusters &amp; Black Holes in Galaxy Centers"
                 ),
             "Daniel Wik" => array(
                 "image" => "https://faculty.utah.edu/bytes/image.hml?id=u6008171",
-                "homepage" => "http://www.astro.utah.edu/~wik/"
+                "homepage" => "http://www.astro.utah.edu/~wik/",
+                "keywords" => "X-ray Astronomy, Galaxy Clusters Galaxies, Black Holes, Cosmology"
                 ),
             "Gail Zasowski" => array(
                 "image" => "https://faculty.utah.edu/bytes/image.hml?id=u0948422",
-                "homepage" => "http://www.physics.utah.edu/~zasowski/"
+                "homepage" => "http://www.physics.utah.edu/~zasowski/",
+                "keywords" => "Galactic Archeology, The Milky Way, Stellar Populations, The Interstellar Medium"
+                ),
+            "Zheng Zheng" => array(
+                "image" => "https://faculty.utah.edu/bytes/image.hml?id=u0786031",
+                "homepage" => "http://www.astro.utah.edu/~zhengzheng/",
+                "keywords" => "Galaxy Formation and Evolution, Cosmology, Large-Scale Structure, Cosmic Reionization"
                 )
         );
     } catch (Exception $e) {
