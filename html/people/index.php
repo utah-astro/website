@@ -89,26 +89,26 @@
                                                                             and informal education.</span>
                                     </p>
                                     <p>
-                                        <span>
+                                        <!-- <span>
                                             Please read about her
                                             <a href="/_documents/Teaching%20Philosophy%20of%20Tabitha%20Buehler.pdf">teaching philosophy</a>
                                             :&nbsp;
-                                        </span>
+                                        </span> -->
                                         &nbsp;
 
                                     </p>
                                     <ul>
-                                        <li>
+                                        <!-- <li>
                                             <a href="/_documents/Reading%20Notes--Waves%20and%20Superposition.pdf">Reading Notes: Waves and Superposition</a>
                                         </li>
                                         <li>
                                             <a href="/_documents/Astroblaster%20Experiment.pdf">Astroblaster Experiment</a>
-                                        </li>
+                                        </li> -->
                                         <li>
                                             <a href="https://observatory.astro.utah.edu/outreach.html">AstronomUrs</a>
                                         </li>
                                         <li>
-                                            <a href="http://web.utah.edu/astro/">South Physics Observatory</a>
+                                            <a href="https://observatory.astro.utah.edu/">South Physics Observatory</a>
                                         </li>
                                     </ul>
                                     <p>&nbsp;</p>
