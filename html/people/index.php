@@ -30,9 +30,12 @@
                 <div class="uu-main-bottom row">
                     <div class="uu-main-column">
                         <div class="uu-main-content">
-                            <div class="row layout-grid ">
-                                <div class="grid-item col-4">Faculty</div>
-                                <div class="grid-item col-8">Research Topics</div>
+                            <div class="scroll-overflow-sm">
+                                <table class="table table-striped table-header-shade table-bordered">
+                                    <tr><td colspan='2'>Faculty</td></tr>
+                                    <tr><td colspan='2'>Postdocs</td></tr>
+                                    <tr><td colspan='2'>Graduate Students</td></tr>
+                                </table>
                             </div>
                         </div>
                     </div>
