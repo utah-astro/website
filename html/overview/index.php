@@ -40,7 +40,9 @@
                                                     </div>
                             <div>&nbsp;</div>
 
-                            <p>Our University is a member of and data center for the the <a target="_blank" href="https://www.sdss.org">Sloan Digital Sky Survey</a> collaboration (SDSS III, IV, and V surveys). The U is also a part of the Telescope Array cosmic ray experiment, the Veritas gamma-ray astronomy project, and HAWC, which is sensitive to both cosmic rays and gamma rays.</p>
+                            <p>The University of Utah is a member of and data center for the the <a target="_blank" href="https://www.sdss.org">Sloan Digital Sky Survey</a> 
+                                 (both SDSS-IV and -V collaborations). The U is also a part of the Telescope Array cosmic ray experiment, 
+                                the Veritas gamma-ray astronomy project, and HAWC, which is sensitive to both cosmic rays and gamma rays.</p>
 
                             <p class="h3">Astronomy</p>
 

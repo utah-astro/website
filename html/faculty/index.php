@@ -167,7 +167,7 @@
                                     <p>X-ray astronomy; galaxy clusters; galaxies; black holes; cosmology</p>
                                     <ul>
                                         <li>
-                                            <a href="http://www.physics.utah.edu/~wik/">Research Website</a>
+                                            <a href="http://www.astro.utah.edu/~wik/">Research Website</a>
                                         </li>
                                     </ul>
                                 </div>
