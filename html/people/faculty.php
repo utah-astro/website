@@ -15,14 +15,26 @@
                 ),
             "Tabitha Buehler" => array(
                 "image" => "https://faculty.utah.edu/bytes/image.hml?id=u0791607",
-                "homepage" => "",
+                "homepage" => "https://faculty.utah.edu/u0791607-TABITHA_BUEHLER/research/index.hml",
                 "keywords" => "Best Teaching Practices, Public Outreach, Informal Education Engagement"
                 ),
             "Kyle Dawson" => array(
                 "image" => "https://faculty.utah.edu/bytes/image.hml?id=u0634757",
-                "homepage" => "http://faculty.utah.edu/u0634757-KYLE_DAWSON/research/index.hml",
+                "homepage" => "http://www.astro.utah.edu/~kdawson/",
                 "keywords" => "Origins of Cosmic Acceleration, Cosmology, Galaxy Clustering",
                 "affiliations" => "<a target='_blank' href='https://www.sdss.org/surveys/eboss/'>eBOSS</a>, <a target='_blank' href='https://www.desi.lbl.gov'>DESI</a>, <a target='_blank' href='https://datascience.utah.edu'>Utah Center For Data Science</a>"
+                ),
+            "Anil Seth" => array(
+                "image" => "https://faculty.utah.edu/bytes/image.hml?id=u0778105",
+                "homepage" => "http://www.astro.utah.edu/~aseth/"
+                )
+            "Daniel Wik" => array(
+                "image" => "https://faculty.utah.edu/bytes/image.hml?id=u6008171",
+                "homepage" => "http://www.astro.utah.edu/~wik/"
+                )
+            "Gail Zasowski" => array(
+                "image" => "https://faculty.utah.edu/bytes/image.hml?id=u0948422",
+                "homepage" => "http://www.physics.utah.edu/~zasowski/"
                 )
         );
     } catch (Exception $e) {
