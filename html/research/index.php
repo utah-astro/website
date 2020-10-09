@@ -40,7 +40,7 @@
                             helps form the clumps, while another, dark energy, is starting
                             to drive an accelerated expansion of these clumps away from each
                             other. A main goal is to identify both dark matter and dark energy.
-                            [<a href="http://www.physics.utah.edu/~joelbrownstein/">Brownstein</a>, <a href="http://www.physics.utah.edu/~kdawson/">Dawson</a>, <a href="http://www.physics.utah.edu/~wik/">Wik</a>, <a href="http://www.physics.utah.edu/~zhengzheng/">Zheng</a>]
+                            [<a href="http://www.physics.utah.edu/~joelbrownstein/">Brownstein</a>, <a href="http://www.physics.utah.edu/~kdawson/">Dawson</a>, <a href="http://www.astro.utah.edu/~wik/">Wik</a>, <a href="http://www.physics.utah.edu/~zhengzheng/">Zheng</a>]
                             <br>&nbsp;
                             <br>
 
@@ -59,7 +59,7 @@
                             stars packed into a region of space smaller than our solar system.
                             We look at how these objects grow and influence the growth of
                             their host galaxies. Their origin remains a mystery....
-                            [<a href="http://www.physics.utah.edu/~aseth/">Seth</a>, <a href="http://www.physics.utah.edu/~bromley/">Bromley</a>, <a href="http://www.physics.utah.edu/~wik/">Wik</a>]
+                            [<a href="http://www.physics.utah.edu/~aseth/">Seth</a>, <a href="http://www.physics.utah.edu/~bromley/">Bromley</a>, <a href="http://www.astro.utah.edu/~wik/">Wik</a>]
                             <br>&nbsp;
                             <br>
 
@@ -82,7 +82,7 @@
                             may reveal itself in interactions that can lead to
                             showers of high energy particles. So far there
                             have been only tentative hints of detections. Thus,
-                            the mystery continues. [<a href="http://www.physics.utah.edu/~joelbrownstein/">Brownstein</a>, <a href="http://faculty.utah.edu/u0410334-PAOLO_GONDOLO/biography/index.hml">Gondolo</a>, <a href="http://www.physics.utah.edu/~sandick/">Sandick</a>, <a href="http://www.physics.utah.edu/~wik/">Wik</a>, <a href="http://www.physics.utah.edu/~zhaoyue/">Zhao</a>]
+                            the mystery continues. [<a href="http://www.physics.utah.edu/~joelbrownstein/">Brownstein</a>, <a href="http://faculty.utah.edu/u0410334-PAOLO_GONDOLO/biography/index.hml">Gondolo</a>, <a href="http://www.physics.utah.edu/~sandick/">Sandick</a>, <a href="http://www.astro.utah.edu/~wik/">Wik</a>, <a href="http://www.physics.utah.edu/~zhaoyue/">Zhao</a>]
                             <br>&nbsp;
                             <br>
 
@@ -91,7 +91,7 @@
                             at high-energy particles in the cosmos. The
                             source of these particles is not entirely certain,
                             but some likely involve physics near the
-                            edge of supermassive black holes. [<a href="http://faculty.utah.edu/u0028378-DAVID_B_KIEDA/biography/index.hml">Kieda</a>, <a href="http://www.physics.utah.edu/~springer/">Springer</a>, <a href="http://www.physics.utah.edu/~wik/">Wik</a>, <a href="http://www.physics.utah.edu/index.php/research/cosmic-rays">Cosmic Ray Group</a>].
+                            edge of supermassive black holes. [<a href="http://faculty.utah.edu/u0028378-DAVID_B_KIEDA/biography/index.hml">Kieda</a>, <a href="http://www.physics.utah.edu/~springer/">Springer</a>, <a href="http://www.astro.utah.edu/~wik/">Wik</a>, <a href="http://www.physics.utah.edu/index.php/research/cosmic-rays">Cosmic Ray Group</a>].
                             <br>&nbsp;
                             <br>
 
