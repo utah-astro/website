@@ -23,6 +23,6 @@
     }
 
     function fa($icon) {
-        return "<i class=\"fa fa-'".$icon."'\" aria-hidden=\"true\"></i>";
+        return "<i class=\"fa fa-".$icon."\" aria-hidden=\"true\"></i>";
     }
 ?>
