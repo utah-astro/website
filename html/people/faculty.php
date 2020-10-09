@@ -13,5 +13,7 @@
         );
     } catch (Exception $e) {
         echo $e->getMessage();
+        $members = NULL;
     }
+    membertable($members);
 ?>

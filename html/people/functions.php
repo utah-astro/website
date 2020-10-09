@@ -1,6 +1,6 @@
 <?php
     function membertable($members) {
-        try {
+        if (isset($members)) {
             echo "<table class='table table-header-shade table-bordered'>";
             foreach ($members as $name => $member) {
                 echo "<tr>";
@@ -12,8 +12,6 @@
                 echo "</tr>";
             }
             echo "</table>";
-        } catch (Exception $e) {
-            echo "Exception: '",  $e->getMessage(), "\n";
         }
     }
 ?>

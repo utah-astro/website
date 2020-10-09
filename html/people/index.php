@@ -32,7 +32,7 @@
                     <div class="uu-main-column">
                         <div class="uu-main-content">
                             <div class="scroll-overflow-sm">
-                                <?php include 'faculty.php';?>
+                                <?php include 'faculty.php'; ?>
                                 <?php include 'postdocs.php';?>
                                 <?php include 'graduates.php';?>
                             </div>
