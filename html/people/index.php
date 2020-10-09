@@ -1,3 +1,4 @@
+<?php include 'functions.php';?>
 <?php include '../common/head.php';?>
 <body class="two-column-left">
     <!-- Code to be included after the opening <body> tag can go here -->
