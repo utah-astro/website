@@ -1,5 +1,4 @@
 <?php include '../common/head.php';?>
-<?php include 'functions.php';?>
 <body class="two-column-left">
     <!-- Code to be included after the opening <body> tag can go here -->
     <div class="uu-page-wrapper">

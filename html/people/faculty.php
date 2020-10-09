@@ -14,5 +14,4 @@
     } catch (Exception $e) {
         echo 'Exception: ',  $e->getMessage(), "\n";
     }
-    membertable($members);
 ?>
