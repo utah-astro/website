@@ -32,12 +32,11 @@
                         <div class="uu-main-content">
                             <p><img class="img-float-left" src="../resources/jpg/bnr_gradprogram.jpg"></p>
                             <p>
-                                The University of Utah now offers a full array of
-                                courses in graduate physics, astrophysics and astronomy. These
+                                The University of Utah offers a full array of
+                                courses in graduate physics, astrophysics, and astronomy. These
                                 courses, along with research opportunites with our faculty,
-                                help enable students to receive
+                                enable students to receive
                                 a Ph.D. in Physics with Emphasis in Astronomy and Astrophysics.
-
                             </p>
                             <p>
                                 This page provides some resources for you if you are currently
