@@ -35,6 +35,7 @@
                     <?php include '../common/submenu.php';?>
                 </div>
             </div>
+        <?php include 'http://physics.utah.edu/~heap';?>
         </main>
         <?php include '../common/footer.php';?>
     </div>
