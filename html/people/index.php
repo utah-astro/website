@@ -32,17 +32,6 @@
                         <div class="uu-main-content">
                             <div class="scroll-overflow-sm">
                                 <?php include 'faculty.php';?>
-                                <table class="table table-header-shade table-bordered">
-                                    foreach ($persons as $name => $person) {
-                                        <tr>
-                                            <td width="150"><img src="$person->image" alt="$name" width="150" height="150"></td>
-                                            <td>
-                                                <h4><a href="$person->homepage">$name</a></h4>
-                                                <span>$person->keywords</span>
-                                            </td>
-                                        </tr>
-                                    }
-                                </table>
                                 <?php include 'postdocs.php';?>
                                 <?php include 'graduates.php';?>
                             </div>
