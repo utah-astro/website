@@ -38,7 +38,7 @@
                         <a target="_blank" href="http://www.physics.utah.edu/events/">Colloquium (Calendar)</a>
                     </li>
                     <li class="">
-                        <a target="_blank" href="http://utah.voxcharta.org/">Astrocoffee (voxcharta)</a>
+                        <a target="_blank" href="https://www.benty-fields.com/">Astrocoffee (Benty Fields)</a>
                     </li>
                 </ul>
             </div>
