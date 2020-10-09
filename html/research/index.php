@@ -86,15 +86,6 @@
                             <br>&nbsp;
                             <br>
 
-                            <li><b>Experimental and Observational High Energy Astrophysics.</b> Utah is
-                            part of VERITAS, HAWC, and TA collaborations looking
-                            at high-energy particles in the cosmos. The
-                            source of these particles is not entirely certain,
-                            but some likely involve physics near the
-                            edge of supermassive black holes. [<a href="http://faculty.utah.edu/u0028378-DAVID_B_KIEDA/biography/index.hml">Kieda</a>, <a href="http://www.physics.utah.edu/~springer/">Springer</a>, <a href="http://www.physics.utah.edu/~wik/">Wik</a>, <a href="http://www.physics.utah.edu/index.php/research/cosmic-rays">Cosmic Ray Group</a>].
-                            <br>&nbsp;
-                            <br>
-
                             <li><b>Planets.</b> Amidst dark energy and dark matter, within
                             huge galaxies and around stars, small particles of dust began
                             to glom together to form planets. Our view of planets in the

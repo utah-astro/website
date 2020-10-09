@@ -50,6 +50,9 @@
                                     <li>astro07:  64 GB RAM, 16 core, 2100 MHz per core</li>
                                 </ul>
                             </p>
+                            <p>
+                            <a target="_blank" href="https://docs.google.com/document/d/1gFNYtmOuLpHJynnK5raI0eK2CQGr4xcCp4hwH9g77Ps/edit?usp=sharing">Click here for our computing help file</a>
+                            </p>
                         </div>
                     </div>
                     <?php include '../common/submenu.php';?>
