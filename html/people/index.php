@@ -9,13 +9,7 @@
                 <p class="sr-only">You are here:</p>
                 <ol class="breadcrumb">
                     <li>
-                        <a href="https://www.physics.utah.edu/">Home</a>
-                    </li>
-                    <li>
-                        <a href="https://www.physics.utah.edu/research/">Research</a>
-                    </li>
-                    <li>
-                        <a href="http://www.physics.utah.edu/research/astronomy-astrophysics.php">Astro Group</a>
+                        <a href="../overview">Astro Group</a>
                     </li>
                     <li class="active">People</li>
                 </ol>
