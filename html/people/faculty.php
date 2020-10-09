@@ -1,5 +1,4 @@
 <h2>Astro Group Faculty</h2>
-<table class="table table-header-shade table-bordered">
 <?php
     try {
         $members = array(
@@ -12,7 +11,7 @@
                 "homepage" => "https://faculty.utah.edu/~joelbrownstein",
                 "keywords" => "Galaxies")
         );
-
+        echo "<table class='table table-header-shade table-bordered'>";
         foreach ($members as $key => $value) {
             echo "<tr>";
             echo "    <td width='150'><img src='$member->image' alt='$membername' width='150' height='150'></td>";
@@ -22,9 +21,9 @@
             echo "    </td>";
             echo "</tr>";
         }
+        echo "</table>";
         
     } catch (Exception $e) {
         echo 'Exception: ',  $e->getMessage(), "\n";
     }
-</table>
 ?>
