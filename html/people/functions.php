@@ -11,7 +11,7 @@
                 echo "<td width='150'><a href='$homepage'><img src='$image' alt='$name' width='150' height='150'></a></td>";
                 echo "<td>";
                 echo "<h4><a href='$homepage'>$name</a></h4>";
-                if ( isset($keywords) ) {echo "<p>$keywords</p>";}
+                if ( isset($keywords) ) {echo "<p><i class='fa fa-star-o' aria-hidden='true'></i> $keywords</p>";}
                 if ( isset($datascience) ) {echo "<p>$datascience</p>";}
                 echo "</td>";
                 echo "</tr>";
