@@ -49,7 +49,7 @@
                             Milky Way, each contain billions of stars (give or take!), as well as
                             mysterious dark matter. We look to see how galaxies were assembled and
                             how they interact with each other, giving clues about the formation of
-                            stars and the nature of dark matter. [<a href="http://www.physics.utah.edu/~joelbrownstein/">Brownstein</a>, <a href="http://www.physics.utah.edu/~iii/">Ivans</a>, <a href="http://www.physics.utah.edu/~aseth/">Seth</a>, <a href="http://www.physics.utah.edu/~zasowski/">Zasowski</a>, <a href="http://www.physics.utah.edu/~zhengzheng/">Zheng</a>]
+                            stars and the nature of dark matter. [<a href="http://www.physics.utah.edu/~joelbrownstein/">Brownstein</a>, <a href="http://www.physics.utah.edu/~aseth/">Seth</a>, <a href="http://www.physics.utah.edu/~zasowski/">Zasowski</a>, <a href="http://www.physics.utah.edu/~zhengzheng/">Zheng</a>]
                             <br>&nbsp;
                             <br>
 
@@ -69,7 +69,7 @@
                             By studying the how these elements are spread across
                             different populations of stars in the Milky Way Galaxy,
                             we can understand the origin of carbon, oxygen and other
-                            elements of which we are composed. Spectroscopy also tells us about how the stars are moving, how old they are, and other properties that let us understand how the Milky Way formed and has changed over time.  [<a href="http://www.physics.utah.edu/~iii/">Ivans</a>, <a href="http://www.physics.utah.edu/~aseth/">Seth</a>, <a href="http://www.physics.utah.edu/~zasowski/">Zasowski</a>]
+                            elements of which we are composed. Spectroscopy also tells us about how the stars are moving, how old they are, and other properties that let us understand how the Milky Way formed and has changed over time.  [<a href="http://www.physics.utah.edu/~aseth/">Seth</a>, <a href="http://www.physics.utah.edu/~zasowski/">Zasowski</a>]
                             <br>&nbsp;
                             <br>
 
