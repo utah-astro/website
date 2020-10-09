@@ -9,7 +9,7 @@
                 $homepage = $member["homepage"];
                 $keywords = $member["keywords"];
                 $affiliations = $member["affiliations"];
-                $advisor = $member["$advisor"];
+                $advisor = $member["advisor"];
                 echo "<tr>";
                 echo "<td width='150'><a href='$homepage'><img src='$image' alt='$name' width='150' height='150'></a></td>";
                 echo "<td>";
