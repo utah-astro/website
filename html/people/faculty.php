@@ -11,12 +11,7 @@
                 "image" => "https://faculty.utah.edu/bytes/image.hml?id=u0707758",
                 "homepage" => "https://faculty.utah.edu/~joelbrownstein",
                 "keywords" => "Galaxy Clustering and Evolution, Dark Matter, Gravitational Lensing, Cosmology, Gravity",
-                "datascience" => "Machine Learning, Deep Learning, Data Mining, Data Access, Data Visualization"),
-            "Tabitha Buehler" => array(
-                "image" => "https://faculty.utah.edu/bytes/image.hml?id=u0707758",
-                "homepage" => "http://faculty.utah.edu/u0791607-TABITHA_CHRISTI_BUEHLER/research/index.hml",
-                "keywords" => "Best Teaching Practices, Public Outreach, Informal Education Engagement",
-                "datascience" => "")
+                "datascience" => "Machine Learning, Deep Learning, Data Mining, Data Access, Data Visualization")
         );
     } catch (Exception $e) {
         echo $e->getMessage();
