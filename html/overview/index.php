@@ -41,10 +41,7 @@
                             <div>&nbsp;</div>
 
                             <p>The University of Utah is a member of and data center for the the <a target="_blank" href="https://www.sdss.org">Sloan Digital Sky Survey</a> 
-                                 (both SDSS-IV and -V collaborations). The U is also a part of the Telescope Array cosmic ray experiment, 
-                                the Veritas gamma-ray astronomy project, and HAWC, which is sensitive to both cosmic rays and gamma rays.</p>
-
-                            <p class="h3">Astronomy</p>
+                                 (both SDSS-IV and -V collaborations).</p>
 
                             <div>
                                 The University of Utah is a key contributor to cutting-edge survey science. Faculty
@@ -62,21 +59,6 @@
                             </div>
                             
                             </p>
-                            <p class="h3">High Energy Astrophysics</p>
-                            <p>Astrophysicists study celestial bodies such as stars and galaxies by observing their
-                                                       light emissions and particles. These two fields operate on very different scales:
-                                                       one deals with subatomic particles, the other with the Universe at large. Yet they
-                                                       intertwine when addressing some of our most profound scientific questions, such as
-                                                       "What is the origin fate of the universe?" and "What is the nature of dark energy
-                                                       that drives the accelerating expansion of the universe?"
-                                                    </p>
-                            <p>Researchers at the University of Utah’s Department of Physics and Astronomy are carrying
-                                                       out large-scale computer calculations to recreate the conditions of the quark-gluon
-                                                       plasma. We are able to study the formation of protons and neutrons as the Universe
-                                                       cooled. Such information is vital to our understanding of how the Universe came into
-                                                       being.
-                                                    </p>
-
                             <hr/>
                             <h3>
                                 Astro Group at the U
