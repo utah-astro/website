@@ -11,7 +11,7 @@
                 "image" => "https://faculty.utah.edu/bytes/image.hml?id=u0707758",
                 "homepage" => "http://physics.utah.edu/~joelbrownstein",
                 "keywords" => "Galaxy Clustering and Evolution, Dark Matter, Gravitational Lensing, Cosmology, Gravity, Data Access, Data Visualization, Machine Learning",
-                "affiliations" => "<a target='_blank' href='https://data.sdss.org'>SDSS-IV Data</a>, <a target='_blank' href='https://test.sdss5.org'>SDSS-V (coming soon)</a>, <a target='_blank' href='https://datascience.utah.edu'>Utah Center For Data Science</a>, <a target='_blank' href='https://admin.masterlens.org'>The Master Lens Database</a>"
+                "affiliations" => "<a target='_blank' href='https://data.sdss.org'>SDSS-IV</a>, <a target='_blank' href='https://test.sdss5.org'>SDSS-V</a>, <a target='_blank' href='https://datascience.utah.edu'>Utah Center For Data Science</a>, <a target='_blank' href='https://admin.masterlens.org'>The Master Lens Database</a>"
                 ),
             "Tabitha Buehler" => array(
                 "image" => "https://faculty.utah.edu/bytes/image.hml?id=u0791607",
