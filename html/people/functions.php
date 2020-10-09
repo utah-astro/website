@@ -14,7 +14,7 @@
                 echo "<td>";
                 echo "<h4><a href='$homepage'>$name</a></h4>";
                 if ( isset($keywords) ) {echo "<p>$astro $keywords</p>";}
-                if ( isset($connectdev) ) {echo "<p>$conn $dataconn</p>";}
+                if ( isset($dataconn) ) {echo "<p>$conn $dataconn</p>";}
                 echo "</td>";
                 echo "</tr>";
             }
