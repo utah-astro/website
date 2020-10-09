@@ -12,6 +12,6 @@
                 "keywords" => "Galaxies")
         );
     } catch (Exception $e) {
-        echo 'Exception: ',  $e->getMessage(), "\n";
+        echo $e->getMessage();
     }
 ?>
