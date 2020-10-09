@@ -40,7 +40,7 @@
                             helps form the clumps, while another, dark energy, is starting
                             to drive an accelerated expansion of these clumps away from each
                             other. A main goal is to identify both dark matter and dark energy.
-                            [<a href="http://www.physics.utah.edu/~joelbrownstein/">Brownstein</a>, <a href="http://www.physics.utah.edu/~kdawson/">Dawson</a>, <a href="http://www.astro.utah.edu/~wik/">Wik</a>, <a href="http://www.physics.utah.edu/~zhengzheng/">Zheng</a>]
+                            [<a href="http://www.physics.utah.edu/~joelbrownstein/">Brownstein</a>, <a href="http://www.physics.utah.edu/~kdawson/">Dawson</a>, <a href="http://www.astro.utah.edu/~wik/">Wik</a>, <a href="http://www.astro.utah.edu/~zhengzheng/">Zheng</a>]
                             <br>&nbsp;
                             <br>
 
@@ -49,7 +49,7 @@
                             Milky Way, each contain billions of stars (give or take!), as well as
                             mysterious dark matter. We look to see how galaxies were assembled and
                             how they interact with each other, giving clues about the formation of
-                            stars and the nature of dark matter. [<a href="http://www.physics.utah.edu/~joelbrownstein/">Brownstein</a>, <a href="http://www.physics.utah.edu/~aseth/">Seth</a>, <a href="http://www.physics.utah.edu/~zasowski/">Zasowski</a>, <a href="http://www.physics.utah.edu/~zhengzheng/">Zheng</a>]
+                            stars and the nature of dark matter. [<a href="http://www.physics.utah.edu/~joelbrownstein/">Brownstein</a>, <a href="http://www.physics.utah.edu/~aseth/">Seth</a>, <a href="http://www.physics.utah.edu/~zasowski/">Zasowski</a>, <a href="http://www.astro.utah.edu/~zhengzheng/">Zheng</a>]
                             <br>&nbsp;
                             <br>
 
