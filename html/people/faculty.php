@@ -11,7 +11,7 @@
                 "image" => "https://faculty.utah.edu/bytes/image.hml?id=u0707758",
                 "homepage" => "http://physics.utah.edu/~joelbrownstein",
                 "keywords" => "Galaxy Clustering and Evolution, Dark Matter, Gravitational Lensing, Cosmology, Gravity, Data Access, Data Visualization, Machine Learning",
-                "affiliations" => "<a target='_blank' href='https://data.sdss.org'>SDSS-IV</a>, <a target='_blank' href='https://test.sdss5.org'>SDSS-V</a>, <a target='_blank' href='https://datascience.utah.edu'>Utah Center For Data Science</a>, <a target='_blank' href='https://admin.masterlens.org'>The Master Lens Database</a>"
+                "links" => "<a target='_blank' href='https://data.sdss.org'>SDSS-IV</a>, <a target='_blank' href='https://test.sdss5.org'>SDSS-V</a>, <a target='_blank' href='https://datascience.utah.edu'>Utah Center For Data Science</a>, <a target='_blank' href='https://admin.masterlens.org'>The Master Lens Database</a>"
                 ),
             "Tabitha Buehler" => array(
                 "image" => "https://faculty.utah.edu/bytes/image.hml?id=u0791607",
@@ -22,7 +22,7 @@
                 "image" => "https://faculty.utah.edu/bytes/image.hml?id=u0634757",
                 "homepage" => "http://www.astro.utah.edu/~kdawson/",
                 "keywords" => "Origins of Cosmic Acceleration, Cosmology, Galaxy Clustering",
-                "affiliations" => "<a target='_blank' href='https://www.sdss.org/surveys/eboss/'>eBOSS</a>, <a target='_blank' href='https://www.desi.lbl.gov'>DESI</a>, <a target='_blank' href='https://datascience.utah.edu'>Utah Center For Data Science</a>"
+                "links" => "<a target='_blank' href='https://www.sdss.org/surveys/eboss/'>eBOSS</a>, <a target='_blank' href='https://www.desi.lbl.gov'>DESI</a>, <a target='_blank' href='https://datascience.utah.edu'>Utah Center For Data Science</a>"
                 ),
             "Anil Seth" => array(
                 "image" => "https://faculty.utah.edu/bytes/image.hml?id=u0778105",
@@ -38,7 +38,7 @@
                 "image" => "https://faculty.utah.edu/bytes/image.hml?id=u0948422",
                 "homepage" => "http://www.physics.utah.edu/~zasowski/",
                 "keywords" => "Galactic Archeology, The Milky Way, Stellar Populations, The Interstellar Medium",
-                "affiliations" => "<a target='_blank' href='https://www.sdss.org/surveys/apogee/'>APOGEE-2</a>, <a target='_blank' href='https://test.sdss5.org'>SDSS-V (coming soon)</a>"
+                "links" => "<a target='_blank' href='https://www.sdss.org/surveys/apogee/'>APOGEE-2</a>, <a target='_blank' href='https://test.sdss5.org'>SDSS-V (coming soon)</a>"
                 ),
             "Zheng Zheng" => array(
                 "image" => "https://faculty.utah.edu/bytes/image.hml?id=u0786031",
