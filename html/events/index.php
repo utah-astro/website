@@ -22,14 +22,7 @@
                         <h1 class="page-title">High Energy Astrophysics (HEAP)</h1>
                     </div>
                 </div>
-                <div class="uu-main-bottom row">
-                    <div class="uu-main-column">
-                        <div class="uu-main-content">
-                            <iframe width="100%" src="http://www.physics.utah.edu/~heap/schedule.shtml" title="HEAP Schedule">
-                        </div>
-                    </div>
-                    <?php include '../common/submenu.php';?>
-                </div>
+                <iframe width="100%" src="http://www.physics.utah.edu/~heap/schedule.shtml" title="HEAP Schedule">
             </div>
         </main>
         <?php include '../common/footer.php';?>
