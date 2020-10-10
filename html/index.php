@@ -1,5 +1,5 @@
 <html>
 <?php
-header('Location: http://www.astro.utah.edu/newsite/overview/');
+header('Location: http://www.astro.utah.edu/overview/');
 exit;
 ?>
