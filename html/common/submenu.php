@@ -5,7 +5,7 @@
                 <div class="skip-subnav">
                     <a href="#skip-subnav-target">Skip Menu</a>
                 </div>
-                <h3 style="color: #936;">Astro Group</h3>
+                <h3 style="color: #955;">Astro Group</h3>
                 <ul>
                     <li class="">
                         <a href="../overview/">Overview</a>
@@ -32,7 +32,7 @@
                         <a target="_blank" href="https://observatory.astro.utah.edu/">South Physics Observatory (on campus)</a>
                     </li>
                 </ul>
-                <h4 style="color: #936;">Events</h4>
+                <h4 style="color: #955;">Events</h4>
                 <ul>
                     <li class="">
                         <a target="_blank" href="https://www.physics.utah.edu/~heap">HEAP Seminar</a>
