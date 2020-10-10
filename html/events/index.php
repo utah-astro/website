@@ -25,7 +25,7 @@
                 <div class="uu-main-bottom row">
                     <div class="uu-main-column">
                         <div class="uu-main-content">
-                            <iframe src="http://www.physics.utah.edu/~heap/schedule.shtml" title="HEAP Schedule">
+                            <iframe width="100%" src="http://www.physics.utah.edu/~heap/schedule.shtml" title="HEAP Schedule">
                         </div>
                     </div>
                     <?php include '../common/submenu.php';?>
