@@ -11,7 +11,7 @@
                 "image" => "../resources/jpg/joelbrownstein.jpg",
                 "homepage" => "http://physics.utah.edu/~joelbrownstein",
                 "keywords" => "Galaxy Clustering and Evolution, Dark Matter, Gravitational Lensing, Cosmology, Gravity, Data Access, Data Visualization, Machine Learning",
-                "links" => "<a target='_blank' href='https://data.sdss.org'>SDSS-IV</a>, <a target='_blank' href='https://test.sdss5.org'>SDSS-V</a>, <a target='_blank' href='https://datascience.utah.edu'>Utah Center For Data Science</a>, <a target='_blank' href='https://admin.masterlens.org'>The Master Lens Database</a>"
+                "links" => "<a target='_blank' href='https://data.sdss.org'>SDSS-IV</a>, <a target='_blank' href='https://www.sdss.org/future/'>SDSS-V</a>, <a target='_blank' href='https://datascience.utah.edu'>Utah Center For Data Science</a>, <a target='_blank' href='https://admin.masterlens.org'>The Master Lens Database</a>"
                 ),
             "Tabitha Buehler" => array(
                 "image" => "https://faculty.utah.edu/bytes/image.hml?id=u0791607",
@@ -39,7 +39,7 @@
                 "image" => "https://faculty.utah.edu/bytes/image.hml?id=u0948422",
                 "homepage" => "http://www.physics.utah.edu/~zasowski/",
                 "keywords" => "Galactic Archeology, The Milky Way, Stellar Populations, The Interstellar Medium",
-                "links" => "<a target='_blank' href='https://www.sdss.org/surveys/apogee/'>APOGEE-2</a>, <a target='_blank' href='https://test.sdss5.org'>SDSS-V (coming soon)</a>"
+                "links" => "<a target='_blank' href='https://www.sdss.org/surveys/apogee/'>APOGEE-2</a>, <a target='_blank' href='https://www.sdss.org/future/'>SDSS-V (coming soon)</a>"
                 ),
             "Zheng Zheng" => array(
                 "image" => "https://faculty.utah.edu/bytes/image.hml?id=u0786031",
