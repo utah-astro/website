@@ -35,7 +35,7 @@
                 <h4 style="color: #955;">Events</h4>
                 <ul>
                     <li class="">
-                        <a target="_blank" href="https://www.physics.utah.edu/~heap">HEAP Seminar</a>
+                        <a target="_blank" href="../events/">HEAP Seminar</a>
                     </li>
                     <li class="">
                         <a target="_blank" href="http://www.physics.utah.edu/events/">Colloquium (Calendar)</a>
