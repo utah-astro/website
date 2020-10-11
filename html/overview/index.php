@@ -35,11 +35,11 @@
                             <div>&nbsp;</div>
 
                             <p>The University of Utah is a member of and data center for the the <a target="_blank" href="https://www.sdss.org">Sloan Digital Sky Survey</a> 
-                                 (both SDSS-IV and -V collaborations).</p>
+                                 (both SDSS-IV and SDSS-V collaborations).</p>
 
                             <div>
                                 The University of Utah is a key contributor to cutting-edge survey science. Faculty
-                                                           play leadership roles in the DESI survey and the SDSS-IV and -V surveys, with the
+                                                           play leadership roles in the DESI survey and the SDSS-IV and SDSS-V surveys, with the
                                                            University being a full institutional member and data repository of SDSS. Our faculty,
                                                            postdocs, and students also use a wide range of world-class facilities in their research,
                                                            including ALMA, HST, Gemini, VLT, Chandra, NuSTAR, and XMM, and are involved in gamma-ray
