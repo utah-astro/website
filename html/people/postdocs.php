@@ -8,7 +8,7 @@
                 "homepage" => ""
                 ),
             "Nicholas Boardman" => array(
-                "image" => "https://lh4.googleusercontent.com/F5x87f7w36e0B80HsCO54OJSWWIDGk6sacFZEbPmnZ5qFDsXPOEjaYD7YzCMgFaB9_19KV1O=w1280",
+                "image" => "../resources/jpg/nick_boardman.jpg",
                 "keywords" => "Galaxy structure and evolution, Milky Way Analogs",
                 "homepage" => "https://sites.google.com/view/nickybastro/home"
                 ),
