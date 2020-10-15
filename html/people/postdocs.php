@@ -27,7 +27,7 @@
                 "keywords" => "Chemical evolution and star formation histories of galaxies, galaxy environment and structure",
                 "homepage" => "https://ljh520hw.wixsite.com/mysite"
                 ),
-            "Aysegul Tumer" => array(
+            "Ay&#351;eg&uuml;l T&uuml;mer" => array(
                 "image" => "https://hcav.am/wp-content/uploads/2020/03/work-on-laptop-icon-150x150.jpg",
                 "keywords" => "",
                 "homepage" => ""
