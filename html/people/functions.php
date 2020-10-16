@@ -12,7 +12,7 @@
                 $links = $member["links"];
                 $advisor = $member["advisor"];
                 echo "<tr>";
-                echo "<td width='150'><a href='$homepage'><img src='$image' alt='$name' width='150' height='150'></a></td>";
+                echo "<td width='150'><a target='_homepage' href='$homepage'><img src='$image' alt='$name' width='150' height='150'></a></td>";
                 echo "<td>";
                 echo "<h4><a target='_homepage' href='$homepage'>$name</a></h4>";
                 if ( ! empty($keywords) ) {echo "<p>$astro $keywords</p>";}
