@@ -15,9 +15,9 @@
                 echo "<td width='150'><a href='$homepage'><img src='$image' alt='$name' width='150' height='150'></a></td>";
                 echo "<td>";
                 echo "<h4><a href='$homepage'>$name</a></h4>";
-                if ( isset($keywords) ) {echo "<p>$astro $keywords</p>";}
-                if ( isset($links) ) {echo "<p>$link $links</p>";}
-                if ( isset($advisor) ) {echo "<p>$university Advisor: $advisor</p>";}
+                if ( ! empty($keywords) ) {echo "<p>$astro $keywords</p>";}
+                if ( ! empty($links) ) {echo "<p>$link $links</p>";}
+                if ( ! empty($advisor) ) {echo "<p>$university Advisor: $advisor</p>";}
                 echo "</td>";
                 echo "</tr>";
             }
