@@ -23,7 +23,7 @@
                 "homepage" => "https://drstenhq.com/"
                 ),
             "Jianhui Lian" => array(
-                "image" => "https://static.wixstatic.com/media/70a18c_d0f6465072e34e569f4b66de4abc5251~mv2.jpg/v1/fill/w_546,h_697,al_c,q_85,usm_0.66_1.00_0.01/70a18c_d0f6465072e34e569f4b66de4abc5251~mv2.webp",
+                "image" => "jianhui_lian.jpg",
                 "keywords" => "Chemical evolution and star formation histories of galaxies, galaxy environment and structure",
                 "homepage" => "https://ljh520hw.wixsite.com/mysite"
                 ),
