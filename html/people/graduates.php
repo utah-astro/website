@@ -9,8 +9,8 @@
                 "advisor" => "Prof. Anil Seth"
                 ),
             "Allyson Brodzeller" => array(
-                "image" => "https://hcav.am/wp-content/uploads/2020/03/work-on-laptop-icon-150x150.jpg",
-                "keywords" => "",
+                "image" => "../resources/jpg/allyson_brodzeller.jpg",
+                "keywords" => "Cosmology, Large-scale structure, Applications of machine learning",
                 "links" => "",
                 "advisor" => "Prof. Kyle Dawson"
                 ),
@@ -21,7 +21,8 @@
                 "advisor" => "Prof. Zheng Zheng"
                 ),
             "Antoine Dumont" => array(
-                "image" => "https://hcav.am/wp-content/uploads/2020/03/work-on-laptop-icon-150x150.jpg",
+                "image" => "../resources/jpg/antoine_dumont.jpg",
+                "homepage" => "https://antoinedumontneira.github.io/",
                 "keywords" => "",
                 "links" => "",
                 "advisor" => "Prof. Anil Seth"
