@@ -58,6 +58,7 @@
                 ),
             "Vijith Jacob Poovelil" => array(
                 "image" => "../resources/jpg/vijith_poovelil.jpeg",
+                "homepage" => "https://faculty.utah.edu/u1063369-VIJITH_JACOB_POOVELIL/research/index.hml", 
                 "keywords" => "",
                 "links" => "",
                 "advisor" => "Prof. Gail Zasowski"
