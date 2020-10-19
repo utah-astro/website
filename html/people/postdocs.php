@@ -3,13 +3,13 @@
     try {
         $members = array(
             "Angela Berti" => array(
-                "image" => "https://hcav.am/wp-content/uploads/2020/03/work-on-laptop-icon-150x150.jpg",
-                "keywords" => "",
-                "homepage" => ""
+                "image" => "../resources/jpg/angela_berti.jpg",
+                "keywords" => "Galaxy evolution and the Galaxy-halo Connection, Cosmology and Large-scale Structure, Galaxy Clustering, Statistical Methods",
+                "homepage" => "http://angelaberti.com/"
                 ),
             "Nicholas Boardman" => array(
                 "image" => "../resources/jpg/nick_boardman.jpg",
-                "keywords" => "Galaxy structure and evolution, Milky Way Analogs",
+                "keywords" => "Galaxy Structure and Evolution, Milky Way Analogs",
                 "homepage" => "https://sites.google.com/view/nickybastro/home"
                 ),
             "Sarah Eftekharzadeh" => array(
@@ -19,17 +19,19 @@
                 ),
             "Sten Hasselquist" => array(
                 "image" => "https://drstenhq.com/wp-content/uploads/2018/12/IMG_8270-768x632.jpg",
-                "keywords" => "Galaxy evolution, dwarf galaxies, stellar spectroscopy and chemical abundances",
+                "keywords" => "Galaxy Evolution, Dwarf Galaxies, Stellar Spectroscopy and Chemical Abundances",
                 "homepage" => "https://drstenhq.com/"
                 ),
             "Jianhui Lian" => array(
                 "image" => "../resources/jpg/jianhui_lian.jpg",
-                "keywords" => "Chemical evolution and star formation histories of galaxies, galaxy environment and structure",
+                "keywords" => "Chemical Evolution and Star Formation Histories of Galaxies, Galaxy Environment and Structure",
                 "homepage" => "https://ljh520hw.wixsite.com/mysite"
                 ),
             "Ay&#351;eg&uuml;l T&uuml;mer" => array(
-                "image" => "https://hcav.am/wp-content/uploads/2020/03/work-on-laptop-icon-150x150.jpg",
-                "keywords" => "",
+                "image" => "../resources/jpg/aysegul_tumer.jpg",
+                "keywords" => "High Energy Astrophysics (X-Ray), Non-Cool Core Galaxy Clusters and Mergers, Evolution of Galaxy Clusters, 
+                               X-ray Background Reduction Methods, Data Analysis of NuSTAR/XMM-Newton/Chandra Observatories, 
+                               AGN Feedback Mechanisms in Brightest Cluster Galaxies, X-Ray Spectral and Imaging Methods",
                 "homepage" => ""
                 ),
             "Qian Wang" => array(
