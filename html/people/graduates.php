@@ -4,7 +4,7 @@
         $members = array(
             "Aishwarya (Ash) Ashok" => array(
                 "image" => "https://hcav.am/wp-content/uploads/2020/03/work-on-laptop-icon-150x150.jpg",
-                "keywords" => "",
+                "keywords" => "Galaxy Evolution, Galaxy structure, Star clusters and Stellar populations",
                 "links" => "",
                 "advisor" => "Prof. Anil Seth"
                 ),
@@ -26,9 +26,9 @@
                 "links" => "",
                 "advisor" => "Prof. Anil Seth"
                 ),
-            "Hannah Fritz" => array(
-                "image" => "https://hcav.am/wp-content/uploads/2020/03/work-on-laptop-icon-150x150.jpg",
-                "keywords" => "",
+            "Hannah Fritze" => array(
+                "image" => "../resources/jpg/hannah_fritze.jpg",
+                "keywords" => "X-ray Astrophysics, Black Hole Binaries, and Intermediate Mass Black Holes",
                 "links" => "",
                 "advisor" => "Prof. Dan Wik"
                 ),
@@ -57,7 +57,7 @@
                 "advisor" => "Prof. Zheng Zheng"
                 ),
             "Vijith Jacob Poovelil" => array(
-                "image" => "https://hcav.am/wp-content/uploads/2020/03/work-on-laptop-icon-150x150.jpg",
+                "image" => "../resources/jpg/vijith_poovelil.jpeg",
                 "keywords" => "",
                 "links" => "",
                 "advisor" => "Prof. Gail Zasowski"
