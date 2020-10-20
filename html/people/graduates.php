@@ -34,8 +34,8 @@
                 "advisor" => "Prof. Dan Wik"
                 ),
             "Ben Gibson" => array(
-                "image" => "https://hcav.am/wp-content/uploads/2020/03/work-on-laptop-icon-150x150.jpg",
-                "keywords" => "",
+                "image" => "../resources/jpg/ben_gibson.jpg",
+                "keywords" => "Galaxy Evolution and Stellar Populations",
                 "links" => "",
                 "advisor" => "Prof. Gail Zasowski"
                 ),
