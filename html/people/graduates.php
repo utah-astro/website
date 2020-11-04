@@ -40,13 +40,13 @@
                 "advisor" => "Prof. Gail Zasowski"
                 ),
             "Christian Hannah" => array(
-                "image" => "https://hcav.am/wp-content/uploads/2020/03/work-on-laptop-icon-150x150.jpg",
-                "keywords" => "",
+                "image" => "../resources/jpg/christian_hannah.jpg",
+                "keywords" => "Galaxy Evolution, Stellar Populations, and Massive Black Holes",
                 "links" => "",
                 "advisor" => "Prof. Anil Seth"
                 ),
             "Austin King" => array(
-                "image" => "https://hcav.am/wp-content/uploads/2020/03/work-on-laptop-icon-150x150.jpg",
+                "image" => "../resources/jpg/austin_king.jpg",
                 "keywords" => "",
                 "links" => "",
                 "advisor" => "Prof. Ben Bromley"
