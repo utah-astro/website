@@ -35,6 +35,7 @@
                 ),
             "Ben Gibson" => array(
                 "image" => "../resources/jpg/ben_gibson.jpg",
+                "homepage" => "https://faculty.utah.edu/u1267339-Benjamin_J_Gibson/research/index.hml",
                 "keywords" => "Galaxy Evolution and Stellar Populations",
                 "links" => "",
                 "advisor" => "Prof. Gail Zasowski"
