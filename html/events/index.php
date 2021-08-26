@@ -23,7 +23,6 @@
                     </div>
                 </div>
                 <a target="_heap" href="http://physics.utah.edu/~heap">Click here for this year's HEAP schedule</a>
-                </div>
             </div>
         </main>
         <?php include '../common/footer.php';?>
