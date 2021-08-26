@@ -19,10 +19,12 @@
             <div class="uu-container">
                 <div class="uu-main-top row" id="uu-skip-target">
                     <div class="uu-top-content">
+                        <h1 class="page-title">Department Events</h1>
+                         <a target="_physics" href="https://www.physics.utah.edu/events/index.php">Click here for this year's Physics Department Event Calendar</a>
                         <h1 class="page-title">High Energy Astrophysics (HEAP)</h1>
+                         <a target="_heap" href="https://www.physics.utah.edu/~heap">Click here for this year's HEAP schedule</a>
                     </div>
                 </div>
-                <a target="_heap" href="http://physics.utah.edu/~heap">Click here for this year's HEAP schedule</a>
             </div>
         </main>
         <?php include '../common/footer.php';?>
