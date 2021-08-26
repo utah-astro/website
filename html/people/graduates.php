@@ -20,6 +20,12 @@
                 "links" => "",
                 "advisor" => "Prof. Zheng Zheng"
                 ),
+            "Abigail A. Coker" => array(
+                "image" => "https://uofutah-my.sharepoint.com/personal/u1373588_umail_utah_edu/Documents/Attachments/abigail_headshot.jpg",
+                "keywords" => "Astronomy and Data Science",
+                "links" => "<a target='_blank' href='https://www.sdss5.org'>SDSS-V</a>",
+                "advisor" => "Prof. Joel Brownstein"
+                ),
             "Antoine Dumont" => array(
                 "image" => "../resources/jpg/antoine_dumont.jpg",
                 "homepage" => "https://antoinedumontneira.github.io/",
@@ -82,12 +88,6 @@
                 "keywords" => "",
                 "links" => "",
                 "advisor" => "Prof. Dan Wik"
-                ),
-            "Michael S. Talbot" => array(
-                "image" => "https://hcav.am/wp-content/uploads/2020/03/work-on-laptop-icon-150x150.jpg",
-                "keywords" => "Galaxy-Galaxy Strong Gravitational Lensing, Spectroscopic Identification of Lensing Objects (SILO) Project",
-                "links" => "<a target='_blank' href='https://www.sdss.org/surveys/eboss/'>eBOSS</a>, <a target='_blank' href='https://www.sdss.org/surveys/manga/'>MaNGA</a>",
-                "advisor" => "Prof. Joel Brownstein"
                 ),
         );
     } catch (Exception $e) {
