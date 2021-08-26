@@ -21,7 +21,8 @@
                 "advisor" => "Prof. Zheng Zheng"
                 ),
             "Abigail A. Coker" => array(
-                "image" => "https://uofutah-my.sharepoint.com/personal/u1373588_umail_utah_edu/Documents/Attachments/abigail_headshot.jpg",
+                "image" => "../resources/jpg/abigail_headshot.jpg",
+                "homepage" => "https://faculty.utah.edu/u1373588-ABIGAIL_ALLISON_COKER/research/index.hml";
                 "keywords" => "Astronomy and Data Science",
                 "links" => "<a target='_blank' href='https://www.sdss5.org'>SDSS-V</a>",
                 "advisor" => "Prof. Joel Brownstein"
