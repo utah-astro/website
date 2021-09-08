@@ -5,13 +5,13 @@
             "Nicholas Boardman" => array(
                 "image" => "../resources/jpg/nick_boardman.jpg",
                 "homepage" => "https://sites.google.com/view/nickybastro/home",
-                "date" => "At the U until Aug. 2021",
+                "date" => "Postdoc at the U until Aug. 2021",
                 "position" => "Postdoc at University of St Andrews",
                 ),
             "Sten Hasselquist" => array(
                 "image" => "https://drstenhq.com/wp-content/uploads/2018/12/IMG_8270-768x632.jpg",
                 "homepage" => "https://drstenhq.com/",
-                "date" => "At the U until Aug. 2021",
+                "date" => "Postdoc the U until Aug. 2021",
                 "position" => "Staff scientist at Space Telescope Science Institute",
                 ),
             "Michael S. Talbot" => array(
