@@ -14,7 +14,7 @@
                 "keywords" => "Galaxy Evolution, Dwarf Galaxies, Stellar Spectroscopy and Chemical Abundances",
                 "homepage" => "https://drstenhq.com/",
                 "date" => "At the U until Aug. 2021",
-                "position" => "Postdoc at Space Telescope Science Institute"
+                "position" => "Staff scientist at Space Telescope Science Institute"
                 ),
             "Michael S. Talbot" => array(
                 "image" => "https://hcav.am/wp-content/uploads/2020/03/work-on-laptop-icon-150x150.jpg",
