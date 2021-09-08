@@ -22,7 +22,8 @@
                 "links" => "<a target='_blank' href='https://www.sdss.org/surveys/eboss/'>eBOSS</a>, <a target='_blank' href='https://www.sdss.org/surveys/manga/'>MaNGA</a>",
                 "advisor" => "Prof. Joel Brownstein",
                 "phd_thesis" => "Extending the Search for Strong Galaxy-Galaxy Gravitational Lenses within SDSS",
-                "date" => "Graduated Aug. 2021"
+                "date" => "Graduated Aug. 2021",
+                "position" => ""
                 ),
         );
     } catch (Exception $e) {
