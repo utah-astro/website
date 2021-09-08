@@ -26,7 +26,7 @@
                 if ( ! empty($phd_thesis) ) {echo "<p>$book Ph.D. Thesis: $phd_thesis</p>";}
                 if ( ! empty($advisor) ) {echo "<p>$university Advisor: $advisor</p>";}
                 if ( ! empty($date) ) {echo "<p>$calendar $date</p>";}
-                if ( ! empty($contact) ) {echo "<p>$address Current Position: $position</p>";}
+                if ( ! empty($position) ) {echo "<p>$address Current Position: $position</p>";}
                 echo "</td>";
                 echo "</tr>";
             }
