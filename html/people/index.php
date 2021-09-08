@@ -20,6 +20,10 @@
                 <div class="uu-main-top row" id="uu-skip-target">
                     <div class="uu-top-content">
                         <h1 class="page-title">Astro Group: People</h1>
+                        <h4><a href='#faculty'>Faculty</a></h4>
+                        <h4><a href='#postdocs'>Postdocs</a></h4>
+                        <h4><a href='#graduates'>Graduate Students</a></h4>
+                        <h4><a href='#allumni'>Allumni</a></h4>
                     </div>
                 </div>
                 <div class="uu-main-bottom row">
