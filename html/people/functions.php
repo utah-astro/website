@@ -16,7 +16,7 @@
                 $advisor = $member["advisor"];
                 $phd_thesis = $member["phd_thesis"];
                 $date = $member["date"];
-                $contact = $member["contact"];
+                $position = $member["position"];
                 echo "<tr>";
                 echo "<td width='150'><a target='_homepage' href='$homepage'><img src='$image' alt='$name' width='150' height='150'></a></td>";
                 echo "<td>";
@@ -26,7 +26,7 @@
                 if ( ! empty($phd_thesis) ) {echo "<p>$book Ph.D. Thesis: $phd_thesis</p>";}
                 if ( ! empty($advisor) ) {echo "<p>$university Advisor: $advisor</p>";}
                 if ( ! empty($date) ) {echo "<p>$calendar $date</p>";}
-                if ( ! empty($contact) ) {echo "<p>$address Current Position: $contact</p>";}
+                if ( ! empty($contact) ) {echo "<p>$address Current Position: $position</p>";}
                 echo "</td>";
                 echo "</tr>";
             }
