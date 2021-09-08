@@ -15,7 +15,7 @@
                 $links = $member["links"];
                 $advisor = $member["advisor"];
                 $phd_thesis = $member["phd_thesis"];
-                $date = $member["phd_date"];
+                $date = $member["date"];
                 $contact = $member["contact"];
                 echo "<tr>";
                 echo "<td width='150'><a target='_homepage' href='$homepage'><img src='$image' alt='$name' width='150' height='150'></a></td>";
