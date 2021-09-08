@@ -29,6 +29,7 @@
                                 <?php include 'faculty.php'; ?>
                                 <?php include 'postdocs.php';?>
                                 <?php include 'graduates.php';?>
+                                <?php include 'allumni.php';?>
                             </div>
                         </div>
                     </div>
