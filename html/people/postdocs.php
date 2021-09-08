@@ -7,20 +7,10 @@
                 "keywords" => "Galaxy evolution and the Galaxy-halo Connection, Cosmology and Large-scale Structure, Galaxy Clustering, Statistical Methods",
                 "homepage" => "http://angelaberti.com/"
                 ),
-            "Nicholas Boardman" => array(
-                "image" => "../resources/jpg/nick_boardman.jpg",
-                "keywords" => "Galaxy Structure and Evolution, Milky Way Analogs",
-                "homepage" => "https://sites.google.com/view/nickybastro/home"
-                ),
             "Sarah Eftekharzadeh" => array(
                 "image" => "https://hcav.am/wp-content/uploads/2020/03/work-on-laptop-icon-150x150.jpg",
                 "keywords" => "",
                 "homepage" => ""
-                ),
-            "Sten Hasselquist" => array(
-                "image" => "https://drstenhq.com/wp-content/uploads/2018/12/IMG_8270-768x632.jpg",
-                "keywords" => "Galaxy Evolution, Dwarf Galaxies, Stellar Spectroscopy and Chemical Abundances",
-                "homepage" => "https://drstenhq.com/"
                 ),
             "Jianhui Lian" => array(
                 "image" => "../resources/jpg/jianhui_lian.jpg",
