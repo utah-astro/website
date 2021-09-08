@@ -1,4 +1,4 @@
-<h2>Allumni</h2>
+<h2 id='allumni'>Allumni</h2>
 <?php
     try {
         $members = array(
