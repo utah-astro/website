@@ -58,13 +58,7 @@
                 "keywords" => "",
                 "links" => "",
                 "advisor" => "Prof. Ben Bromley"
-                ),
-            "Kevin McCarthy" => array(
-                "image" => "https://hcav.am/wp-content/uploads/2020/03/work-on-laptop-icon-150x150.jpg",
-                "keywords" => "",
-                "links" => "",
-                "advisor" => "Prof. Zheng Zheng"
-                ),
+                ),            
             "Vijith Jacob Poovelil" => array(
                 "image" => "../resources/jpg/vijith_poovelil.jpeg",
                 "homepage" => "https://faculty.utah.edu/u1063369-VIJITH_JACOB_POOVELIL/research/index.hml", 
