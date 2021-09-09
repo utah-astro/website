@@ -14,6 +14,13 @@
                 "date" => "Postdoc the U until Aug. 2021",
                 "position" => "Staff scientist at Space Telescope Science Institute",
                 ),
+            "Kevin S. McCarthy" => array(
+                "image" => "https://science.jpl.nasa.gov/media/images/Kevin_McCarthy_pic.max-255x355.jpg",
+                "advisor" => "Zheng Zheng",
+                "phd_thesis" => "Improving Cosmological Growth-Rate Constraints with Galaxy Clustering",
+                "date" => "Ph.D. 2021",
+                "position" => "NASA Postdoc at IPAC/JPL",
+                ),
             "Michael S. Talbot" => array(
                 "image" => "https://hcav.am/wp-content/uploads/2020/03/work-on-laptop-icon-150x150.jpg",
                 "advisor" => "Prof. Joel Brownstein",
