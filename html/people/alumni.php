@@ -35,7 +35,7 @@
                 "image" => "https://hcav.am/wp-content/uploads/2020/03/work-on-laptop-icon-150x150.jpg",
                 "advisor" => "Prof. Joel Brownstein",
                 "phd_thesis" => "Extending the Search for Strong Galaxy-Galaxy Gravitational Lenses within SDSS",
-                "date" => "Graduated Aug. 2021",
+                "date" => "Ph.D. 2021",
                 ),
         );
     } catch (Exception $e) {
