@@ -7,11 +7,6 @@
                 "keywords" => "Galaxy evolution and the Galaxy-halo Connection, Cosmology and Large-scale Structure, Galaxy Clustering, Statistical Methods",
                 "homepage" => "http://angelaberti.com/"
                 ),
-            "Sarah Eftekharzadeh" => array(
-                "image" => "https://hcav.am/wp-content/uploads/2020/03/work-on-laptop-icon-150x150.jpg",
-                "keywords" => "",
-                "homepage" => ""
-                ),
             "Jianhui Lian" => array(
                 "image" => "../resources/jpg/jianhui_lian.jpg",
                 "keywords" => "Chemical Evolution and Star Formation Histories of Galaxies, Galaxy Environment and Structure",
