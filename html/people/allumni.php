@@ -16,7 +16,7 @@
                 ),
             "Kevin S. McCarthy" => array(
                 "image" => "https://science.jpl.nasa.gov/media/images/Kevin_McCarthy_pic.max-255x355.jpg",
-                "advisor" => "Zheng Zheng",
+                "advisor" => "Prof. Zheng Zheng",
                 "phd_thesis" => "Improving Cosmological Growth-Rate Constraints with Galaxy Clustering",
                 "date" => "Ph.D. 2021",
                 "position" => "NASA Postdoc at IPAC/JPL",
