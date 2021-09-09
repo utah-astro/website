@@ -1,7 +1,18 @@
-<h2 id='allumni'>Allumni</h2>
+<h2 id='allumni'>Alumni</h2>
 <?php
     try {
         $members = array(
+            "Hong Guo" => array(
+                "image" => "http://sdss4.shao.ac.cn/guoh/img/about.jpg",
+                "homepage" => "http://sdss4.shao.ac.cn/guoh/",
+                "date" => "Postdoc at the U until Aug. 2015",
+                "position" => "Research Professor at Shanghai Astronomical Observatory, Chinese Academy of Sciences",
+                ),
+            "Sarah Eftekharzadeh" => array(
+                "image" => "https://hcav.am/wp-content/uploads/2020/03/work-on-laptop-icon-150x150.jpg",
+                "homepage" => ""
+                "date" => "Postdoc at the U until Dec. 2020",
+                ),
             "Nicholas Boardman" => array(
                 "image" => "../resources/jpg/nick_boardman.jpg",
                 "homepage" => "https://sites.google.com/view/nickybastro/home",
