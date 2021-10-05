@@ -14,7 +14,6 @@
                 "advisor" => "Prof. Gail Zasowski",
                 "phd_thesis" => "Exploring Galactic Chemical Evolution Using Cluster Chemistry and Variability",
                 "date" => "Ph.D. 2021",
-                "position" => "",
                 ),
             "Nicholas Boardman" => array(
                 "image" => "../resources/jpg/nick_boardman.jpg",
@@ -24,7 +23,7 @@
                 ),
             "Jianhui Lian" => array(
                 "image" => "../resources/jpg/jianhui_lian.jpg",
-                "homepage" => "https://ljh520hw.wixsite.com/mysite"
+                "homepage" => "https://ljh520hw.wixsite.com/mysite",
                 "date" => "Posdoc at the U until Aug. 2021",
                 "position" => "Postdoc at Max-Planck-Institut f&uuml;r Astronomie",
                 ),
