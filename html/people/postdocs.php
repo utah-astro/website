@@ -7,11 +7,6 @@
                 "keywords" => "Galaxy evolution and the Galaxy-halo Connection, Cosmology and Large-scale Structure, Galaxy Clustering, Statistical Methods",
                 "homepage" => "http://angelaberti.com/"
                 ),
-            "Jianhui Lian" => array(
-                "image" => "../resources/jpg/jianhui_lian.jpg",
-                "keywords" => "Chemical Evolution and Star Formation Histories of Galaxies, Galaxy Environment and Structure",
-                "homepage" => "https://ljh520hw.wixsite.com/mysite"
-                ),
             "Ay&#351;eg&uuml;l T&uuml;mer" => array(
                 "image" => "../resources/jpg/aysegul_tumer.JPG",
                 "keywords" => "High Energy Astrophysics (X-Ray), Non-Cool Core Galaxy Clusters and Mergers, Evolution of Galaxy Clusters, 
