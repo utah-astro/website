@@ -59,13 +59,6 @@
                 "links" => "",
                 "advisor" => "Prof. Ben Bromley"
                 ),            
-            "Vijith Jacob Poovelil" => array(
-                "image" => "../resources/jpg/vijith_poovelil.jpeg",
-                "homepage" => "https://faculty.utah.edu/u1063369-VIJITH_JACOB_POOVELIL/research/index.hml", 
-                "keywords" => "",
-                "links" => "",
-                "advisor" => "Prof. Gail Zasowski"
-                ),
             "Cicely Potter" => array(
                 "image" => "https://hcav.am/wp-content/uploads/2020/03/work-on-laptop-icon-150x150.jpg",
                 "keywords" => "",
