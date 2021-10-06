@@ -10,10 +10,11 @@
                 ),
             "Vijith Jacob Poovelil" => array(
                 "image" => "../resources/jpg/vijith_poovelil.jpeg",
-                "homepage" => "https://faculty.utah.edu/u1063369-VIJITH_JACOB_POOVELIL/research/index.hml", 
+                "homepage" => "https://www.linkedin.com/in/vijith-jacob-poovelil/", 
                 "advisor" => "Prof. Gail Zasowski",
                 "phd_thesis" => "Exploring Galactic Chemical Evolution Using Cluster Chemistry and Variability",
                 "date" => "Ph.D. 2021",
+                "position" => "Data Scientist",
                 ),
             "Nicholas Boardman" => array(
                 "image" => "../resources/jpg/nick_boardman.jpg",
