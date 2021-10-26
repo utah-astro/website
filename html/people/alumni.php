@@ -51,6 +51,19 @@
                 "date" => "Postdoc at the U until Aug. 2015",
                 "position" => "Research Professor at Shanghai Astronomical Observatory, Chinese Academy of Sciences",
                 ),
+             "Xiaoju Xu" => array(
+                "advisor" => "Prof. Zheng Zheng",
+                "phd_thesis" => "An Investigation of Halo and Galaxy Assembly Bias",
+                "date" => "Ph.D. 2019",
+                "position" => "Postdoc at CWRU and Shanghai Jiao Tong University",
+                ),
+             "Haojie Xu" => array(
+                "image" => "http://astro.sjtu.edu.cn/media/com_mtree/images/listings/m/136.jpg",
+                "advisor" => "Prof. Zheng Zheng",
+                "phd_thesis" => "Galaxy Color-Luminosity-Halo Mass Relation from Galaxy Clustering",
+                "date" => "Ph.D. 2018",
+                "position" => "Postdoc at Shanghai Jiao Tong University",
+                ),
         );
     } catch (Exception $e) {
         echo $e->getMessage();
