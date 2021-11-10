@@ -40,7 +40,7 @@
                                     <li> The
                                     <a href="https://www.physics.utah.edu/_documents/UndergradHandbook2020.pdf">Department Undergraduate Handbook</a>, which has both the degree requirements for the minor and astrophysics emphasis.)</li>
 
-                                    <li> Note that PHYS/ASTR 2500 is the "gateway" course to our astronomy course offerings -- this is offered each fall; other courses may be offered only every two years.  Please talk to us if you need help planning your major.</li>
+                                    <li> Note that PHYS/ASTR 3070 is the "gateway" course to our astronomy course offerings -- this is offered each fall; other courses may be offered only every two years.  Please talk to us if you need help planning your major.</li>
                                 </ul>
 
                             </p>
