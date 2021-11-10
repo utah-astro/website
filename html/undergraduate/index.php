@@ -44,6 +44,14 @@
                                 </ul>
 
                             </p>
+                        
+                            <h3>Getting Undergraduate Research</h3>
+                        
+                            <p>Watch this space for a guide on how to get started on choosing a research topic in Astronomy (coming soon).</p>
+                        
+                            <ul>
+                                <li>Opportunities: Apply for the <a target="_physics" href="https://www.physics.utah.edu/reu-opportunities/" Research Experiences for Undergrads (REU)</a> Program.  The application deadline for the coming year is January 31, 2022.</li>
+                            </ul>
                         </div>
                     </div>
                     <?php include '../common/submenu.php';?>
