@@ -24,13 +24,13 @@
                 "keywords" => "Origins of Cosmic Acceleration, Cosmology, Galaxy Clustering",
                 "links" => "<a target='_blank' href='https://www.sdss.org/surveys/eboss/'>eBOSS</a>, <a target='_blank' href='https://www.desi.lbl.gov'>DESI</a>, <a target='_blank' href='https://datascience.utah.edu'>Utah Center For Data Science</a>"
                 ),
-            "Tanmoy Laskar" => array(
+            "Tanmoy Laskar (coming Fall 2022)" => array(
                 "image" => "https://scholar.harvard.edu/files/laskar/files/laskar_t_29777-0011_0.jpg",
                 "homepage" => "https://scholar.harvard.edu/laskar",
-                "keywords" => "Gamma-Ray Bursts, Relativistic Explosions",
+                "keywords" => "Time Domain Astronomy, Relativistic Explosions (Gravitational Wave Events, Gamma-ray Bursts, Tidal Disruption Events), High-energy Astrophysics, Galaxy Evolution, Multi-wavelength Observations & Modeling, Machine Learning.",
                 "links" => ""
                 ),
-            "Yao-Yuan Mao" => array(
+            "Yao-Yuan Mao (coming Fall 2022)" => array(
                 "image" => "https://yymao.github.io/images/Mao_Yao-Yuan_480.jpg",
                 "homepage" => "https://yymao.github.io/",
                 "keywords" => "Galaxy -- Dark Matter Halo Connection, Dwarf Galaxies",
@@ -38,7 +38,7 @@
                 ),
             "Anil Seth" => array(
                 "image" => "https://faculty.utah.edu/bytes/image.hml?id=u0778105",
-                "homepage" => "http://www.astro.utah.edu/~aseth/",
+                "homepage" => "https://web.physics.utah.edu/~aseth/Anil_Seth.html",
                 "links" => "<a target='_blank' href='https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0003-0248-5470'>Published Papers</a>",
                 "keywords" => "Massive Black Holes, Nearby Galaxies, Nuclear Star Clusters"
                 ),
