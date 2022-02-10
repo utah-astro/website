@@ -24,11 +24,23 @@
                 "keywords" => "Origins of Cosmic Acceleration, Cosmology, Galaxy Clustering",
                 "links" => "<a target='_blank' href='https://www.sdss.org/surveys/eboss/'>eBOSS</a>, <a target='_blank' href='https://www.desi.lbl.gov'>DESI</a>, <a target='_blank' href='https://datascience.utah.edu'>Utah Center For Data Science</a>"
                 ),
+            "Tanmoy Laskar" => array(
+                "image" => "https://scholar.harvard.edu/files/laskar/files/laskar_t_29777-0011_0.jpg",
+                "homepage" => "https://scholar.harvard.edu/laskar",
+                "keywords" => "Gamma-Ray Bursts, Relativistic Explosions",
+                "links" => ""
+                ),
+            "Yao-Yuan Mao" => array(
+                "image" => "https://yymao.github.io/images/Mao_Yao-Yuan_480.jpg",
+                "homepage" => "https://yymao.github.io/",
+                "keywords" => "Galaxy -- Dark Matter Halo Connection, Dwarf Galaxies",
+                "links" => ""
+                ),
             "Anil Seth" => array(
                 "image" => "https://faculty.utah.edu/bytes/image.hml?id=u0778105",
                 "homepage" => "http://www.astro.utah.edu/~aseth/",
-                "links" => "<a target='_blank' href='https://www.nasa.gov/mission_pages/hubble/spacecraft/index.html'>Hubble Space Telescope</a>",
-                "keywords" => "Galaxy Formation, Nearby Galaxies, Massive Star Clusters &amp; Black Holes in Galaxy Centers"
+                "links" => "<a target='_blank' href='https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0003-0248-5470'>Published Papers</a>",
+                "keywords" => "Massive Black Holes, Nearby Galaxies, Nuclear Star Clusters"
                 ),
             "Daniel Wik" => array(
                 "image" => "https://faculty.utah.edu/bytes/image.hml?id=u6008171",
