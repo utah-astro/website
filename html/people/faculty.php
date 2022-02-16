@@ -33,8 +33,8 @@
             "Yao-Yuan Mao (coming Fall 2022)" => array(
                 "image" => "https://yymao.github.io/images/Mao_Yao-Yuan_480.jpg",
                 "homepage" => "https://yymao.github.io/",
-                "keywords" => "Galaxy -- Dark Matter Halo Connection, Dwarf Galaxies",
-                "links" => ""
+                "keywords" => "Dwarf Galaxies, Low-redshift Galaxies, Galaxy Formation, Nature of Dark Matter, Cosmological Simulations, Astronomical Surveys",
+                "links" => "<a target='_blank' href='https://lsstdesc.org/'>Rubin LSST DESC</a>, <a target='_blank' href='https://sagasurvey.org/'>SAGA Survey</a>"
                 ),
             "Anil Seth" => array(
                 "image" => "https://faculty.utah.edu/bytes/image.hml?id=u0778105",
