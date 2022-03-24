@@ -3,10 +3,12 @@
     try {
         $members = array(
             "Michael S. Talbot" => array(
-                "image" => "https://hcav.am/wp-content/uploads/2020/03/work-on-laptop-icon-150x150.jpg",
+                "image" => "https://science.jpl.nasa.gov/media/images/talbot_pic.max-255x355.jpg",
+                "homepage" => "https://science.jpl.nasa.gov/people/michael-talbot/",
                 "advisor" => "Prof. Joel Brownstein",
                 "phd_thesis" => "Extending the Search for Strong Galaxy-Galaxy Gravitational Lenses within SDSS",
                 "date" => "Ph.D. 2021",
+                "position" => "NASA Postdoc at JPL",
                 ),
             "Vijith Jacob Poovelil" => array(
                 "image" => "../resources/jpg/vijith_poovelil.jpeg",
