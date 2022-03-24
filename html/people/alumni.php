@@ -54,6 +54,7 @@
                 "position" => "Research Professor at Shanghai Astronomical Observatory, Chinese Academy of Sciences",
                 ),
              "Xiaoju Xu" => array(
+                "image" => "https://hcav.am/wp-content/uploads/2020/03/work-on-laptop-icon-150x150.jpg",
                 "advisor" => "Prof. Zheng Zheng",
                 "phd_thesis" => "An Investigation of Halo and Galaxy Assembly Bias",
                 "date" => "Ph.D. 2019",
