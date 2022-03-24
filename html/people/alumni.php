@@ -8,7 +8,7 @@
                 "advisor" => "Prof. Joel Brownstein",
                 "phd_thesis" => "Extending the Search for Strong Galaxy-Galaxy Gravitational Lenses within SDSS",
                 "date" => "Ph.D. 2021",
-                "position" => "NASA Postdoc at JPL",
+                "position" => "NASA Postdoc in the Origin of the Universe Group at JPL",
                 ),
             "Vijith Jacob Poovelil" => array(
                 "image" => "../resources/jpg/vijith_poovelil.jpeg",
