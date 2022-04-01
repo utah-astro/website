@@ -43,6 +43,20 @@
                 "date" => "Ph.D. 2021",
                 "position" => "NASA Postdoc at IPAC/JPL",
                 ),
+            "Renuka Pechetti" => array(
+                "image" => "",
+                "advisor" => "Prof. Anil Seth",
+                "date" => "Ph.D. 2020",
+                "homepage" => "https://www.renukapechetti.com/",
+                "position" => "Postdoc at Liverpool John Moores University",
+                ),
+            "Karina Voggel" => array(
+                "image" => "https://hcav.am/wp-content/uploads/2020/03/work-on-laptop-icon-150x150.jpg",
+                "date" => "Postdoc at U from 2016 to 2019",
+		"homepage" => "https://sites.google.com/view/karina-voggel/home",
+                "position" => "CNES Postdoctoral Fellow at Strasbourg Observatory",
+
+                ),
             "Sarah Eftekharzadeh" => array(
                 "image" => "https://hcav.am/wp-content/uploads/2020/03/work-on-laptop-icon-150x150.jpg",
                 "date" => "Postdoc at the U until Dec. 2020",
@@ -60,6 +74,20 @@
                 "date" => "Ph.D. 2019",
                 "position" => "Postdoc at CWRU and Shanghai Jiao Tong University",
                 ),
+             "Chris Ahn" => array(
+                "image" => "https://hcav.am/wp-content/uploads/2020/03/work-on-laptop-icon-150x150.jpg",
+                "advisor" => "Prof. Anil Seth",
+                "date" => "Ph.D. 2018",
+                "homepage" => "https://www.linkedin.com/in/christopher-ahn/",
+		"position" => "Lead Data Scientist at Intermountain Healthcare",
+                ),
+	     "Dieu Nguyen" => array(
+                "image" => "https://hcav.am/wp-content/uploads/2020/03/work-on-laptop-icon-150x150.jpg",
+                "advisor" => "Prof. Anil Seth",
+                "date" => "Ph.D. 2018",
+                "homepage" => "https://www.linkedin.com/in/dieu-nguyen-6086b447/",
+		"position" => "Postdoc at Center of Research in Astrophysics of Lyon",
+                ),
              "Haojie Xu" => array(
                 "image" => "http://astro.sjtu.edu.cn/media/com_mtree/images/listings/m/136.jpg",
                 "advisor" => "Prof. Zheng Zheng",
@@ -67,6 +95,13 @@
                 "date" => "Ph.D. 2018",
                 "position" => "Postdoc at Shanghai Jiao Tong University",
                 ),
+	     "Mark den Brok" => array(
+                "image" => "https://hcav.am/wp-content/uploads/2020/03/work-on-laptop-icon-150x150.jpg",
+                "date" => "Postdoc at U from 2012 to 2015",
+                "position" => "Postdoc at Leibniz Institute Potsdam",
+
+                ),
+
         );
     } catch (Exception $e) {
         echo $e->getMessage();
