@@ -34,7 +34,7 @@
                             helps form the clumps, while another (dark energy) is starting
                             to drive an accelerated expansion of these clumps away from each
                             other. A main goal is to characterize the properties and behavior of both dark matter and dark energy.
-                            [<a href="http://www.physics.utah.edu/~joelbrownstein/">Brownstein</a>, <a href="http://www.physics.utah.edu/~kdawson/">Dawson</a>, <a href="http://www.astro.utah.edu/~wik/">Wik</a>, <a href="http://www.astro.utah.edu/~zhengzheng/">Zheng</a>]
+                            [<a href="https://web.physics.utah.edu/~joelbrownstein/">Brownstein</a>, <a href="https://web.physics.utah.edu/~kdawson/">Dawson</a>, <a href="https://yymao.github.io/">Mao</a>, <a href="http://www.astro.utah.edu/~wik/">Wik</a>, <a href="https://www.astro.utah.edu/~zhengzheng/">Zheng</a>]
                             <br>&nbsp;
                             <br>
 
@@ -42,8 +42,8 @@
                             Milky Way, can contain hundreds to hundreds-of-billions of stars (give or take!), as well as
                             clouds of gas and dust, supermassive (and stellar mass) black holes, and dark matter. We look to see how galaxies were assembled and
                             how they interact with each other, giving clues about the formation of
-                            stars, the chemical enrichment of the Universe, and the nature of dark matter. 
-                            [<a href="http://www.physics.utah.edu/~joelbrownstein/">Brownstein</a>, <a href="http://www.physics.utah.edu/~aseth/">Seth</a>, <a href="http://www.physics.utah.edu/~zasowski/">Zasowski</a>, <a href="http://www.astro.utah.edu/~zhengzheng/">Zheng</a>]
+                            stars, the chemical enrichment of the Universe, and the nature of dark matter.
+                            [<a href="https://web.physics.utah.edu/~joelbrownstein/">Brownstein</a>, <a href="https://yymao.github.io/">Mao</a>, <a href="https://web.physics.utah.edu/~aseth/">Seth</a>, <a href="https://web.physics.utah.edu/~zasowski/">Zasowski</a>, <a href="https://www.astro.utah.edu/~zhengzheng/">Zheng</a>]
                             <br>&nbsp;
                             <br>
 
@@ -53,7 +53,7 @@
                             stars packed into a region of space smaller than our solar system.
                             We look at how these objects grow and influence the growth of
                             their host galaxies. Their origin remains a mystery....
-                            [<a href="http://www.physics.utah.edu/~aseth/">Seth</a>, <a href="http://www.physics.utah.edu/~bromley/">Bromley</a>, <a href="http://www.astro.utah.edu/~wik/">Wik</a>]
+                            [<a href="https://web.physics.utah.edu/~aseth/">Seth</a>, <a href="https://web.physics.utah.edu/~bromley/">Bromley</a>, <a href="https://web.astro.utah.edu/~wik/">Wik</a>]
                             <br>&nbsp;
                             <br>
 
@@ -63,9 +63,9 @@
                             By studying how these elements are spread across
                             different populations of stars in the Milky Way Galaxy,
                             we can understand the origin of the periodic table, including carbon, oxygen, and other
-                            elements necessary for life on Earth. Spectroscopy also tells us about how the stars are moving, 
-                            how old they are, and other properties that let us understand how the Milky Way formed and has changed over time.  
-                            [<a href="http://www.physics.utah.edu/~aseth/">Seth</a>, <a href="http://www.physics.utah.edu/~zasowski/">Zasowski</a>]
+                            elements necessary for life on Earth. Spectroscopy also tells us about how the stars are moving,
+                            how old they are, and other properties that let us understand how the Milky Way formed and has changed over time.
+                            [<a href="https://web.physics.utah.edu/~aseth/">Seth</a>, <a href="https://web.physics.utah.edu/~zasowski/">Zasowski</a>]
                             <br>&nbsp;
                             <br>
 
@@ -78,8 +78,8 @@
                             may reveal itself in interactions that can lead to
                             showers of high energy particles. So far there
                             have been only tentative hints of detections. Thus,
-                            the search continues. 
-                            [<a href="http://www.physics.utah.edu/~joelbrownstein/">Brownstein</a>, <a href="http://faculty.utah.edu/u0410334-PAOLO_GONDOLO/biography/index.hml">Gondolo</a>, <a href="http://www.physics.utah.edu/~sandick/">Sandick</a>, <a href="http://www.astro.utah.edu/~wik/">Wik</a>, <a href="http://www.physics.utah.edu/~zhaoyue/">Zhao</a>]
+                            the search continues.
+                            [<a href="https://web.physics.utah.edu/~joelbrownstein/">Brownstein</a>, <a href="https://faculty.utah.edu/u0410334-PAOLO_GONDOLO/">Gondolo</a>, <a href="https://yymao.github.io/">Mao</a>, <a href="https://web.physics.utah.edu/~sandick/">Sandick</a>, <a href="https://www.astro.utah.edu/~wik/">Wik</a>, <a href="https://web.physics.utah.edu/~zhaoyue/">Zhao</a>]
                             <br>&nbsp;
                             <br>
 
@@ -90,7 +90,7 @@
                             to thousands seen around other stars. We are working to understand
                             the mechanisms at play in the formation of planets, in particular of
                             rocky planets like our own Earth. Is this process universal, and
-                            do we have company in the Universe? [<a href="http://www.physics.utah.edu/~bromley/">Bromley</a>]
+                            do we have company in the Universe? [<a href="https://web.physics.utah.edu/~bromley/">Bromley</a>]
 
                             </ul>
                         </div>

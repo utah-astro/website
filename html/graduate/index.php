@@ -36,7 +36,7 @@
                                 This page provides some resources for you if you are currently
                                 a Ph.D. student or are interested in becoming one:
                                 <ul>
-                                    <li><a href="http://www.physics.utah.edu/graduate-program">Departmental Graduate information</a></li>
+                                    <li><a href="https://www.physics.utah.edu/graduate-programs/">Departmental Graduate information</a></li>
                                 </ul>
                             </p>
                         </div>

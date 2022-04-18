@@ -5,7 +5,7 @@
             <div class="uu-footer-1">
                 <h2>Where We Are</h2>
                 <p>
-                    INSCC Building (<a target="_blank" href="http://www.map.utah.edu/index.html?find=0019">map</a>)
+                    INSCC Building (<a target="_blank" href="https://www.map.utah.edu/index.html?find=0019">map</a>)
                     <br/>
                     3rd floor
                     <br/>
@@ -17,7 +17,7 @@
                 </p>
                 <p>
                     &copy; 2020
-                    <a href="http://www.utah.edu">The University of Utah</a>
+                    <a href="https://www.utah.edu">The University of Utah</a>
                 </p>
             </div>
             <!-- END FOOTER AREA 1 -->
@@ -27,16 +27,16 @@
                 <h2>Other Links</h2>
                 <ul>
                     <li>
-                        <a href="http://www.utah.edu/nondiscrimination/">Nondiscrimination &amp; Accessibility</a>
+                        <a href="https://www.utah.edu/nondiscrimination/">Nondiscrimination &amp; Accessibility</a>
                     </li>
                     <li>
-                        <a href="http://www.utah.edu/disclaimer/">Disclaimer</a>
+                        <a href="https://www.utah.edu/disclaimer/">Disclaimer</a>
                     </li>
                     <li>
-                        <a href="http://www.utah.edu/privacy/">Privacy</a>
+                        <a href="https://www.utah.edu/privacy/">Privacy</a>
                     </li>
                     <li>
-                        <a href="http://www.utah.edu/credits.php">Credits &amp; Attributions</a>
+                        <a href="https://www.utah.edu/credits-v2.php">Credits &amp; Attributions</a>
                     </li>
                     <li>
                         <span id="directedit"></span>
@@ -58,10 +58,10 @@
                             <a class="umail-link" title="U-Mail" href="https://www.umail.utah.edu/">U-Mail</a>
                         </li>
                         <li>
-                            <a class="facebook-link" title="facebook" href="http://www.facebook.com/universityofutah">facebook</a>
+                            <a class="facebook-link" title="facebook" href="https://www.facebook.com/universityofutah">facebook</a>
                         </li>
                         <li>
-                            <a class="twitter-link" title="twitter" href="http://twitter.com/uutah">twitter</a>
+                            <a class="twitter-link" title="twitter" href="https://twitter.com/uutah">twitter</a>
                         </li>
                     </ul>
                 </div>
@@ -72,7 +72,7 @@
             <div class="uu-footer-4">
 
                 <div class="footer-logo">
-                    <a href="http://imagineu.utah.edu/">
+                    <a href="https://imagineu.utah.edu/">
                         <img src="//templates.utah.edu/_main-v2/_images/footer/imagine_u.png" alt="Imagine U: The University of Utah"/>
                     </a>
                 </div>

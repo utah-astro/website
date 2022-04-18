@@ -38,17 +38,17 @@
                                       <a href="https://catalog.utah.edu/#/courses?group=Physics%20%26%20Astronomy">here.</a></li>
 
                                     <li> The
-                                    <a href="https://www.physics.utah.edu/_documents/UndergradHandbook2020.pdf">Department Undergraduate Handbook</a>, which has both the degree requirements for the minor and astrophysics emphasis.)</li>
+                                    <a href="https://www.physics.utah.edu/wp-content/uploads/sites/65/2021/07/UndergradHandbook.pdf">Department Undergraduate Handbook</a>, which has both the degree requirements for the minor and astrophysics emphasis.)</li>
 
                                     <li> Note that PHYS/ASTR 3070 is the "gateway" course to our astronomy course offerings -- this is offered each fall; other courses may be offered only every two years.  Please talk to us if you need help planning your major.</li>
                                 </ul>
 
                             </p>
-                        
+
                             <h3>Getting Undergraduate Research</h3>
-                        
+
                             <p>Watch this space for a guide on how to get started on choosing a research topic in Astronomy (coming soon).</p>
-                        
+
                             <ul>
                                 <li><a target="_physics" href="https://www.physics.utah.edu/reu-opportunities/">Research Experiences for Undergrads (REU)</a>:  The application deadline for this program is 1/31/2022.</li>
                             </ul>

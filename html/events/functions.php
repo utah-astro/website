@@ -1,6 +1,6 @@
 <?php
     function physics_heap() {
-        $url = 'http://www.physics.utah.edu/~heap/schedule.shtml';
+        $url = 'https://web.physics.utah.edu/~heap/schedule.shtml';
         $header = get_web_page( $url );
         echo $header['content'];
     }

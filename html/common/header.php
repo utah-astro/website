@@ -27,168 +27,77 @@
             <div class="collapse navbar-collapse" id="top-nav">
                 <ul class="nav navbar-nav navbar-right">
                     <li class="dropdown ">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">News</a>
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Astro Group</a>
                         <ul class="dropdown-menu">
-                            <li>
-                                <a href="https://www.physics.utah.edu/news/index.php">News</a>
-                            </li>
-                            <li>
-                                <a title="COVID-19 Information" href="https://www.physics.utah.edu/covid/">COVID-19</a>
-                            </li>
+                            <li><a href="../overview/">Overview</a></li>
+                            <li><a href="../research/">Research</a></li>
+                            <li><a href="../graduate/">Graduate Program</a></li>
+                            <li><a href="../undergraduate/">Undergraduate Program</a></li>
+                            <li><a href="../people/">People</a></li>
+                            <li><a href="../computing/">Computing Resources</a></li>
+                            <li><a href="https://web.physics.utah.edu/weo">Willard Eccles Observatory</a></li>
+                            <li><a href="https://observatory.astro.utah.edu/">South Physics Observatory</a></li>
                         </ul>
                     </li>
                     <li class="dropdown ">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Students</a>
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Department</a>
                         <ul class="dropdown-menu">
-                            <li>
-                                <a href="https://www.physics.utah.edu/courses/index.php">Courses</a>
-                            </li>
-                            <li>
-                                <a href="https://www.physics.utah.edu/undergraduate-program/index.php">Undergraduates</a>
-                            </li>
-                            <li>
-                                <a href="https://www.physics.utah.edu/graduate-program/index.php">Graduate Program</a>
-                            </li>
-                            <li>
-                                <a href="https://www.physics.utah.edu/research/">Research</a>
-                            </li>
-                            <li>
-                                <a href="https://www.physics.utah.edu/undergraduate-program/majors-emphases-minors.php">MAJORS, EMPHASES, AND MINORS</a>
-                            </li>
-                            <li>
-                                <a href="https://www.physics.utah.edu/undergraduate-program/advising.php">ACADEMIC ADVISING</a>
-                            </li>
+                            <li><a href="https://www.physics.utah.edu/employment/">Employment</a></li>
+                            <li><a href="https://www.physics.utah.edu/inclusion/">Equity, Diversity and Inclusion</a></li>
+                            <li><a href="https://www.physics.utah.edu//directory/">Directory</a></li>
+                            <li><a href="https://www.physics.utah.edu/safety/">Safety</a></li>
+                            <li><a href="https://www.physics.utah.edu/secure/internal/">Internal</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown ">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Graduate</a>
+                        <ul class="dropdown-menu">
+                            <li><a href="https://www.physics.utah.edu/graduate-programs/">Graduate Program Overview</a></li>
+                            <li><a href="https://www.physics.utah.edu/prospective-graduates/">Prospective Grad Students</a>
+                            <li><a href="https://www.physics.utah.edu/prospective-graduates/application-guidance/">Application Guidance</a></li>
+                            <li><a href="https://www.physics.utah.edu/prospective-graduates/graduate-faq/">Graduate FAQ</a></li>
+                            <li><a href="https://www.physics.utah.edu/prospective-graduates/how-to-apply/">How to Apply</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown ">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Undergraduate</a>
+                        <ul class="dropdown-menu">
+                        <li><a href="https://www.physics.utah.edu/undergraduate-program/">Undergraduate Program Overview</a></li>
+                            <li><a href="https://www.physics.utah.edu/undergraduate-program/academic-advising/">Academic Advising</a></li>
+                            <li><a href="https://www.physics.utah.edu/undergraduate-program/campus-resources/">Campus Resources</a></li>
+                            <li><a href="https://www.physics.utah.edu/undergraduate-program/career-resources/">Career Resources</a></li>
+                            <li><a href="https://www.physics.utah.edu/undergraduate-program/honors-program/">Honors Program</a></li>
+                            <li><a href="https://www.physics.utah.edu/undergraduate-program/majors-emphases-minors/">Majors, Emphases &amp; Minors</a></li>
+                            <li><a href="https://www.physics.utah.edu/undergraduate-program/permissions-codes-transfer-evaluations/">Permissions Codes &amp; Transfer Evaluations</a></li>
+                            <li><a href="https://www.physics.utah.edu/undergraduate-program/scholarships/">Scholarships</a></li>
+                            <li><a href="https://www.physics.utah.edu/undergraduate-program/student-involvement-employment/">Student Involvement &amp; Employment</a></li>
+                            <li><a href="https://www.physics.utah.edu/undergraduate-program/tutoring-resources/">Tutoring Resources</a></li>
+                            <li><a href="https://www.physics.utah.edu/undergraduate-program/undergraduate-faq/">Undergraduate FAQ</a></li>
+                            <li><a href="https://www.physics.utah.edu/wp-content/uploads/sites/65/2021/07/UndergradHandbook.pdf">Undergraduate Handbook</a></li>
+                            <li><a href="https://www.physics.utah.edu/undergraduate-program/undergraduate-research/">Undergraduate Research</a></li>
                         </ul>
                     </li>
                     <li class="dropdown ">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Research</a>
                         <ul class="dropdown-menu">
-                            <li>
-                                <a href="https://www.physics.utah.edu/research/">Home</a>
-                            </li>
-                            <li>
-                                <a href="https://www.physics.utah.edu/research/astronomy-astrophysics.php">Astro Group</a>
-                            </li>
-                            <li>
-                                <a href="https://www.physics.utah.edu/research/biophysics.php">Biophysics</a>
-                            </li>
-                            <li>
-                                <a href="https://www.physics.utah.edu/research/condensed-matter/index.php">Condensed Matter</a>
-                            </li>
-                            <li>
-                                <a href="https://www.physics.utah.edu/research/cosmic-rays.php">Cosmic Rays</a>
-                            </li>
-                            <li>
-                                <a href="https://www.physics.utah.edu/research/particle-theory.php">Particle Physics</a>
-                            </li>
-                            <li>
-                                <a href="https://www.physics.utah.edu/research/education.php">Physics Education Research</a>
-                            </li>
-                            <li>
-                                <a href="https://www.physics.utah.edu/research/centers-institutes.php">Centers &amp; Institutes</a>
-                            </li>
-                            <li>
-                                <a href="https://www.physics.utah.edu/research/reu-opportunities.php">REU Opportunities</a>
-                            </li>
+                            <li><a href="https://www.physics.utah.edu/research/">Research Overview</a></li>
+                            <li><a href="https://www.physics.utah.edu/research/astronomy/">Astronomy</a></li>
+                            <li><a href="https://www.physics.utah.edu/research/biophysics/">Biophysics</a></li>
+                            <li><a href="https://www.physics.utah.edu/research/condensed-matter-physics/">Condensed Matter Physics</a></li>
+                            <li><a href="https://www.physics.utah.edu/research/astroparticle-physics/">Astroparticle Physics</a></li>
+                            <li><a href="https://www.physics.utah.edu/research/high-energy-physics/">High Energy Physics</a></li>
+                            <li><a href="https://www.physics.utah.edu/research/physics-education-research/">Physics Education Research</a></li>
+                            <li><a href="https://www.physics.utah.edu/research/the-science-research-initiative/">The Science Research Initiative</a></li>
                         </ul>
                     </li>
                     <li class="dropdown ">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Events</a>
-                        <ul class="dropdown-menu">
-                            <li>
-                                <a href="https://www.physics.utah.edu/events/index.php">SEMINARS AND EVENTS</a>
-                            </li>
-                            <li>
-                                <a href="https://www.physics.utah.edu/for-visitors/index.php">For Visitors</a>
-                            </li>
-                            <li>
-                                <a href="https://www.physics.utah.edu/for-the-community/index.php">For the Community</a>
-                            </li>
-                            <li>
-                                <a href="https://www.physics.utah.edu/conferences/">Conferences &amp; Workshops</a>
-                            </li>
-                        </ul>
+                        <a href="https://www.physics.utah.edu/reu-opportunities/">REU Opportunities</a>
                     </li>
                     <li class="dropdown ">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Directory</a>
-                        <ul class="dropdown-menu">
-                            <li>
-                                <a href="https://www.physics.utah.edu/people/index.php">Everyone</a>
-                            </li>
-                            <li>
-                                <a href="https://www.physics.utah.edu/people/all-faculty.php">Faculty</a>
-                            </li>
-                            <li>
-                                <a href="https://www.physics.utah.edu/people/staff.php">Staff</a>
-                            </li>
-                        </ul>
+                        <a href="https://www.physics.utah.edu/news-events/">News &amp; Events</a>
                     </li>
                     <li class="dropdown ">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Resources</a>
-                        <ul class="dropdown-menu">
-                            <li>
-                                <a href="https://www.physics.utah.edu/safety/">Safety</a>
-                            </li>
-                            <li>
-                                <a href="https://www.physics.utah.edu/facilities/index.php">Facilities</a>
-                            </li>
-                            <li>
-                                <a href="https://www.physics.utah.edu/computing/index.php">Computing</a>
-                            </li>
-                            <li>
-                                <a href="https://www.physics.utah.edu/research/centers-institutes.php">Centers &amp; Institutes</a>
-                            </li>
-                            <li>
-                                <a title="COVID-19 Information" href="https://www.physics.utah.edu/covid/">COVID-19</a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="dropdown ">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Internal</a>
-                        <ul class="dropdown-menu">
-                            <li>
-                                <a href="https://www.physics.utah.edu/internal/index.php">Internal</a>
-                            </li>
-                            <li>
-                                <a href="https://www.physics.utah.edu/accounting/index.php">Accounting</a>
-                            </li>
-                            <li>
-                                <a href="https://www.physics.utah.edu/employment/index.php">Employment</a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="dropdown ">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">About</a>
-                        <ul class="dropdown-menu">
-                            <li>
-                                <a href="https://www.physics.utah.edu/about-us/index.php">About Us</a>
-                            </li>
-                            <li>
-                                <a href="https://www.physics.utah.edu/newsletter/index.php">Newsletter</a>
-                            </li>
-                            <li>
-                                <a href="https://www.physics.utah.edu/research/index.php">Research</a>
-                            </li>
-                            <li>
-                                <a href="https://www.physics.utah.edu/contact-us.php">Contact Us</a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="dropdown ">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Inclusion</a>
-                        <ul class="dropdown-menu">
-                            <li>
-                                <a href="https://www.physics.utah.edu/equity-inclusion/index.php">Inclusion</a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="dropdown ">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Giving</a>
-                        <ul class="dropdown-menu">
-                            <li>
-                                <a href="https://umarket.utah.edu/ugive/level4.php?catid=100" target="_blank">Giving</a>
-                            </li>
-                        </ul>
+                        <a href="https://umarket.utah.edu/ugive/level4.php?catid=100">Giving</a>
                     </li>
                 </ul>
             </div>
