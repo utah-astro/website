@@ -24,13 +24,13 @@
                 "keywords" => "Origins of Cosmic Acceleration, Cosmology, Galaxy Clustering",
                 "links" => "<a target='_blank' href='https://www.sdss.org/surveys/eboss/'>eBOSS</a>, <a target='_blank' href='https://www.desi.lbl.gov'>DESI</a>, <a target='_blank' href='https://datascience.utah.edu'>Utah Center For Data Science</a>"
                 ),
-            "Tanmoy Laskar (coming Fall 2022)" => array(
+            "Tanmoy Laskar" => array(
                 "image" => "https://scholar.harvard.edu/files/laskar/files/laskar_t_29777-0011_0.jpg",
                 "homepage" => "https://scholar.harvard.edu/laskar",
                 "keywords" => "Time Domain Astronomy, Relativistic Explosions (Gravitational Wave Events, Gamma-ray Bursts, Tidal Disruption Events), High-energy Astrophysics, Galaxy Evolution, Multi-wavelength Observations & Modeling, Machine Learning.",
                 "links" => ""
                 ),
-            "Yao-Yuan Mao (coming Fall 2022)" => array(
+            "Yao-Yuan Mao" => array(
                 "image" => "https://yymao.github.io/images/Mao_Yao-Yuan_480.jpg",
                 "homepage" => "https://yymao.github.io/",
                 "keywords" => "Dwarf Galaxies, Low-redshift Galaxies, Galaxy Formation, Nature of Dark Matter, Cosmological Simulations, Astronomical Surveys",
