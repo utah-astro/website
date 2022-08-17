@@ -26,10 +26,6 @@
                 "keywords" => "Astronomy and Data Science",
                 "advisor" => "Prof. Yao-Yuan Mao"
                 ),
-            "Joseph Summers" => array(
-                "keywords" => "Astronomy and Data Science",
-                "advisor" => "Prof. Joel Brownstein"
-                ),
             "Antoine Dumont" => array(
                 "image" => "../resources/jpg/antoine_dumont.jpg",
                 "homepage" => "https://antoinedumontneira.github.io/",
@@ -79,6 +75,11 @@
                 "keywords" => "",
                 "links" => "",
                 "advisor" => "Prof. Dan Wik"
+                ),
+            "Joseph Summers" => array(
+                "image" => "https://hcav.am/wp-content/uploads/2020/03/work-on-laptop-icon-150x150.jpg",
+                "keywords" => "Astronomy and Data Science",
+                "advisor" => "Prof. Joel Brownstein"
                 ),
         );
     } catch (Exception $e) {
