@@ -23,7 +23,6 @@
             "Abigail A. Coker" => array(
                 "image" => "../resources/jpg/abigail_headshot.jpg",
                 "homepage" => "https://faculty.utah.edu/u1373588-ABIGAIL_ALLISON_COKER/research/index.hml",
-                "keywords" => "Astronomy and Data Science",
                 "advisor" => "Prof. Yao-Yuan Mao"
                 ),
             "Antoine Dumont" => array(
