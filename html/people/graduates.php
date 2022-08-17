@@ -24,7 +24,10 @@
                 "image" => "../resources/jpg/abigail_headshot.jpg",
                 "homepage" => "https://faculty.utah.edu/u1373588-ABIGAIL_ALLISON_COKER/research/index.hml",
                 "keywords" => "Astronomy and Data Science",
-                "links" => "<a target='_blank' href='https://www.sdss5.org'>SDSS-V</a>",
+                "advisor" => "Prof. Yao-Yuan Mao"
+                ),
+            "Joseph Summers" => array(
+                "keywords" => "Astronomy and Data Science",
                 "advisor" => "Prof. Joel Brownstein"
                 ),
             "Antoine Dumont" => array(
