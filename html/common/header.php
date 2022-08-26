@@ -26,7 +26,7 @@
             </div>
             <div class="collapse navbar-collapse" id="top-nav">
                 <ul class="nav navbar-nav navbar-right">
-                <li class="dropdown ">
+                    <li class="dropdown ">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Astro Group</a>
                         <ul class="dropdown-menu">
                             <li><a href="../overview/">Overview</a></li>
@@ -44,7 +44,6 @@
                             <li><a target="_blank" href="https://observatory.astro.utah.edu/">South Physics Observatory</a></li>
                         </ul>
                     </li>
-
                     <li class="dropdown ">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Events</a>
                         <ul class="dropdown-menu">

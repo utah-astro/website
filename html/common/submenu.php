@@ -27,7 +27,7 @@
                     </li>
                 </ul>
                 <h4 style="color: #955;">External Links</h4>
-                <h5 style="color: #955;">Observatories</h4>
+                <h5 style="color: #955;">Observatories</h5>
                 <ul>
                     <li>
                         <a target="_blank" href="https://web.physics.utah.edu/weo">Willard Eccles Observatory</a>
