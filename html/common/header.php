@@ -41,7 +41,7 @@
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Observatories</a>
                         <ul class="dropdown-menu">
                             <li><a target="_blank" href="https://web.physics.utah.edu/weo">Willard Eccles Observatory</a></li>
-                            <li><a target="_blank" href="https://observatory.astro.utah.edu/">South Physics Observatory</a></li>
+                            <li><a target="_blank" href="https://www.physics.utah.edu/outreach/spo/">South Physics Observatory</a></li>
                         </ul>
                     </li>
                     <li class="dropdown ">
