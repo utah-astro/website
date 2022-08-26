@@ -3,14 +3,11 @@
 /* --- header background image ---- */
 .uu-header {background-image: url("//templates.utah.edu/_main-v2/_images/header/background/students.jpg");}
 
-
 /* -- adjust top nav menu spacing --*/
 .uu-nav .navbar-nav > li > a {
   	padding-left: 8px !important;
    	padding-right: 8px !important;
 }
-
-
 
 /* ---- Custom Sub Nav Styles ---- */
 .uu-subnav li.active>a {
@@ -24,30 +21,33 @@
 }
 
 .uu-subnav li a {
-		color: #666;
+	color: #666;
     width: 100%;
     padding: 0.2em 0.75em;
     display: block;
 }
-		
+
 .uu-subnav li a:hover {
-  
     background-color: #555 !important;
 }
 
 .uu-subnav li a:focus {
-  
     background-color: #555 !important;
 }
 
-
-.uu-subnav .panel-body 
-	{
+.uu-subnav .panel-body {
 	border-left: none;
 	border-right:none;
     border-bottom: 2px solid #c00000;
     border-top: 2px solid #cc0000;
 }
+
+/* ---- Open new window symbol ---- */
+#top-nav a[target="_blank"]::after {
+    content: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAQAAAAnOwc2AAAAAXNSR0IArs4c6QAAADdJREFUeNqFzrENACAMA0GPwmjZfwmQyEuPRBG7ca5Kdp52HHCB95BKlAJKvQMuSIT5AKQT/skBm1CJutnV5xUAAAAASUVORK5CYII=);
+    margin: 0 3px 0 5px;
+}
+
 
 /* ==================== time and date picker =================== */
 
@@ -62,9 +62,9 @@
 	transform: none;
 }
 
-.no-js .modal .close, 
+.no-js .modal .close,
 .no-js .modal-footer {
-	display:none; 
+	display:none;
 }
 
 
@@ -83,7 +83,7 @@
 
 td.centercell2 {
 	text-align: center;
-	vertical-align: middle;	
+	vertical-align: middle;
 	margin-left:25%;
 	margin-right:25%;
 
@@ -92,7 +92,7 @@ td.centercell2 {
 #sortMe {
 	border: 1px solid silver;
 	width:30%;
-	cursor: pointer; cursor: hand; 
+	cursor: pointer; cursor: hand;
 }
 
 #sortMe div {

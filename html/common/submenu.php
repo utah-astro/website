@@ -5,7 +5,7 @@
                 <div class="skip-subnav">
                     <a href="#skip-subnav-target">Skip Menu</a>
                 </div>
-                <h3 style="color: #955;">Astro Group</h3>
+                <h4 style="color: #955;">Astro Group</h4>
                 <ul>
                     <li>
                         <a href="../overview/">Overview</a>
@@ -25,6 +25,10 @@
                     <li>
                         <a href="../computing/">Computing Resources</a>
                     </li>
+                </ul>
+                <h4 style="color: #955;">External Links</h4>
+                <h5 style="color: #955;">Observatories</h4>
+                <ul>
                     <li>
                         <a target="_blank" href="https://web.physics.utah.edu/weo">Willard Eccles Observatory</a>
                     </li>
@@ -32,16 +36,22 @@
                         <a target="_blank" href="https://observatory.astro.utah.edu/">South Physics Observatory (on campus)</a>
                     </li>
                 </ul>
-                <h4 style="color: #955;">Events</h4>
+                <h5 style="color: #955;">Events</h5>
                 <ul>
                     <li>
-                        <a target="_blank" href="../events/">HEAP Seminar</a>
+                        <a target="_blank" href="https://web.physics.utah.edu/~heap/">HEAP Seminar</a>
                     </li>
                     <li>
-                        <a target="_blank" href="https://www.physics.utah.edu/events/">Colloquium (Calendar)</a>
+                        <a target="_blank" href="https://www.physics.utah.edu/events/">Department Events &amp; Colloquia</a>
                     </li>
                     <li>
                         <a target="_blank" href="https://www.benty-fields.com/">Astrocoffee (Benty Fields)</a>
+                    </li>
+                </ul>
+                <h5 style="color: #955;">Physics &amp; Astronomy</h5>
+                <ul>
+                    <li>
+                        <a target="_blank" href="https://www.physics.utah.edu/">Department Website</a>
                     </li>
                 </ul>
             </div>
