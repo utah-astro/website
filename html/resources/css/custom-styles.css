@@ -1,16 +1,15 @@
 /* Put custom CSS styles here */
 
 /* --- header background image ---- */
-.uu-header {background-image: url("//templates.utah.edu/_main-v2/_images/header/background/students.jpg");}
-
+.uu-header {
+    background-image: url("//templates.utah.edu/_main-v2/_images/header/background/students.jpg");
+}
 
 /* -- adjust top nav menu spacing --*/
 .uu-nav .navbar-nav > li > a {
-  	padding-left: 8px !important;
-   	padding-right: 8px !important;
+    padding-left: 8px !important;
+    padding-right: 8px !important;
 }
-
-
 
 /* ---- Custom Sub Nav Styles ---- */
 .uu-subnav li.active>a {
@@ -24,83 +23,76 @@
 }
 
 .uu-subnav li a {
-		color: #666;
+    color: #666;
     width: 100%;
     padding: 0.2em 0.75em;
     display: block;
 }
-		
+
 .uu-subnav li a:hover {
-  
     background-color: #555 !important;
 }
 
 .uu-subnav li a:focus {
-  
     background-color: #555 !important;
 }
 
-
-.uu-subnav .panel-body 
-	{
-	border-left: none;
-	border-right:none;
+.uu-subnav .panel-body {
+    border-left: none;
+    border-right:none;
     border-bottom: 2px solid #c00000;
     border-top: 2px solid #cc0000;
 }
 
-/* ==================== time and date picker =================== */
+/* ---- Open new window symbol ---- */
+#top-nav a[target="_blank"]::after {
+    content: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAQAAAAnOwc2AAAAAXNSR0IArs4c6QAAADdJREFUeNqFzrENACAMA0GPwmjZfwmQyEuPRBG7ca5Kdp52HHCB95BKlAJKvQMuSIT5AKQT/skBm1CJutnV5xUAAAAASUVORK5CYII=);
+    margin: 0 3px 0 5px;
+}
 
+/* ==================== time and date picker =================== */
 .no-js .modal {
-	display:block !important;
-	position: static;
+    display:block !important;
+    position: static;
 }
 .no-js  .modal.fade {
-	opacity:1;
+    opacity:1;
 }
 .no-js .modal.fade .modal-dialog {
-	transform: none;
+    transform: none;
 }
-
-.no-js .modal .close, 
+.no-js .modal .close,
 .no-js .modal-footer {
-	display:none; 
+    display:none;
 }
-
-
 
 /* STYLES FOR DATE-PICKER and TIME-PICKER */
 .uu-main-content .basic .value-picker {
-	max-width:100%;
-	width:200px;
-
+    max-width:100%;
+    width:200px;
 }
 .uu-main-content .basic .value-picker input {
-	height:2em; /* fix for IE */
-	max-width:100% !important;
-	width:100%;
+    height:2em; /* fix for IE */
+    max-width:100% !important;
+    width:100%;
 }
 
 td.centercell2 {
-	text-align: center;
-	vertical-align: middle;	
-	margin-left:25%;
-	margin-right:25%;
-
+    text-align: center;
+    vertical-align: middle;
+    margin-left:25%;
+    margin-right:25%;
 }
 
 #sortMe {
-	border: 1px solid silver;
-	width:30%;
-	cursor: pointer; cursor: hand; 
+    border: 1px solid silver;
+    width:30%;
+    cursor: pointer; cursor: hand;
 }
 
 #sortMe div {
-	margin: 5px;
-	padding: 10px;
-	background: #E5E5E5;
+    margin: 5px;
+    padding: 10px;
+    background: #E5E5E5;
 }
 /* END STYLES FOR DATE-PICKER and TIME-PICKER *
-
-
-
