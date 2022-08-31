@@ -40,7 +40,7 @@
                 ),
             "Ben Gibson" => array(
                 "image" => "../resources/jpg/ben_gibson.jpg",
-                "homepage" => "https://faculty.utah.edu/u1267339-Benjamin_J_Gibson/research/index.hml",
+                "homepage" => "https://benjamin-gibson.github.io/",
                 "keywords" => "Galaxy Evolution and Stellar Populations",
                 "links" => "",
                 "advisor" => "Prof. Gail Zasowski"
@@ -58,6 +58,7 @@
                 "advisor" => "Prof. Ben Bromley"
                 ),            
             "Aidan McBride" => array(
+                "homepage" => "https://faculty.utah.edu/u1371365-AIDAN_THOMAS_MCBRIDE/research/index.hml",
                 "image" => "../resources/jpg/McBride_Aidan.jpg",
                 "keywords" => "Interstellar medium dynamics, molecular clouds",
                 "advisor" => "Prof. Gail Zasowski"
@@ -81,6 +82,7 @@
                 "advisor" => "Prof. Dan Wik"
                 ),
             "Amaya Sinha" => array(
+                "homepage" => "https://faculty.utah.edu/u1363702-AMAYA_SINHA/research/index.hml",
                 "image" => "../resources/jpg/Sinha_Amaya.jpg",
                 "keywords" => "Stellar clusters, stellar chemistry",
                 "advisor" => "Prof. Gail Zasowski"
