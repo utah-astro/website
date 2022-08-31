@@ -18,7 +18,9 @@
                 $date = $member["date"];
                 $position = $member["position"];
                 echo "<tr>";
-                echo "<td width='150'><a target='_homepage' href='$homepage'><img src='$image' alt='$name' width='150' height='150'></a></td>";
+                echo "<td><div class='avatar'><a target='_homepage' href='$homepage'><img src='$image' alt='$name' ";
+                if ( ! empty($image_height_shift) ) {echo "style='transform:translateY($image_height_shift);'";}
+                echo "></a></div></td>";
                 echo "<td>";
                 echo "<h4><a target='_homepage' href='$homepage'>$name</a></h4>";
                 if ( ! empty($keywords) ) {echo "<p>$astro $keywords</p>";}
