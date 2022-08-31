@@ -2,6 +2,13 @@
 <?php
     try {
         $members = array(
+            "Tobin Wainer" => array(
+                "image" => "../resources/jpg/wainer_tobin.jpg",
+                "homepage" => "https://tobin-wainer.github.io/",
+                "advisor" => "Profs. Anil Seth and Gail Zasowski",
+                "date" => "Postbac at the U until 2022",
+                "position" => "Graduate Student at the University of Washington",
+                ),
             "Michael S. Talbot" => array(
                 "image" => "https://science.jpl.nasa.gov/media/images/talbot_pic.max-255x355.jpg",
                 "homepage" => "https://science.jpl.nasa.gov/people/michael-talbot/",
