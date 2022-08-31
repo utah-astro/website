@@ -3,7 +3,7 @@
     try {
         $members = array(
             "Tobin Wainer" => array(
-                "image" => "../resources/jpg/wainer_tobin.jpg",
+                "image" => "../resources/jpg/wainer_tobin.JPG",
                 "homepage" => "https://tobin-wainer.github.io/",
                 "advisor" => "Profs. Anil Seth and Gail Zasowski",
                 "date" => "Postbac at the U until 2022",
