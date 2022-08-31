@@ -57,6 +57,11 @@
                 "links" => "",
                 "advisor" => "Prof. Ben Bromley"
                 ),            
+            "Aidan McBride" => array(
+                "image" => "../resources/jpg/McBride_Aidan.jpg",
+                "keywords" => "Interstellar medium dynamics, molecular clouds",
+                "advisor" => "Prof. Gail Zasowski"
+                ),
             "Cicely Potter" => array(
                 "image" => "https://hcav.am/wp-content/uploads/2020/03/work-on-laptop-icon-150x150.jpg",
                 "keywords" => "",
@@ -74,6 +79,11 @@
                 "keywords" => "",
                 "links" => "",
                 "advisor" => "Prof. Dan Wik"
+                ),
+            "Amaya Sinha" => array(
+                "image" => "../resources/jpg/Sinha_Amaya.jpg",
+                "keywords" => "Stellar clusters, stellar chemistry",
+                "advisor" => "Prof. Gail Zasowski"
                 ),
             "Joseph Summers" => array(
                 "image" => "https://hcav.am/wp-content/uploads/2020/03/work-on-laptop-icon-150x150.jpg",
