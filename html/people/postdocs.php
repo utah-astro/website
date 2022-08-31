@@ -7,7 +7,7 @@
                 "keywords" => "Galaxy evolution and the Galaxy-halo Connection, Cosmology and Large-scale Structure, Galaxy Clustering, Statistical Methods",
                 "homepage" => "http://angelaberti.com/"
                 ),
-            "Mallory Molina" => array(
+            "Mallory Molina, <i>Eccles Fellow</i>" => array(
                 "image" => "../resources/jpg/molina_mallory_crop.jpeg",
                 "keywords" => "Black holes in dwarf galaxies, AGN feedback, black hole-galaxy interactions, star formation and dust attenuation",
                 "homepage" => "https://sites.google.com/view/m-molina/home"
