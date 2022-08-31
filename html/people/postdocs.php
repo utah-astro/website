@@ -8,7 +8,7 @@
                 "homepage" => "http://angelaberti.com/"
                 ),
             "Mallory Molina" => array(
-                "image" => "../resources/jpg/molina_mallory_crop.jpg",
+                "image" => "../resources/jpg/molina_mallory_crop.jpeg",
                 "keywords" => "Black holes in dwarf galaxies, AGN feedback, black hole-galaxy interactions, star formation and dust attenuation",
                 "homepage" => "https://sites.google.com/view/m-molina/home"
                 ),
