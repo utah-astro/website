@@ -7,6 +7,11 @@
                 "keywords" => "Galaxy evolution and the Galaxy-halo Connection, Cosmology and Large-scale Structure, Galaxy Clustering, Statistical Methods",
                 "homepage" => "http://angelaberti.com/"
                 ),
+            "Mallory Malina" => array(
+                "image" => "../resources/jpg/molina_mallory_crop.jpg",
+                "keywords" => "Black holes in dwarf galaxies, AGN feedback, black hole-galaxy interactions, star formation and dust attenuation",
+                "homepage" => "https://sites.google.com/view/m-molina/home"
+                ),
             "Ay&#351;eg&uuml;l T&uuml;mer" => array(
                 "image" => "../resources/jpg/aysegul_tumer.JPG",
                 "keywords" => "High Energy Astrophysics (X-Ray), Non-Cool Core Galaxy Clusters and Mergers, Evolution of Galaxy Clusters, 
