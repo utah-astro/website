@@ -7,7 +7,7 @@
                 "keywords" => "Galaxy evolution and the Galaxy-halo Connection, Cosmology and Large-scale Structure, Galaxy Clustering, Statistical Methods",
                 "homepage" => "http://angelaberti.com/"
                 ),
-            "Mallory Malina" => array(
+            "Mallory Molina" => array(
                 "image" => "../resources/jpg/molina_mallory_crop.jpg",
                 "keywords" => "Black holes in dwarf galaxies, AGN feedback, black hole-galaxy interactions, star formation and dust attenuation",
                 "homepage" => "https://sites.google.com/view/m-molina/home"
