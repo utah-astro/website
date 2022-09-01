@@ -18,12 +18,8 @@
                 "keywords" => "High Energy Astrophysics (X-Ray), Non-Cool Core Galaxy Clusters and Mergers, Evolution of Galaxy Clusters,
                                X-ray Background Reduction Methods, Data Analysis of NuSTAR/XMM-Newton/Chandra Observatories,
                                AGN Feedback Mechanisms in Brightest Cluster Galaxies, X-Ray Spectral and Imaging Methods",
-                "homepage" => ""
                 ),
             "Qian Wang" => array(
-                "image" => "https://hcav.am/wp-content/uploads/2020/03/work-on-laptop-icon-150x150.jpg",
-                "keywords" => "",
-                "homepage" => ""
                 ),
         );
     } catch (Exception $e) {

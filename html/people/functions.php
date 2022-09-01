@@ -13,9 +13,10 @@
             $book = fa('book');
             $address = fa('address-book');
             $calendar = fa('calendar-o');
-            echo "<table class='table table-header-shade table-bordered'>";
+            echo "<table class='table table-header-shade table-bordered table-people'>";
             uksort($members, compare_last_name);
             foreach ($members as $name => $member) {
+                $name = str_replace("_", " ", $name);
                 $image = $member["image"];
                 if( empty($image) ) {$image = "../resources/jpg/work-on-laptop-icon-150x150.jpg";}
                 $image_shift = $member["image_shift"];
@@ -41,7 +42,7 @@
                 echo "</div></td>";
                 /* Description */
                 echo "<td>";
-                if ( ! empty($homepage) ) {echo "<h4><a target='_blank' href='$homepage'>$name$remark</a> $link</h4>";}
+                if ( ! empty($homepage) ) {echo "<h4><a target='_blank' href='$homepage'>$name$remark</a> <span style='font-size:90%'>$link</span></h4>";}
                 else{ echo "<h4 style='color:#C00;'>$name$remark</h4>";}
                 if ( ! empty($keywords) ) {echo "<p>$astro $keywords</p>";}
                 if ( ! empty($links) ) {echo "<p>$link $links</p>";}

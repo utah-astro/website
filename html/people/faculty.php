@@ -16,7 +16,8 @@
             "Tabitha Buehler" => array(
                 "image" => "https://faculty.utah.edu/bytes/image.hml?id=u0791607",
                 "homepage" => "https://faculty.utah.edu/u0791607-TABITHA_BUEHLER/research/index.hml",
-                "keywords" => "Best Teaching Practices, Public Outreach, Informal Education Engagement"
+                "keywords" => "Best Teaching Practices, Public Outreach, Informal Education Engagement",
+                "image_shift" => "-10%",
                 ),
             "Kyle Dawson" => array(
                 "image" => "https://faculty.utah.edu/bytes/image.hml?id=u0634757",
@@ -28,7 +29,8 @@
                 "image" => "https://scholar.harvard.edu/files/laskar/files/laskar_t_29777-0011_0.jpg",
                 "homepage" => "https://scholar.harvard.edu/laskar",
                 "keywords" => "Time Domain Astronomy, Relativistic Explosions (Gravitational Wave Events, Gamma-ray Bursts, Tidal Disruption Events), High-energy Astrophysics, Galaxy Evolution, Multi-wavelength Observations & Modeling, Machine Learning.",
-                "links" => ""
+                "image_shift" => "-10%",
+                "image_landscape" => true,
                 ),
             "Yao-Yuan Mao" => array(
                 "image" => "https://yymao.github.io/images/Mao_Yao-Yuan_480.jpg",
@@ -40,7 +42,9 @@
                 "image" => "https://faculty.utah.edu/bytes/image.hml?id=u0778105",
                 "homepage" => "https://web.physics.utah.edu/~aseth/Anil_Seth.html",
                 "links" => "<a target='_blank' href='https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0003-0248-5470'>Published Papers</a>",
-                "keywords" => "Massive Black Holes, Nearby Galaxies, Nuclear Star Clusters"
+                "keywords" => "Massive Black Holes, Nearby Galaxies, Nuclear Star Clusters",
+                "image_shift" => "-10%",
+                "image_landscape" => true,
                 ),
             "Daniel Wik" => array(
                 "image" => "https://faculty.utah.edu/bytes/image.hml?id=u6008171",
@@ -56,12 +60,13 @@
             "Zheng Zheng" => array(
                 "image" => "https://faculty.utah.edu/bytes/image.hml?id=u0786031",
                 "homepage" => "http://www.astro.utah.edu/~zhengzheng/",
-                "keywords" => "Galaxy Formation and Evolution, Cosmology, Large-Scale Structure, Cosmic Reionization"
+                "keywords" => "Galaxy Formation and Evolution, Cosmology, Large-Scale Structure, Cosmic Reionization",
+                "image_shift" => "-7%",
                 )
         );
     } catch (Exception $e) {
         echo $e->getMessage();
         $members = NULL;
-    }    
+    }
     membertable($members);
 ?>
