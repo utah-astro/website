@@ -50,6 +50,23 @@
     margin: 0 3px 0 5px;
 }
 
+/* ---- Styles for profile pictures ---- */
+div.avatar {
+    overflow: hidden;
+    height: 150px;
+    width: 150px;
+}
+
+div.avatar img{
+    width: 100%;
+    height: auto;
+}
+
+div.avatar img.landscape{
+    height: 100%;
+    width: auto;
+}
+
 /* ==================== time and date picker =================== */
 .no-js .modal {
     display:block !important;
