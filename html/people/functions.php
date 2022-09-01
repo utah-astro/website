@@ -1,7 +1,7 @@
 <?php
     function compare_last_name($a, $b){
-        $a_last = end(explode(" ", $a));
-        $b_last = end(explode(" ", $b));
+        $a_last = strtolower(end(explode(" ", $a)));
+        $b_last = strtolower(end(explode(" ", $b)));
         return strcmp($a_last, $b_last);
     }
 
