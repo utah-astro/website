@@ -59,6 +59,12 @@ div.avatar {
 
 div.avatar img{
     width: 100%;
+    height: auto;
+}
+
+div.avatar img.landscape{
+    height: 100%;
+    width: auto;
 }
 
 /* ==================== time and date picker =================== */
