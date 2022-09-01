@@ -18,7 +18,7 @@
                 "image" => "https://faculty.utah.edu/bytes/image.hml?id=u0791607",
                 "homepage" => "https://faculty.utah.edu/u0791607-TABITHA_BUEHLER/research/index.hml",
                 "keywords" => "Best Teaching Practices, Public Outreach, Informal Education Engagement",
-                "image_shift" => "-10%",
+                "image_shift" => "-15%",
                 ),
             "Kyle Dawson" => array(
                 "image" => "https://faculty.utah.edu/bytes/image.hml?id=u0634757",

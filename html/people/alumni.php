@@ -103,6 +103,7 @@
                 "phd_thesis" => "Galaxy Color-Luminosity-Halo Mass Relation from Galaxy Clustering",
                 "date" => "Ph.D. 2018",
                 "position" => "Postdoc at Shanghai Jiao Tong University",
+                "image_shift" => "-25%",
                 ),
 	        "Mark den_Brok" => array(
                 "date" => "Postdoc at U from 2012 to 2015",
