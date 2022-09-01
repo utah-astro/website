@@ -17,6 +17,8 @@
                 "phd_thesis" => "Extending the Search for Strong Galaxy-Galaxy Gravitational Lenses within SDSS",
                 "date" => "Ph.D. 2021",
                 "position" => "NASA Postdoc in the Origin of the Universe Group at JPL",
+                "image_shift" => "-5%",
+                "image_landscape" => true,
                 ),
             "Vijith Jacob Poovelil" => array(
                 "image" => "../resources/jpg/vijith_poovelil.jpeg",
@@ -43,6 +45,8 @@
                 "homepage" => "https://drstenhq.com/",
                 "date" => "Postdoc at the U until June 2021",
                 "position" => "Staff scientist at Space Telescope Science Institute",
+                "image_shift" => "-10%",
+                "image_landscape" => true,
                 ),
             "Kevin S. McCarthy" => array(
                 "image" => "https://science.jpl.nasa.gov/media/images/Kevin_McCarthy_pic.max-255x355.jpg",

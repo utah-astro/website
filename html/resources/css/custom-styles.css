@@ -64,11 +64,16 @@ div.avatar img{
 div.avatar img.landscape{
     height: 100%;
     width: auto;
-    max-width: auto;
+    max-width: unset;
 }
 
 .table-people td:first-child{
-    max-width: 167px;
+    width: 167px;
+}
+
+.table-people p {
+    margin: 0.5em 0;
+    line-height: 1.5;
 }
 
 /* ==================== time and date picker =================== */
