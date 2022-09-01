@@ -27,6 +27,7 @@
                 $phd_thesis = $member["phd_thesis"];
                 $date = $member["date"];
                 $position = $member["position"];
+                $remark = $member["remark"];
                 echo "<tr>";
                 /* Profile picture */
                 echo "<td><div class='avatar'>";
@@ -40,8 +41,8 @@
                 echo "</div></td>";
                 /* Description */
                 echo "<td>";
-                if ( ! empty($homepage) ) {echo "<h4><a target='_blank' href='$homepage'>$name</a> $link</h4>";}
-                else{ echo "<h4 style='color:#C00;'>$name</h4>";}
+                if ( ! empty($homepage) ) {echo "<h4><a target='_blank' href='$homepage'>$name$remark</a> $link</h4>";}
+                else{ echo "<h4 style='color:#C00;'>$name$remark</h4>";}
                 if ( ! empty($keywords) ) {echo "<p>$astro $keywords</p>";}
                 if ( ! empty($links) ) {echo "<p>$link $links</p>";}
                 if ( ! empty($phd_thesis) ) {echo "<p>$book Thesis: $phd_thesis</p>";}
