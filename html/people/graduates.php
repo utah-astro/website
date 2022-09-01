@@ -2,10 +2,6 @@
 <?php
     try {
         $members = array(
-            "Aishwarya (Ash) Ashok" => array(
-                "keywords" => "Galaxy Evolution, Galaxy structure, Star clusters and Stellar populations",
-                "advisor" => "Prof. Anil Seth"
-                ),
             "Allyson Brodzeller" => array(
                 "image" => "../resources/jpg/allyson_brodzeller.jpg",
                 "keywords" => "Cosmology, Large-scale structure, Applications of machine learning",
@@ -54,13 +50,7 @@
                 "advisor" => "Prof. Gail Zasowski"
                 ),
             "Cicely Potter" => array(
-                "advisor" => "Prof. Dan Wik"
-                ),
-            "Randall Rojas Bolivar" => array(
-                "advisor" => "Prof. Dan Wik"
-                ),
-            "Steve Rossland" => array(
-                "advisor" => "Prof. Dan Wik"
+                "advisor" => "Prof. Dan Wik",
                 ),
             "Amaya Sinha" => array(
                 "homepage" => "https://faculty.utah.edu/u1363702-AMAYA_SINHA/research/index.hml",
@@ -70,8 +60,24 @@
                 ),
             "Joseph Summers" => array(
                 "keywords" => "Astronomy and Data Science",
-                "advisor" => "Prof. Joel Brownstein"
+                "advisor" => "Prof. Joel Brownstein",
                 ),
+            "Kameron Goold" => array(
+                "advisor" => "Prof. Anil Seth",
+                ),
+            "Tyler Hagen" => array(
+                "advisor" => "Profs. Kyle Dawson and Zheng Zheng",
+                ),
+            "Pengfei Li" => array(
+                "advisor" => "Prof. Zheng Zheng",
+                ),
+            "David Ohlson" => array(
+                "advisor" => "Prof. Anil Seth",
+                ),
+            "Samantha Creech" => array(
+                "advisor" => "Prof. Dan Wik",
+                ),
+
         );
     } catch (Exception $e) {
         echo $e->getMessage();

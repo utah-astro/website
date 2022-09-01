@@ -14,6 +14,7 @@
                 "links" => "<a target='_blank' href='https://data.sdss.org'>SDSS Data</a>, <a target='_blank' href='https://www.sdss5.org'>SDSS-V</a>, <a target='_blank' href='https://datascience.utah.edu'>Utah Center For Data Science</a>, <a target='_blank' href='http://admin.masterlens.org/index.php'>The Master Lens Database</a>, <a target='_blank' href='https://scholar.google.com/citations?user=Yr5IIFEAAAAJ'>Google Scholar Citations</a>, <a target='_blank' href='https://orcid.org/0000-0002-8725-1069'>ORCiD Works</a>"
                 ),
             "Tabitha Buehler" => array(
+                "remark" => " (on leave)",
                 "image" => "https://faculty.utah.edu/bytes/image.hml?id=u0791607",
                 "homepage" => "https://faculty.utah.edu/u0791607-TABITHA_BUEHLER/research/index.hml",
                 "keywords" => "Best Teaching Practices, Public Outreach, Informal Education Engagement",
@@ -62,6 +63,8 @@
                 "homepage" => "http://www.astro.utah.edu/~zhengzheng/",
                 "keywords" => "Galaxy Formation and Evolution, Cosmology, Large-Scale Structure, Cosmic Reionization",
                 "image_shift" => "-7%",
+                ),
+            "Rhett Zollinger" => array(
                 )
         );
     } catch (Exception $e) {

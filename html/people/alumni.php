@@ -2,6 +2,10 @@
 <?php
     try {
         $members = array(
+            "Aishwarya (Ash) Ashok" => array(
+                "homepage" => "https://www.ashashok.com/",
+                "advisor" => "Prof. Anil Seth"
+                ),
             "Tobin Wainer" => array(
                 "image" => "../resources/jpg/wainer_tobin.JPG",
                 "homepage" => "https://tobin-wainer.github.io/",
