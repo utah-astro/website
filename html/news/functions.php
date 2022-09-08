@@ -1,13 +1,14 @@
 <?php
     function compare_date($a, $b){
-        return $b["date"] - $a["date"];
+        return intval($b["date"]) - intval($a["date"]);
     }
 
     function format_date($date){
-        $year = intdiv($date, 10000);
-        $month = intdiv($date, 100);
-        $day = $date % 100;
-        return "$month/$day/$year";
+        $date = strval($date);
+        $year = substr($date, 0, 4);
+        $month = substr($date, 4, 2);
+        $day = substr($date, 6, 2);
+        return "{$month}/{$day}/{$year}";
     }
 
     function newstable($news_list) {
@@ -17,8 +18,7 @@
             uasort($news_list, 'compare_date');
             foreach ($news_list as $url => $metadata) {
                 $title = $metadata["title"];
-                #$date = format_date($metadata["date"]);
-                $date = $metadata["date"];
+                $date = format_date($metadata["date"]);
                 if ( ! empty($title) ) {echo "<li>[$date] <a target='_blank' href='$url'>$title</a> $link</li>";}
             }
             echo "</ul>";
