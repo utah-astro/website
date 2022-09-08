@@ -14,7 +14,7 @@
         if ( isset($news_list) ) {
             $link = fa('external-link');
             echo "<ul class='newslist'>";
-            uasort($news_list, compare_date);
+            #uasort($news_list, 'compare_date');
             foreach ($news_list as $url => $metadata) {
                 $title = $metadata["title"];
                 $date = format_date($metadata["date"]);
