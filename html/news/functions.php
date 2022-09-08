@@ -7,7 +7,7 @@
         $year = intdiv($date, 10000);
         $month = intdiv($date, 100);
         $day = $date % 100;
-        return "$month/$day/$year"
+        return "$month/$day/$year";
     }
 
     function newstable($news_list) {
