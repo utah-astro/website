@@ -2,15 +2,15 @@
     function compare_date($a, $b){
         $a_date = $a["date"];
         $b_date = $b["date"];
-        if {$a_date > $b_date} return -1;
-        if {$a_date < $b_date} return 1;
+        if ($a_date > $b_date) return -1;
+        if ($a_date < $b_date) return 1;
         return 0;
     }
 
     function newstable($news_list) {
         if ( isset($news_list) ) {
             $link = fa('external-link');
-            echo "<ul>";
+            echo "<ul class='newslist'>";
             usort($news_list, compare_date);
             foreach ($news_list as $url => $metadata) {
                 $title = $metadata["title"];

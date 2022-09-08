@@ -1,4 +1,3 @@
-"
 <?php
     try {
         $news_list = array(
