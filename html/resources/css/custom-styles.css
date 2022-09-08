@@ -84,13 +84,13 @@ ul.newslist {
 }
 
 .newslist li{
-    margin-left: 5.5em;
+    margin-left: 6em;
 }
 
 .newslist li::before {
-    content: "["attr(date)"]";
-    margin-left: -6em;
-    width: 5.33em;
+    content: attr(date);
+    margin-left: -7em;
+    width: 7em;
     padding-right: 0.67em;
     display: inline-block;
     text-align: right;
