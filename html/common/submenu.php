@@ -11,6 +11,12 @@
                         <a href="../overview/">Overview</a>
                     </li>
                     <li>
+                        <a href="../people/">People</a>
+                    </li>
+                    <li>
+                        <a href="../news/">News</a>
+                    </li>
+                    <li>
                         <a href="../research/">Research</a>
                     </li>
                     <li>
@@ -18,9 +24,6 @@
                     </li>
                     <li>
                         <a href="../undergraduate/">Undergraduate Program</a>
-                    </li>
-                    <li>
-                        <a href="../people/">People</a>
                     </li>
                     <li>
                         <a href="../computing/">Computing Resources</a>

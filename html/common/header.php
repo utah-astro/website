@@ -30,10 +30,11 @@
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Astro Group</a>
                         <ul class="dropdown-menu">
                             <li><a href="../overview/">Overview</a></li>
+                            <li><a href="../people/">People</a></li>
+                            <li><a href="../news/">News</a></li>
                             <li><a href="../research/">Research</a></li>
                             <li><a href="../graduate/">Graduate Program</a></li>
                             <li><a href="../undergraduate/">Undergraduate Program</a></li>
-                            <li><a href="../people/">People</a></li>
                             <li><a href="../computing/">Computing Resources</a></li>
                         </ul>
                     </li>
