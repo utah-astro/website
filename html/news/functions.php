@@ -17,7 +17,7 @@
             uasort($news_list, compare_date);
             foreach ($news_list as $url => $metadata) {
                 $title = $metadata["title"];
-                $date = $metadata["date"];
+                $date = format_date($metadata["date"]);
                 if ( ! empty($title) ) {echo "<li>[$date] <a target='_blank' href='$url'>$title</a> $link</li>";}
             }
             echo "</ul>";
