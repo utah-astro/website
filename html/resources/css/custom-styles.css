@@ -79,6 +79,7 @@ div.avatar img.landscape{
 /* ---- Styles for news list ---- */
 ul.newslist {
     list-style-type: none;
+    padding-left: 0;
 }
 
 
