@@ -76,6 +76,12 @@ div.avatar img.landscape{
     line-height: 1.5;
 }
 
+/* ---- Styles for news list ---- */
+ul.newslist {
+    list-style-type: none;
+}
+
+
 /* ==================== time and date picker =================== */
 .no-js .modal {
     display:block !important;
