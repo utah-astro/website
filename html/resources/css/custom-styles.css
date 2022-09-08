@@ -45,7 +45,7 @@
 }
 
 /* ---- Open new window symbol ---- */
-#top-nav a[target="_blank"]::after {
+#top-nav a[target="_blank"]::after, .newslist a[target="_blank"]::after {
     content: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAQAAAAnOwc2AAAAAXNSR0IArs4c6QAAADdJREFUeNqFzrENACAMA0GPwmjZfwmQyEuPRBG7ca5Kdp52HHCB95BKlAJKvQMuSIT5AKQT/skBm1CJutnV5xUAAAAASUVORK5CYII=);
     margin: 0 3px 0 5px;
 }
@@ -79,9 +79,22 @@ div.avatar img.landscape{
 /* ---- Styles for news list ---- */
 ul.newslist {
     list-style-type: none;
-    padding-left: 0;
+    padding: 0;
+    margin: 0;
 }
 
+.newslist li{
+    margin-left: 5.5em;
+}
+
+.newslist li::before {
+    content: "["attr(date)"]";
+    margin-left: -6em;
+    width: 5.33em;
+    padding-right: 0.67em;
+    display: inline-block;
+    text-align: right;
+}
 
 /* ==================== time and date picker =================== */
 .no-js .modal {

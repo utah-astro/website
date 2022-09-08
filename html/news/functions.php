@@ -13,19 +13,14 @@
 
     function newstable($news_list) {
         if ( isset($news_list) ) {
-            $link = fa('external-link');
             echo "<ul class='newslist'>";
             uasort($news_list, 'compare_date');
             foreach ($news_list as $url => $metadata) {
                 $title = $metadata["title"];
                 $date = format_date($metadata["date"]);
-                if ( ! empty($title) ) {echo "<li>[$date] <a target='_blank' href='$url'>$title</a> $link</li>";}
+                if ( ! empty($title) ) {echo "<li date="$date"><a target='_blank' href='$url'>$title</a></li>";}
             }
             echo "</ul>";
         }
-    }
-
-    function fa($icon) {
-        return "<i class=\"fa fa-".$icon."\" aria-hidden=\"true\"></i>";
     }
 ?>
