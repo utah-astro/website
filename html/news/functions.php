@@ -18,7 +18,7 @@
             foreach ($news_list as $url => $metadata) {
                 $title = $metadata["title"];
                 $date = format_date($metadata["date"]);
-                if ( ! empty($title) ) {echo "<li date="$date"><a target='_blank' href='$url'>$title</a></li>";}
+                if ( ! empty($title) ) {echo "<li date='$date'><a target='_blank' href='$url'>$title</a></li>";}
             }
             echo "</ul>";
         }
