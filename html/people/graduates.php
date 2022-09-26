@@ -15,12 +15,6 @@
                 "homepage" => "https://faculty.utah.edu/u1373588-ABIGAIL_ALLISON_COKER/research/index.hml",
                 "advisor" => "Prof. Yao-Yuan Mao"
                 ),
-            "Antoine Dumont" => array(
-                "image" => "../resources/jpg/antoine_dumont.jpg",
-                "homepage" => "https://antoinedumontneira.github.io/",
-                "advisor" => "Prof. Anil Seth",
-                "image_shift" => "-15%",
-                ),
             "Hannah Fritze" => array(
                 "image" => "../resources/jpg/hannah_fritze.jpg",
                 "keywords" => "X-ray Astrophysics, Black Hole Binaries, and Intermediate Mass Black Holes",
@@ -77,7 +71,6 @@
             "Samantha Creech" => array(
                 "advisor" => "Prof. Dan Wik",
                 ),
-
         );
     } catch (Exception $e) {
         echo $e->getMessage();

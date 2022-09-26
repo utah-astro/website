@@ -19,8 +19,6 @@
                                X-ray Background Reduction Methods, Data Analysis of NuSTAR/XMM-Newton/Chandra Observatories,
                                AGN Feedback Mechanisms in Brightest Cluster Galaxies, X-Ray Spectral and Imaging Methods",
                 ),
-            "Qian Wang" => array(
-                ),
             "Randall Rojas Bolivar" => array(
                 ),
             "Steve Rossland" => array(

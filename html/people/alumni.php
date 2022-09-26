@@ -2,6 +2,17 @@
 <?php
     try {
         $members = array(
+            "Qian Wang" => array(
+                "date" => "Postdoc at the U from 2019 to 2022",
+                ),
+            "Antoine Dumont" => array(
+                "image" => "../resources/jpg/antoine_dumont.jpg",
+                "homepage" => "https://antoinedumontneira.github.io/",
+                "advisor" => "Prof. Anil Seth",
+                "image_shift" => "-15%",
+                "date" => "Ph.D. 2022",
+                "position" => "Postdoc at MPIA in Heidelberg",
+                ),
             "Aishwarya (Ash) Ashok" => array(
                 "homepage" => "https://www.ashashok.com/",
                 "advisor" => "Prof. Anil Seth"
@@ -66,7 +77,7 @@
                 "position" => "Postdoc at Liverpool John Moores University",
                 ),
             "Karina Voggel" => array(
-                "date" => "Postdoc at U from 2016 to 2019",
+                "date" => "Postdoc at the U from 2016 to 2019",
                 "homepage" => "https://sites.google.com/view/karina-voggel/home",
                 "position" => "CNES Postdoctoral Fellow at Strasbourg Observatory",
                 ),
@@ -106,7 +117,7 @@
                 "image_shift" => "-25%",
                 ),
 	        "Mark den_Brok" => array(
-                "date" => "Postdoc at U from 2012 to 2015",
+                "date" => "Postdoc at the U from 2012 to 2015",
                 "position" => "Postdoc at Leibniz Institute Potsdam",
                 ),
         );
