@@ -15,7 +15,11 @@
                 ),
             "Aishwarya (Ash) Ashok" => array(
                 "homepage" => "https://www.ashashok.com/",
-                "advisor" => "Prof. Anil Seth"
+                "advisor" => "Prof. Anil Seth",
+                "date" => "Ph.D. 2022",
+                ),
+            "Chia-Hsun (Albert) Chuang" => array(
+                "date" => "Postdoc at the U from Sep. 2021 to Aug. 2022",
                 ),
             "Tobin Wainer" => array(
                 "image" => "../resources/jpg/wainer_tobin.JPG",
