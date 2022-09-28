@@ -8,7 +8,9 @@
                 "advisor" => "Prof. Kyle Dawson"
                 ),
             "Callie Clontz" => array(
-                "advisor" => "Prof. Zheng Zheng"
+                "image" => "../resources/jpg/clontz_headshot.jpg",
+                "keywords" => "Stellar Populations, Nuclear Star Clusters",
+                "advisor" => "Prof. Anil Seth"
                 ),
             "Abigail A. Coker" => array(
                 "image" => "../resources/jpg/abigail_headshot.jpg",
@@ -20,15 +22,16 @@
                 "keywords" => "X-ray Astrophysics, Black Hole Binaries, and Intermediate Mass Black Holes",
                 "advisor" => "Prof. Dan Wik"
                 ),
-            "Ben Gibson" => array(
-                "image" => "../resources/jpg/ben_gibson.jpg",
+            "Benjamin Gibson" => array(
+                "image" => "../resources/jpg/bengibson_headshot.jpg",
                 "homepage" => "https://benjamin-gibson.github.io/",
-                "keywords" => "Galaxy Evolution and Stellar Populations",
+                "keywords" => "Galaxy Evolution and Stellar Populations, Integrated Light Spectroscopy",
                 "advisor" => "Prof. Gail Zasowski"
                 ),
-            "Christian Hannah" => array(
+            "Christian H. Hannah" => array(
                 "image" => "../resources/jpg/christian_hannah.jpg",
-                "keywords" => "Galaxy Evolution, Stellar Populations, and Massive Black Holes",
+                "homepage" => "https://www.christianhhannah.com/",
+                "keywords" => "Stellar Populations, Tidal Disruption Events, and Massive Black Holes",
                 "advisor" => "Prof. Anil Seth",
                 "image_shift" => "-10%",
                 "image_landscape" => true,
@@ -58,6 +61,8 @@
                 ),
             "Kameron Goold" => array(
                 "advisor" => "Prof. Anil Seth",
+                "image" => "../resources/jpg/kameron_headshot.jpg",
+                "keywords" => "Black Holes, JWST, Low-Luminosity AGN",
                 ),
             "Tyler Hagen" => array(
                 "advisor" => "Profs. Kyle Dawson and Zheng Zheng",
