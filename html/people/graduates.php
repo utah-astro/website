@@ -8,7 +8,7 @@
                 "advisor" => "Prof. Kyle Dawson"
                 ),
             "Callie Clontz" => array(
-                "image" => "../resources/jpg/clontz_headshot.jpg",
+                "image" => "../resources/jpg/clontz_headshot.jpeg",
                 "keywords" => "Stellar Populations, Nuclear Star Clusters",
                 "advisor" => "Prof. Anil Seth"
                 ),
