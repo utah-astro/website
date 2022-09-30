@@ -2,6 +2,12 @@
 <?php
     try {
         $members = array(
+            "Ay&#351;eg&uuml;l T&uuml;mer" => array(
+                "image" => "../resources/jpg/aysegul_tumer.JPG",
+                "homepage" => "https://aysegultumer.wordpress.com/",
+                "position" => "Postdoc at MIT Kavli Institute",
+                "date" => "Postdoc at the U from 2019 to 2022",
+                ),
             "Qian Wang" => array(
                 "date" => "Postdoc at the U from 2019 to 2022",
                 ),

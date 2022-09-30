@@ -14,13 +14,6 @@
                 "homepage" => "https://sites.google.com/view/m-molina/home",
                 "remark" => ", <i>Eccles Fellow</i>"
                 ),
-            "Ay&#351;eg&uuml;l T&uuml;mer" => array(
-                "image" => "../resources/jpg/aysegul_tumer.JPG",
-                "keywords" => "High Energy Astrophysics (X-Ray), Non-Cool Core Galaxy Clusters and Mergers, Evolution of Galaxy Clusters,
-                               X-ray Background Reduction Methods, Data Analysis of NuSTAR/XMM-Newton/Chandra Observatories,
-                               AGN Feedback Mechanisms in Brightest Cluster Galaxies, X-Ray Spectral and Imaging Methods",
-                "office" => "INSCC 316",
-                ),
             "Randall Rojas Bolivar" => array(
                 ),
             "Steve Rossland" => array(
