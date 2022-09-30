@@ -1,10 +1,4 @@
 <?php
-    function compare_last_name($a, $b){
-        $a_last = strtolower(end(explode(" ", $a)));
-        $b_last = strtolower(end(explode(" ", $b)));
-        return strcmp($a_last, $b_last);
-    }
-
     function membertable($members) {
         if ( isset($members) ) {
             $astro = fa('star-o');
@@ -15,7 +9,7 @@
             $calendar = fa('calendar-o');
             $door = fa('door-open');
             echo "<table class='table table-header-shade table-bordered table-people'>";
-            uksort($members, compare_last_name);
+            uksort($members, compare_name);
             foreach ($members as $name => $member) {
                 $name = str_replace("_", " ", $name);
                 $image = $member["image"];
@@ -58,6 +52,12 @@
             }
             echo "</table>";
         }
+    }
+
+    function compare_name($a, $b){
+        $a_formatted = strtolower(end(explode(" ", $a)) . $a);
+        $b_formatted = strtolower(end(explode(" ", $b)) . $b);
+        return strcmp($a_formatted, $b_formatted);
     }
 
     function fa($icon) {
