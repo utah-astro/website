@@ -13,6 +13,7 @@
             $book = fa('book');
             $address = fa('address-book');
             $calendar = fa('calendar-o');
+            $door = fa('door-open');
             echo "<table class='table table-header-shade table-bordered table-people'>";
             uksort($members, compare_last_name);
             foreach ($members as $name => $member) {
@@ -23,6 +24,7 @@
                 $image_landscape = $member["image_landscape"];
                 $homepage = $member["homepage"];
                 $keywords = $member["keywords"];
+                $office = $member["office"];
                 $links = $member["links"];
                 $advisor = $member["advisor"];
                 $phd_thesis = $member["phd_thesis"];
@@ -45,6 +47,7 @@
                 if ( ! empty($homepage) ) {echo "<h4><a target='_blank' href='$homepage'>$name$remark</a> <span style='font-size:90%'>$link</span></h4>";}
                 else{ echo "<h4 style='color:#C00;'>$name$remark</h4>";}
                 if ( ! empty($keywords) ) {echo "<p>$astro $keywords</p>";}
+                if ( ! empty($office) ) {echo "<p>$door $office</p>";}
                 if ( ! empty($links) ) {echo "<p>$link $links</p>";}
                 if ( ! empty($phd_thesis) ) {echo "<p>$book Thesis: $phd_thesis</p>";}
                 if ( ! empty($advisor) ) {echo "<p>$university Advisor: $advisor</p>";}

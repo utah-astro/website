@@ -5,7 +5,8 @@
             "Angela Berti" => array(
                 "image" => "../resources/jpg/angela_berti.jpg",
                 "keywords" => "Galaxy evolution and the Galaxy-halo Connection, Cosmology and Large-scale Structure, Galaxy Clustering, Statistical Methods",
-                "homepage" => "http://angelaberti.com/"
+                "homepage" => "http://angelaberti.com/",
+                "office" => "INSCC 318",
                 ),
             "Mallory Molina" => array(
                 "image" => "../resources/jpg/molina_mallory_crop.jpeg",
@@ -18,10 +19,12 @@
                 "keywords" => "High Energy Astrophysics (X-Ray), Non-Cool Core Galaxy Clusters and Mergers, Evolution of Galaxy Clusters,
                                X-ray Background Reduction Methods, Data Analysis of NuSTAR/XMM-Newton/Chandra Observatories,
                                AGN Feedback Mechanisms in Brightest Cluster Galaxies, X-Ray Spectral and Imaging Methods",
+                "office" => "INSCC 316",
                 ),
             "Randall Rojas Bolivar" => array(
                 ),
             "Steve Rossland" => array(
+                "office" => "INSCC 305-10",
                 ),
         );
     } catch (Exception $e) {
