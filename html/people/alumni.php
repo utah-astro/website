@@ -2,6 +2,20 @@
 <?php
     try {
         $members = array(
+            "Abigail A. Coker" => array(
+                "image" => "../resources/jpg/abigail_headshot.jpg",
+                "advisor" => "Prof. Yao-Yuan Mao",
+                "date" => "Master 2023"
+                ),
+            "Joseph Summers" => array(
+                "advisor" => "Prof. Joel Brownstein",
+                "date" => "Master 2023"
+            ),
+            "Angela Berti" => array(
+                "image" => "../resources/jpg/angela_berti.jpg",
+                "homepage" => "http://angelaberti.com/",
+                "date" => "Postdoc at the U until summer 2023",
+            ),
             "Ay&#351;eg&uuml;l T&uuml;mer" => array(
                 "image" => "../resources/jpg/aysegul_tumer.JPG",
                 "homepage" => "https://aysegultumer.wordpress.com/",

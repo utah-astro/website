@@ -12,11 +12,6 @@
                 "keywords" => "Stellar Populations, Nuclear Star Clusters",
                 "advisor" => "Prof. Anil Seth"
                 ),
-            "Abigail A. Coker" => array(
-                "image" => "../resources/jpg/abigail_headshot.jpg",
-                "homepage" => "https://faculty.utah.edu/u1373588-ABIGAIL_ALLISON_COKER/research/index.hml",
-                "advisor" => "Prof. Yao-Yuan Mao"
-                ),
             "Hannah Fritze" => array(
                 "image" => "../resources/jpg/hannah_fritze.jpg",
                 "keywords" => "X-ray Astrophysics, Black Hole Binaries, and Intermediate Mass Black Holes",
@@ -54,10 +49,6 @@
                 "image" => "../resources/jpg/Sinha_Amaya.jpg",
                 "keywords" => "Stellar clusters, stellar chemistry",
                 "advisor" => "Prof. Gail Zasowski"
-                ),
-            "Joseph Summers" => array(
-                "keywords" => "Astronomy and Data Science",
-                "advisor" => "Prof. Joel Brownstein",
                 ),
             "Kameron Goold" => array(
                 "advisor" => "Prof. Anil Seth",

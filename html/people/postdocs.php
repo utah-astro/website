@@ -2,23 +2,24 @@
 <?php
     try {
         $members = array(
-            "Angela Berti" => array(
-                "image" => "../resources/jpg/angela_berti.jpg",
-                "keywords" => "Galaxy evolution and the Galaxy-halo Connection, Cosmology and Large-scale Structure, Galaxy Clustering, Statistical Methods",
-                "homepage" => "http://angelaberti.com/",
-                "office" => "INSCC 318",
+            "Ekta Patel" => array(
+                "image" => "../resources/jpg/ekta_patel.jpeg",
+                "keywords" => "Galaxy formation and evolution, galactic dynamics, dwarf galaxies, dark matter, near-field cosmology",
+                "homepage" => "https://www.ektapatelastro.com/",
+                "remark" => ", <i>NASA Hubble Fellow</i>",
+                "office" => "INSCC 316"
                 ),
             "Mallory Molina" => array(
                 "image" => "../resources/jpg/molina_mallory_crop.jpeg",
                 "keywords" => "Black holes in dwarf galaxies, AGN feedback, black hole-galaxy interactions, star formation and dust attenuation",
                 "homepage" => "https://sites.google.com/view/m-molina/home",
-                "remark" => ", <i>Eccles Fellow</i>"
+                "remark" => ", <i>Eccles Fellow</i>",
+                "office" => "INSCC 316"
                 ),
             "Randall Rojas Bolivar" => array(
-                ),
+            ),
             "Steve Rossland" => array(
-                "office" => "INSCC 305-10",
-                ),
+            ),
         );
     } catch (Exception $e) {
         echo $e->getMessage();
