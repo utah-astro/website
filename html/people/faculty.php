@@ -40,7 +40,7 @@
             "Yao-Yuan Mao" => array(
                 "image" => "https://yymao.github.io/images/Mao_Yao-Yuan_480.jpg",
                 "homepage" => "https://yymao.github.io/",
-                "keywords" => "Dwarf Galaxies, Low-redshift Galaxies, Galaxy Formation, Nature of Dark Matter, Cosmological Simulations, Astronomical Surveys",
+                "keywords" => "Low-mass and Low-redshift Galaxies, Galaxy Formation and Evolution, Dark Matter, Cosmological Simulations, Astronomical Surveys",
                 "links" => "<a target='_blank' href='https://sagasurvey.org/'>SAGA Survey</a>, <a target='_blank' href='https://lsstdesc.org/'>Rubin LSST DESC</a>",
                 "office" => "INSCC 314",
                 ),
