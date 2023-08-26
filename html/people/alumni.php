@@ -109,7 +109,6 @@
                 "date" => "Postdoc at the U until Dec. 2020",
                 ),
             "Hong Guo" => array(
-                "image" => "http://sdss4.shao.ac.cn/guoh/img/about.jpg",
                 "homepage" => "http://sdss4.shao.ac.cn/guoh",
                 "date" => "Postdoc at the U until Aug. 2015",
                 "position" => "Research Professor at Shanghai Astronomical Observatory, Chinese Academy of Sciences",
@@ -133,7 +132,6 @@
                 "position" => "Postdoc at Center of Research in Astrophysics of Lyon",
                 ),
             "Haojie Xu" => array(
-                "image" => "http://astro.sjtu.edu.cn/media/com_mtree/images/listings/m/136.jpg",
                 "advisor" => "Prof. Zheng Zheng",
                 "phd_thesis" => "Galaxy Color-Luminosity-Halo Mass Relation from Galaxy Clustering",
                 "date" => "Ph.D. 2018",
