@@ -67,6 +67,15 @@
             "Samantha Creech" => array(
                 "advisor" => "Prof. Dan Wik",
                 ),
+            "Emily Strickland" => array(
+                "advisor" => "Prof. Yao-Yuan Mao",
+                ),
+            "Corinna Pena" => array(
+                "advisor" => "Prof. Tanmoy Laskar",
+                ),
+            "Josh Ratajczak" => array(
+                "advisor" => "Prof. Kyle Dawson",
+                ),
         );
     } catch (Exception $e) {
         echo $e->getMessage();

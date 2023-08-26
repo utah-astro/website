@@ -1,6 +1,38 @@
 <?php
     try {
         $news_list = array(
+            "https://www.physics.utah.edu/news/gravitational-waves-thrum-through-the-cosmos/" => array(
+                "title" => "Gravitational waves thrum through the cosmos",
+                "date" => 20230727,
+            ),
+            "https://attheu.utah.edu/facultystaff/desi-early-data-release-holds-nearly-2-million-objects/" => array(
+                "title" => "DESI early data release holds nearly 2 million objects",
+                "date" => 20230613,
+            ),
+            "https://attheu.utah.edu/announcements/u-joins-association-of-universities-for-astronomy/" => array(
+                "title" => "U joins Association of Universities for Astronomy",
+                "date" => 20230531,
+            ),
+            "https://attheu.utah.edu/facultystaff/aurora-borealis-caught-on-video/" => array(
+                "title" => "Aurora borealis caught on video",
+                "date" => 20230504,
+            ),
+            "https://attheu.utah.edu/facultystaff/new-study-questions-decades-long-understanding-of-gamma-ray-bursts/" => array(
+                "title" => "New study questions decades-long understanding of gamma ray bursts",
+                "date" => 20230328,
+            ),
+            "https://attheu.utah.edu/research/moon-dust/" => array(
+                "title" => "Space dust as Earth’s sun shield",
+                "date" => 20230208,
+            ),
+            "https://attheu.utah.edu/facultystaff/mysterious-bright-flash-is-a-black-hole-jet-pointing-straight-at-earth/" => array(
+                "title" => "Mysterious bright flash is a black hole jet pointing straight at Earth",
+                "date" => 20221130,
+            ),
+            "https://www.physics.utah.edu/news/u-students-create-new-presentations-during-planetarium-internship/" => array(
+                "title" => "U students create new presentations during planetarium internship",
+                "date" => 20220922,
+            ),
             "https://www.physics.utah.edu/news/u-astrophysicist-dan-wik-is-member-of-team-whose-proposal-has-been-selected-by-nasa-for-further-study/" => array(
                 "title" => "U astrophysicist Dan Wik is member of team whose proposal has been selected by NASA for further study",
                 "date" => 20220824,
