@@ -2,6 +2,15 @@
 <?php
     try {
         $members = array(
+            "Allyson Brodzeller" => array(
+                "image" => "../resources/jpg/allyson_brodzeller.jpg",
+                "keywords" => "Cosmology, Large-scale structure, Applications of machine learning",
+                //"advisor" => "Prof. Kyle Dawson",
+                //"date" => "Ph.D. 2023",
+                ),
+            "Bobby Butler" => array(
+                "office" => "INSCC 304"
+                ),
             "Ekta Patel" => array(
                 "image" => "../resources/jpg/ekta_patel.jpeg",
                 "keywords" => "Galaxy formation and evolution, galactic dynamics, dwarf galaxies, dark matter, near-field cosmology",

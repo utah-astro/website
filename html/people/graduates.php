@@ -2,11 +2,6 @@
 <?php
     try {
         $members = array(
-            "Allyson Brodzeller" => array(
-                "image" => "../resources/jpg/allyson_brodzeller.jpg",
-                "keywords" => "Cosmology, Large-scale structure, Applications of machine learning",
-                "advisor" => "Prof. Kyle Dawson"
-                ),
             "Callie Clontz" => array(
                 "image" => "../resources/jpg/clontz_headshot.jpeg",
                 "keywords" => "Stellar Populations, Nuclear Star Clusters",
