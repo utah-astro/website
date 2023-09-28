@@ -2,6 +2,10 @@
 <?php
     try {
         $members = array(
+            "Steve Rossland" => array(
+                "advisor" => "Prof. Dan Wik",
+                "date" => "Ph.D. 2022. Postdoc at the U from 2022 to 2023",
+            ),
             "Abigail A. Coker" => array(
                 "image" => "../resources/jpg/abigail_headshot.jpg",
                 "advisor" => "Prof. Yao-Yuan Mao",
