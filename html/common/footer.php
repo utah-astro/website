@@ -5,15 +5,13 @@
             <div class="uu-footer-1">
                 <h2>Where We Are</h2>
                 <p>
-                    INSCC Building (<a target="_blank" href="https://www.map.utah.edu/index.html?find=0019">map</a>)
+                    INSCC Building (<a target="_blank" href="https://map.utah.edu/?code=INSCC">map</a>)
                     <br/>
                     3rd floor
                     <br/>
                     SLC, UT 84112-0830
                     <br/>
                      801-581-6901 (main office)
-                    <br/>
-                    <a href="mailto:webmaster@physics.utah.edu">Contact</a>
                 </p>
                 <p>
                     &copy; 2020
@@ -37,9 +35,6 @@
                     </li>
                     <li>
                         <a href="https://www.utah.edu/credits-v2.php">Credits &amp; Attributions</a>
-                    </li>
-                    <li>
-                        <span id="directedit"></span>
                     </li>
                 </ul>
             </div>

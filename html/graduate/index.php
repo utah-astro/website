@@ -33,11 +33,9 @@
                                 a Ph.D. in Physics with Emphasis in Astronomy and Astrophysics.
                             </p>
                             <p>
-                                This page provides some resources for you if you are currently
-                                a Ph.D. student or are interested in becoming one:
-                                <ul>
-                                    <li><a href="https://www.physics.utah.edu/graduate-programs/">Departmental Graduate information</a></li>
-                                </ul>
+                                <b>For prospective students</b>: check out our <a href="https://www.physics.utah.edu/graduate-programs/gradadmission/">Admission Information</a> page for how to apply and tips on how to prepare you application.
+                            </p>
+                                <b>For current students</b>: Check out our <a href="https://www.physics.utah.edu/graduate-programs/">Graduate Program</a> page for  resources and detailed information about our PhD program.
                             </p>
                         </div>
                     </div>

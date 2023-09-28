@@ -29,29 +29,23 @@
                                 The University of Utah offers both a minor and a Physics major with an astrophysics emphasis.  Here are some
                                 resources if you are interested in learning some astronomy:
                             </p>
-                            <p>
-                                <ul>
-                                    <li>The <a href="https://catalog.utah.edu/#/programs/4121i24RW/rybyEQecG?bc=true&bcCurrent=Astronomy%20%26%20Astrophysics&bcGroup=College%20of%20Science&bcItemType=programs">Astrophysics and Astrophysics Emphasis</a>
-                                    requirements and
-                                    <a href="https://catalog.utah.edu/#/programs/VkUGLs40Z?bc=true&bcCurrent=Astronomy&bcGroup=College%20of%20Science&bcItemType=programs">Astronomy Minor</a>
-                                    requirements from the University General Catalog.  The full list of Physics & Astronomy courses is given
-                                      <a href="https://catalog.utah.edu/#/courses?group=Physics%20%26%20Astronomy">here.</a></li>
-
-                                    <li> The
-                                    <a href="https://www.physics.utah.edu/wp-content/uploads/sites/65/2021/07/UndergradHandbook.pdf">Department Undergraduate Handbook</a>, which has both the degree requirements for the minor and astrophysics emphasis.)</li>
-
-                                    <li> Note that PHYS/ASTR 3070 is the "gateway" course to our astronomy course offerings -- this is offered each fall; other courses may be offered only every two years.  Please talk to us if you need help planning your major.</li>
-                                </ul>
-
-                            </p>
-
-                            <h3>Getting Undergraduate Research</h3>
-
-                            <p>Watch this space for a guide on how to get started on choosing a research topic in Astronomy (coming soon).</p>
-
                             <ul>
-                                <li><a target="_physics" href="https://www.physics.utah.edu/reu-opportunities/">Research Experiences for Undergrads (REU)</a>:  The application deadline for this program is 1/31/2022.</li>
+                                <li>The <a href="https://catalog.utah.edu/#/programs/4121i24RW/rybyEQecG?bc=true&bcCurrent=Astronomy%20%26%20Astrophysics&bcGroup=College%20of%20Science&bcItemType=programs">Astrophysics and Astrophysics Emphasis</a>
+                                requirements and
+                                <a href="https://catalog.utah.edu/#/programs/VkUGLs40Z?bc=true&bcCurrent=Astronomy&bcGroup=College%20of%20Science&bcItemType=programs">Astronomy Minor</a>
+                                requirements from the University General Catalog.  The full list of Physics &amp; Astronomy courses is given
+                                    <a href="https://catalog.utah.edu/#/courses?group=Physics%20%26%20Astronomy">here.</a></li>
+
+                                <li> The Undergraduate Handbook (click "Undergraduate Handbook" on
+                                <a href="https://www.physics.utah.edu/undergraduate-program/">this page</a>) has both the degree requirements for the minor and astrophysics emphasis.</li>
+
+                                <li> Note that PHYS/ASTR 3070 is the "gateway" course to our astronomy course offerings -- this is offered each fall; other courses may be offered only every two years.  Please talk to us if you need help planning your major.</li>
                             </ul>
+
+                            <h3>Getting Involved in Undergraduate Research</h3>
+
+                            <p>If you are interested in getting involved in research, please take a look at our department's <a href="https://www.physics.utah.edu/undergraduate-program/undergraduate-research/">Undergraduate Research</a> page for opppertunities and ways that you can get involved!</p>
+
                         </div>
                     </div>
                     <?php include '../common/submenu.php';?>
