@@ -38,6 +38,7 @@
                 ),
             "Cicely Potter" => array(
                 "advisor" => "Prof. Dan Wik",
+                "keywords" => "X-ray Astrophysics, Galaxy Clusters"
                 ),
             "Amaya Sinha" => array(
                 "homepage" => "https://faculty.utah.edu/u1363702-AMAYA_SINHA/research/index.hml",
