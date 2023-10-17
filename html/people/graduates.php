@@ -7,7 +7,7 @@
                 "keywords" => "Stellar Populations, Nuclear Star Clusters",
                 "advisor" => "Prof. Anil Seth"
                 ),
-            "Hannah Fritze" => array(
+            "Hannah Moon" => array(
                 "image" => "../resources/jpg/hannah_fritze.jpg",
                 "keywords" => "X-ray Astrophysics, Black Hole Binaries, and Intermediate Mass Black Holes",
                 "advisor" => "Prof. Dan Wik"
@@ -61,6 +61,8 @@
                 ),
             "Samantha Creech" => array(
                 "advisor" => "Prof. Dan Wik",
+                "image" => "../resources/jpg/sam_creech.jpg",
+                "keywords" => "X-ray Astrophysics, AGN Surveys, Galaxy Clusters"
                 ),
             "Emily Strickland" => array(
                 "advisor" => "Prof. Yao-Yuan Mao",
@@ -70,6 +72,10 @@
                 ),
             "Josh Ratajczak" => array(
                 "advisor" => "Prof. Kyle Dawson",
+                ),
+            "Christian Norseth" => array(
+                "advisor" => "Prof. Dan Wik",
+                "keywords" => "X-ray Astrophysics, Galaxy Clusters"
                 ),
         );
     } catch (Exception $e) {
