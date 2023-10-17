@@ -25,7 +25,7 @@
                 "remark" => ", <i>Eccles Fellow</i>",
                 "office" => "INSCC 316"
                 ),
-            "Randall Rojas Bolivar" => array(
+            "Randall Rojas-Bolivar" => array(
                 "image" => "../resources/jpg/randall_rojasbolivar.png",
                 "keywords" => "Galaxy Clusters, Mergers and Non-thermal Phenomena, Dark Matter",
             ),
