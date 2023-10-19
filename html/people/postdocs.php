@@ -18,6 +18,9 @@
                 "remark" => ", <i>NASA Hubble Fellow</i>",
                 "office" => "INSCC 316"
                 ),
+            "Ragadeepika Pucha" => array(
+                "office" => "INSCC 318"
+                ),
             "Mallory Molina" => array(
                 "image" => "../resources/jpg/molina_mallory_crop.jpeg",
                 "keywords" => "Black holes in dwarf galaxies, AGN feedback, black hole-galaxy interactions, star formation and dust attenuation",
