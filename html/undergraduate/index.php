@@ -44,7 +44,7 @@
 
                             <h3>Getting Involved in Undergraduate Research</h3>
 
-                            <p>If you are interested in getting involved in research, please take a look at our department's <a href="https://www.physics.utah.edu/undergraduate-program/undergraduate-research/">Undergraduate Research</a> page for opppertunities and ways that you can get involved!</p>
+                            <p>If you are interested in getting involved in research, please take a look at our department's <a href="https://www.physics.utah.edu/undergraduate-program/undergraduate-research/">Undergraduate Research</a> page for opportunities and ways that you can get involved!</p>
 
                         </div>
                     </div>
