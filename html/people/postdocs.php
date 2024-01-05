@@ -10,7 +10,7 @@
                 ),
             "Bobby Butler" => array(
                 "image" => "../resources/jpg/Butler_Bobby.jpg",
-                "keywords" => "Interstellar dust, Extinction, Dust properties",
+                "keywords" => "Interstellar medium, Dust extinction, Dust properties, Survey Astronomy",
                 "office" => "INSCC 304"
                 ),
             "Mallory Molina" => array(
