@@ -7,10 +7,10 @@
                 "keywords" => "Stellar Populations, Nuclear Star Clusters",
                 "advisor" => "Prof. Anil Seth"
                 ),
-            "Hannah Moon" => array(
-                "image" => "../resources/jpg/hannah_fritze.jpg",
-                "keywords" => "X-ray Astrophysics, Black Hole Binaries, and Intermediate Mass Black Holes",
-                "advisor" => "Prof. Dan Wik"
+            "Hayley Coluccio" => array(
+                "image" => "../resources/jpg/Coluccio_Hayley.jpg",
+                "keywords" => "Milky Way Stellar Populations, Galaxy Evolution",
+                "advisor" => "Prof. Gail Zasowski"
                 ),
             "Benjamin Gibson" => array(
                 "image" => "../resources/jpg/bengibson_headshot.jpg",
@@ -35,6 +35,11 @@
                 "image" => "../resources/jpg/McBride_Aidan.jpg",
                 "keywords" => "Interstellar medium dynamics, molecular clouds",
                 "advisor" => "Prof. Gail Zasowski"
+                ),
+            "Hannah Moon" => array(
+                "image" => "../resources/jpg/hannah_fritze.jpg",
+                "keywords" => "X-ray Astrophysics, Black Hole Binaries, and Intermediate Mass Black Holes",
+                "advisor" => "Prof. Dan Wik"
                 ),
             "Cicely Potter" => array(
                 "advisor" => "Prof. Dan Wik",
