@@ -80,8 +80,8 @@
             "Jianhui Lian" => array(
                 "image" => "../resources/jpg/jianhui_lian.jpg",
                 "homepage" => "https://ljh520hw.wixsite.com/mysite",
-                "date" => "Posdoc at the U until Aug. 2021",
-                "position" => "Postdoc at Max-Planck-Institut f&uuml;r Astronomie",
+                "date" => "Postdoc at the U until Aug. 2021",
+                "position" => "Faculty at Yunnan University",
                 ),
             "Sten Hasselquist" => array(
                 "image" => "https://drstenhq.com/wp-content/uploads/2018/12/IMG_8270-768x632.jpg",
