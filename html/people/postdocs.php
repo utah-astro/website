@@ -9,7 +9,16 @@
                 //"date" => "Ph.D. 2023",
                 ),
             "Bobby Butler" => array(
+                "image" => "../resources/jpg/Butler_Bobby.jpg",
+                "keywords" => "Interstellar dust, Extinction, Dust properties",
                 "office" => "INSCC 304"
+                ),
+            "Mallory Molina" => array(
+                "image" => "../resources/jpg/molina_mallory_crop.jpeg",
+                "keywords" => "Black holes in dwarf galaxies, AGN feedback, black hole-galaxy interactions, star formation and dust attenuation",
+                "homepage" => "https://sites.google.com/view/m-molina/home",
+                "remark" => ", <i>Eccles Fellow</i>",
+                "office" => "INSCC 316"
                 ),
             "Ekta Patel" => array(
                 "image" => "../resources/jpg/ekta_patel.jpeg",
@@ -21,17 +30,14 @@
             "Ragadeepika Pucha" => array(
                 "office" => "INSCC 318"
                 ),
-            "Mallory Molina" => array(
-                "image" => "../resources/jpg/molina_mallory_crop.jpeg",
-                "keywords" => "Black holes in dwarf galaxies, AGN feedback, black hole-galaxy interactions, star formation and dust attenuation",
-                "homepage" => "https://sites.google.com/view/m-molina/home",
-                "remark" => ", <i>Eccles Fellow</i>",
-                "office" => "INSCC 316"
-                ),
             "Randall Rojas-Bolivar" => array(
                 "image" => "../resources/jpg/randall_rojasbolivar.png",
                 "keywords" => "Galaxy Clusters, Mergers and Non-thermal Phenomena, Dark Matter",
             ),
+            "Zixian Wang (Purmortal)" => array(
+                "keywords" => "Integrated-field spectroscopy, Stellar populations",
+                "office" => "INSCC 304",
+                ),
         );
     } catch (Exception $e) {
         echo $e->getMessage();
