@@ -54,11 +54,11 @@
         }
     }
 
-    function compare_name($a, $b){
-        $a1 = preg_replace("/\([^)]+\)/","",$a);
-        $b1 = preg_replace("/\([^)]+\)/","",$b);
-        $a_formatted = strtolower(end(explode(" ", $a)) . $a1);
-        $b_formatted = strtolower(end(explode(" ", $b)) . $b1);
+    function compare_name($a0, $b0){
+        $a1 = preg_replace("/\([^)]+\)/","",$a0);
+        $b1 = preg_replace("/\([^)]+\)/","",$b0);
+        $a_formatted = strtolower(end(explode(" ", $a1)) . $a1);
+        $b_formatted = strtolower(end(explode(" ", $b1)) . $b1);
         return strcmp($a_formatted, $b_formatted);
     }
 
