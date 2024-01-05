@@ -56,7 +56,7 @@
 
     function compare_name($a, $b){
         $a1 = preg_replace("/\([^)]+\)/","",$a);
-        $b1 = preg_replace("/\([^)]+\)/","",$a);
+        $b1 = preg_replace("/\([^)]+\)/","",$b);
         $a_formatted = strtolower(end(explode(" ", $a)) . $a1);
         $b_formatted = strtolower(end(explode(" ", $b)) . $b1);
         return strcmp($a_formatted, $b_formatted);
