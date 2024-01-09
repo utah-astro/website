@@ -35,7 +35,8 @@
                 "keywords" => "Galaxy Clusters, Mergers and Non-thermal Phenomena, Dark Matter",
             ),
             "Zixian Wang (Purmortal)" => array(
-                "keywords" => "Integrated-field spectroscopy, Stellar populations",
+                "image" => "../resources/jpg/wang_purmortal_zixian.jpg",
+                "keywords" => "The Milky Way, Star Clusters, Milky Way Analogues, Integral-field spectroscopy",
                 "office" => "INSCC 304",
                 ),
         );
