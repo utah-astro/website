@@ -9,7 +9,8 @@
             "Abigail A. Coker" => array(
                 "image" => "../resources/jpg/abigail_headshot.jpg",
                 "advisor" => "Prof. Yao-Yuan Mao",
-                "date" => "Master 2023"
+                "date" => "Master 2023",
+		"position" => "Data Analyst, HLL Laboratories",
                 ),
             "Joseph Summers" => array(
                 "advisor" => "Prof. Joel Brownstein",
@@ -41,6 +42,7 @@
                 "homepage" => "https://www.ashashok.com/",
                 "advisor" => "Prof. Anil Seth",
                 "date" => "Ph.D. 2022",
+		"position" => "Senior Data Scientist, Data and Analytics at PURE Group of Insurance Companies",
                 ),
             "Chia-Hsun (Albert) Chuang" => array(
                 "date" => "Postdoc at the U from Sep. 2021 to Aug. 2022",
@@ -50,7 +52,7 @@
                 "homepage" => "https://tobin-wainer.github.io/",
                 "advisor" => "Profs. Anil Seth and Gail Zasowski",
                 "date" => "Postbac at the U until 2022",
-                "position" => "Graduate Student at the University of Washington",
+                "position" => "PhD Student at the University of Washington",
                 "image_shift" => "-5%",
                 ),
             "Michael S. Talbot" => array(
