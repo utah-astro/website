@@ -68,6 +68,7 @@
             "Samantha Creech" => array(
                 "advisor" => "Prof. Dan Wik",
                 "image" => "../resources/jpg/sam_creech.jpg",
+                "homepage" => "https://www.astro.utah.edu/~u1373637/SamCreech_About.html",
                 "keywords" => "X-ray Astrophysics, AGN Surveys, Galaxy Clusters"
                 ),
             "Emily Strickland" => array(
