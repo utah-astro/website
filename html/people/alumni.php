@@ -10,7 +10,7 @@
                 "image" => "../resources/jpg/abigail_headshot.jpg",
                 "advisor" => "Prof. Yao-Yuan Mao",
                 "date" => "Master 2023",
-		"position" => "Data Analyst, HLL Laboratories",
+		"position" => "Data Analyst, HRL Laboratories",
                 ),
             "Joseph Summers" => array(
                 "advisor" => "Prof. Joel Brownstein",
