@@ -30,7 +30,7 @@
                 ),
             "Tanmoy Laskar" => array(
                 "image" => "https://scholar.harvard.edu/files/laskar/files/laskar_t_29777-0011_0.jpg",
-                "homepage" => "https://scholar.harvard.edu/laskar",
+                "homepage" => "https://tanmoylaskar.github.io/",
                 "keywords" => "Time Domain Astronomy, Relativistic Explosions (Gravitational Wave Events, Gamma-ray Bursts, Tidal Disruption Events), High-energy Astrophysics, Galaxy Evolution, Multi-wavelength Observations & Modeling, Machine Learning.",
                 "image_shift" => "-10%",
                 "image_landscape" => true,
