@@ -6,6 +6,7 @@
                 "image" => "https://faculty.utah.edu/bytes/image.hml?id=u0095165",
                 "homepage" => "http://www.physics.utah.edu/~bromley",
                 "keywords" => "Planet formation, Solar System Planets, Origins of Milky Way Stars, Milky Way Structure, Astrophysics, Applications of Parallel Supercomputing: Dynamical Simulation, Data Mining.",
+                "office" => "INSCC 318",
                 ),
             "Joel Brownstein" => array(
                 "image" => "../resources/jpg/joelbrownstein.jpg",
