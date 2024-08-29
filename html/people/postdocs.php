@@ -2,23 +2,10 @@
 <?php
     try {
         $members = array(
-            "Allyson Brodzeller" => array(
-                "image" => "../resources/jpg/allyson_brodzeller.jpg",
-                "keywords" => "Cosmology, Large-scale structure, Applications of machine learning",
-                //"advisor" => "Prof. Kyle Dawson",
-                //"date" => "Ph.D. 2023",
-                ),
             "Bobby Butler" => array(
                 "image" => "../resources/jpg/Butler_Bobby.jpg",
                 "keywords" => "Interstellar medium, Dust extinction, Dust properties, Survey Astronomy",
                 "office" => "INSCC 304"
-                ),
-            "Mallory Molina" => array(
-                "image" => "../resources/jpg/molina_mallory_crop.jpeg",
-                "keywords" => "Black holes in dwarf galaxies, AGN feedback, black hole-galaxy interactions, star formation and dust attenuation",
-                "homepage" => "https://sites.google.com/view/m-molina/home",
-                "remark" => ", <i>Eccles Fellow</i>",
-                "office" => "INSCC 316"
                 ),
             "Ekta Patel" => array(
                 "image" => "../resources/jpg/ekta_patel.jpeg",
@@ -28,7 +15,7 @@
                 "office" => "INSCC 316"
                 ),
             "Ragadeepika Pucha" => array(
-                "office" => "INSCC 318"
+                "office" => "INSCC 316"
                 ),
             "Randall Rojas-Bolivar" => array(
                 "image" => "../resources/jpg/randall_rojasbolivar.png",
