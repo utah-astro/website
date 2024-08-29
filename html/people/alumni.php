@@ -2,6 +2,18 @@
 <?php
     try {
         $members = array(
+            "Allyson Brodzeller" => array(
+                "image" => "../resources/jpg/allyson_brodzeller.jpg",
+                "advisor" => "Prof. Kyle Dawson",
+                "date" => "Ph.D. 2023",
+		"position" => "Postdoc at Berkeley Lab",
+                ),
+            "Mallory Molina" => array(
+                "image" => "../resources/jpg/molina_mallory_crop.jpeg",
+                "homepage" => "https://sites.google.com/view/m-molina/home",
+		"date" => "Eccles Fellow at the U from 2022 to 2024",
+		"position" => "Faculty at Vanderbilt University",
+                ),
             "Steve Rossland" => array(
                 "advisor" => "Prof. Dan Wik",
                 "date" => "Ph.D. 2022. Postdoc at the U from 2022 to 2023",
