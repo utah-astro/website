@@ -15,7 +15,9 @@
                 "office" => "INSCC 316"
                 ),
             "Ragadeepika Pucha" => array(
-                "office" => "INSCC 316"
+                "office" => "INSCC 316",
+                "keywords" => "Dwarf Galaxies, Intermediate-Mass Black Holes, Galaxy Formation and Evolution",
+                "image" => "../resources/jpg/raga_pucha.jpg",
                 ),
             "Randall Rojas-Bolivar" => array(
                 "image" => "../resources/jpg/randall_rojasbolivar.png",
