@@ -9,8 +9,7 @@
                 ),
             "Hayley Coluccio" => array(
                 "image" => "../resources/jpg/Coluccio_Hayley.jpg",
-                "keywords" => "Milky Way Stellar Populations, Galaxy Evolution",
-                "advisor" => "Prof. Gail Zasowski"
+                "keywords" => "Milky Way Stellar Populations, Galaxy Evolution"
                 ),
             "Benjamin Gibson" => array(
                 "image" => "../resources/jpg/bengibson_headshot.jpg",
