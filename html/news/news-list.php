@@ -1,6 +1,34 @@
 <?php
     try {
         $news_list = array(
+            "https://attheu.utah.edu/facultystaff/how-special-is-the-milky-way-galaxy/" =>  array(
+                "title" => "How special is the Milky Way Galaxy?",
+                "date" => 20240925,
+            ),
+            "https://attheu.utah.edu/facultystaff/the-milky-way-is-actually-kinda-basic/" =>  array(
+                "title" => "The Milky Way is actually kinda basic",
+                "date" => 20240808,
+            ),
+            "https://attheu.utah.edu/facultystaff/missing-link-in-massive-black-hole-formation/" =>  array(
+                "title" => "Astronomers find missing link in massive black hole formation",
+                "date" => 20240710,
+            ),
+            "https://attheu.utah.edu/facultystaff/b-o-a-t-brightest-of-all-time/" =>  array(
+                "title" => "B.O.A.T. Brightest of All Time",
+                "date" => 20240418,
+            ),
+            "https://www.physics.utah.edu/news/first-results-from-desi-make-the-most-precise-measurement-of-our-expanding-universe/" =>  array(
+                "title" => "First Results from DESI Make the Most Precise Measurement of Our Expanding Universe",
+                "date" => 20240405,
+            ),
+            "https://attheu.utah.edu/facultystaff/the-barbenheimer-star/" =>  array(
+                "title" => "The ‘Barbenheimer Star’",
+                "date" => 20240117,
+            ),
+            "https://attheu.utah.edu/facultystaff/nasas-webb-makes-first-detection-of-heavy-element-from-star-merger/" =>  array(
+                "title" => "NASA’s Webb makes first detection of heavy element from star merger",
+                "date" => 20231025,
+            ),
             "https://www.physics.utah.edu/news/gravitational-waves-thrum-through-the-cosmos/" => array(
                 "title" => "Gravitational waves thrum through the cosmos",
                 "date" => 20230727,
