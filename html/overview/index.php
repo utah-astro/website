@@ -51,7 +51,7 @@
                             </h3>
                             <p><img class="img-float-left" src="../resources/jpg/bnr_home.jpg"></p>
                             <p>In addition to our <a href="../research">research</a>, we provide courses to help <a href="../graduate">graduate</a> and <a href="../undergraduate">undergraduate</a> students come up to speed in cutting-edge research with our <a href="../people">faculty</a>.</p>
-                            <p>If you are interested in interacting with the Astro Group, you can find us at the following events (listed times are for Fall 2023).
+                            <p>If you are interested in interacting with the Astro Group, you can find us at the following events (listed times are for Spring 2025).
                             <ul>
                                 <li><b>Astro Coffee</b> (journal club): Wednesdays, noon-1p, INSCC 345. We discuss recent astronomy papers; while this discussion tends to be at the level of astronomy grad students, undergrad and first-year grad students are still very welcome. About monthly, we also discuss topics on inclusion and equity in astronomy.</li>
                                 <li><b>Astro Lunch</b>: Wednesdays, 1-2p. When the weather is warm, people usually leave from INSCC 305 for Student Union to have lunch together (some people bring their own lunch and some buy food at the Union). When it's cold, people bring food and have lunch together in INSCC 305.</li>
