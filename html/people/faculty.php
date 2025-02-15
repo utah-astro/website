@@ -3,7 +3,7 @@
     try {
         $members = array(
             "Ben Bromley" => array(
-                "image" => "https://faculty.utah.edu/bytes/image.hml?id=u0095165",
+                "image" => "https://profiles.faculty.utah.edu/u0095165/thumbnail",
                 "homepage" => "http://www.physics.utah.edu/~bromley",
                 "keywords" => "Planet formation, Solar System Planets, Origins of Milky Way Stars, Milky Way Structure, Astrophysics, Applications of Parallel Supercomputing: Dynamical Simulation, Data Mining.",
                 "office" => "INSCC 318",
@@ -17,13 +17,13 @@
                 ),
             "Tabitha Buehler" => array(
                 "remark" => " (on leave)",
-                "image" => "https://faculty.utah.edu/bytes/image.hml?id=u0791607",
+                "image" => "https://profiles.faculty.utah.edu/u0791607/thumbnail",
                 "homepage" => "https://faculty.utah.edu/u0791607-TABITHA_BUEHLER/research/index.hml",
                 "keywords" => "Best Teaching Practices, Public Outreach, Informal Education Engagement",
                 "image_shift" => "-15%",
                 ),
             "Kyle Dawson" => array(
-                "image" => "https://faculty.utah.edu/bytes/image.hml?id=u0634757",
+                "image" => "https://profiles.faculty.utah.edu/u0634757/thumbnail",
                 "homepage" => "http://www.astro.utah.edu/~kdawson/",
                 "keywords" => "Origins of Cosmic Acceleration, Cosmology, Galaxy Clustering",
                 "links" => "<a target='_blank' href='https://www.sdss.org/surveys/eboss/'>eBOSS</a>, <a target='_blank' href='https://www.desi.lbl.gov'>DESI</a>, <a target='_blank' href='https://datascience.utah.edu'>Utah Center For Data Science</a>",
@@ -45,7 +45,7 @@
                 "office" => "INSCC 314",
                 ),
             "Anil Seth" => array(
-                "image" => "https://faculty.utah.edu/bytes/image.hml?id=u0778105",
+                "image" => "https://profiles.faculty.utah.edu/u0778105/thumbnail",
                 "homepage" => "https://web.physics.utah.edu/~aseth/Anil_Seth.html",
                 "links" => "<a target='_blank' href='https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0003-0248-5470'>Published Papers</a>",
                 "keywords" => "Massive Black Holes, Nearby Galaxies, Nuclear Star Clusters",
@@ -54,20 +54,20 @@
                 "office" => "INSCC 330",
                 ),
             "Daniel Wik" => array(
-                "image" => "https://faculty.utah.edu/bytes/image.hml?id=u6008171",
+                "image" => "https://profiles.faculty.utah.edu/u6008171/thumbnail",
                 "homepage" => "http://www.astro.utah.edu/~wik/",
                 "keywords" => "X-ray Astronomy, Galaxy Clusters, Galaxies, Black Holes, Cosmology",
                 "office" => "INSCC 324",
                 ),
             "Gail Zasowski" => array(
-                "image" => "https://faculty.utah.edu/bytes/image.hml?id=u0948422",
+                "image" => "https://profiles.faculty.utah.edu/u0948422/thumbnail",
                 "homepage" => "http://www.physics.utah.edu/~zasowski/",
                 "keywords" => "Galactic Archeology, The Milky Way, Stellar Populations, The Interstellar Medium",
                 "links" => "<a target='_blank' href='https://www.sdss.org/surveys/apogee/'>APOGEE-2</a>, <a target='_blank' href='https://www.sdss.org'>SDSS-V</a>, <a target='_blank' href='https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-6761-9359&sort=date+desc'>Publications</a>",
                 "office" => "INSCC 322",
                 ),
             "Zheng Zheng" => array(
-                "image" => "https://faculty.utah.edu/bytes/image.hml?id=u0786031",
+                "image" => "https://profiles.faculty.utah.edu/u0786031/thumbnail",
                 "homepage" => "http://www.astro.utah.edu/~zhengzheng/",
                 "keywords" => "Galaxy Formation and Evolution, Cosmology, Large-Scale Structure, Cosmic Reionization",
                 "image_shift" => "-7%",
