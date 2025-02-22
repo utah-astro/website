@@ -1,6 +1,14 @@
 <?php
     try {
         $news_list = array(
+            "https://attheu.utah.edu/facultystaff/treasure-trove-of-black-holes-in-dwarf-galaxies/" =>  array(
+                "title" => "'Vast discovery' of black holes in dwarf galaxies",
+                "date" => 20250219,
+            ),
+            "https://science.utah.edu/faculty/roman-telescope/" =>  array(
+                "title" => "Widening Our Cosmic View",
+                "date" => 20250206,
+            ),
             "https://attheu.utah.edu/facultystaff/how-special-is-the-milky-way-galaxy/" =>  array(
                 "title" => "How special is the Milky Way Galaxy?",
                 "date" => 20240925,
