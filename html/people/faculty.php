@@ -17,8 +17,7 @@
                 ),
             "Tabitha Buehler" => array(
                 "remark" => " (on leave)",
-                "image" => "https://profiles.faculty.utah.edu/u0791607/thumbnail",
-                "homepage" => "https://faculty.utah.edu/u0791607-TABITHA_BUEHLER/research/index.hml",
+                "image" => "https://www.physics.utah.edu/wp-content/uploads/sites/65/2022/01/Tabitha-2-scaled-e1641331374979.jpeg",
                 "keywords" => "Best Teaching Practices, Public Outreach, Informal Education Engagement",
                 "image_shift" => "-15%",
                 ),
