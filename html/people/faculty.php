@@ -53,6 +53,12 @@
                 "image_landscape" => true,
                 "office" => "INSCC 330",
                 ),
+            "Grace Telford" => array(
+                "image" => "https://ogtelford.github.io/images/headshot.jpg",
+                "homepage" => "https://ogtelford.github.io/",
+                "keywords" => "Massive Stars, Low-mass Galaxies, Stellar Populations, Interstellar Medium, Galaxy Evolution",
+                "links" => "<a target='_blank' href='https://ui.adsabs.harvard.edu/user/libraries/tKglpzXUSr6DVNDKmCCJpw'>Publications</a>",
+                ),
             "Daniel Wik" => array(
                 "image" => "https://profiles.faculty.utah.edu/u6008171/thumbnail",
                 "homepage" => "http://www.astro.utah.edu/~wik/",
