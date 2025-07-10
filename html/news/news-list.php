@@ -1,6 +1,18 @@
 <?php
     try {
         $news_list = array(
+            "https://attheu.utah.edu/facultystaff/astronomers-celebrate-images-decades-in-the-making/" =>  array(
+                "title" => "Astronomers celebrate images decades in the making",
+                "date" => 20250709,
+            ),
+            "https://attheu.utah.edu/facultystaff/humans-of-the-u-gail-zasowski/" =>  array(
+                "title" => "Humans of the U: Gail Zasowski",
+                "date" => 20250605,
+            ),
+            "https://attheu.utah.edu/facultystaff/desi-results-strengthen-hints-that-dark-energy-may-evolve/" =>  array(
+                "title" => "DESI results strengthen hints that dark energy may evolve",
+                "date" => 20250320,
+            ),
             "https://attheu.utah.edu/facultystaff/treasure-trove-of-black-holes-in-dwarf-galaxies/" =>  array(
                 "title" => "'Vast discovery' of black holes in dwarf galaxies",
                 "date" => 20250219,
