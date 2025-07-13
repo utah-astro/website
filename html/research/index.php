@@ -34,7 +34,7 @@
                             helps form the clumps, while another (dark energy) is starting
                             to drive an accelerated expansion of these clumps away from each
                             other. A main goal is to characterize the properties and behavior of both dark matter and dark energy.
-                            [<a href="https://web.physics.utah.edu/~joelbrownstein/">Brownstein</a>, <a href="https://web.physics.utah.edu/~kdawson/">Dawson</a>, <a href="https://yymao.github.io/">Mao</a>, <a href="http://www.astro.utah.edu/~wik/">Wik</a>, <a href="https://www.astro.utah.edu/~zhengzheng/">Zheng</a>]
+                            [<a href="https://astro.utah.edu/people/joelbrownstein/">Brownstein</a>, <a href="https://web.physics.utah.edu/~kdawson/">Dawson</a>, <a href="https://yymao.github.io/">Mao</a>, <a href="http://www.astro.utah.edu/~wik/">Wik</a>, <a href="https://www.astro.utah.edu/~zhengzheng/">Zheng</a>]
                             <br>&nbsp;
                             <br>
 
@@ -43,7 +43,7 @@
                             clouds of gas and dust, supermassive (and stellar mass) black holes, and dark matter. We look to see how galaxies were assembled and
                             how they interact with each other, giving clues about the formation of
                             stars, the chemical enrichment of the Universe, and the nature of dark matter.
-                            [<a href="https://web.physics.utah.edu/~joelbrownstein/">Brownstein</a>, <a href="https://yymao.github.io/">Mao</a>, <a href="https://web.physics.utah.edu/~aseth/">Seth</a>, <a href="https://web.physics.utah.edu/~zasowski/">Zasowski</a>, <a href="https://www.astro.utah.edu/~zhengzheng/">Zheng</a>]
+                            [<a href="https://astro.utah.edu/people/joelbrownstein/">Brownstein</a>, <a href="https://yymao.github.io/">Mao</a>, <a href="https://web.physics.utah.edu/~aseth/">Seth</a>, <a href="https://web.physics.utah.edu/~zasowski/">Zasowski</a>, <a href="https://www.astro.utah.edu/~zhengzheng/">Zheng</a>]
                             <br>&nbsp;
                             <br>
 
@@ -79,7 +79,7 @@
                             showers of high energy particles. So far there
                             have been only tentative hints of detections. Thus,
                             the search continues.
-                            [<a href="https://web.physics.utah.edu/~joelbrownstein/">Brownstein</a>, <a href="https://faculty.utah.edu/u0410334-PAOLO_GONDOLO/">Gondolo</a>, <a href="https://yymao.github.io/">Mao</a>, <a href="https://web.physics.utah.edu/~sandick/">Sandick</a>, <a href="https://www.astro.utah.edu/~wik/">Wik</a>, <a href="https://web.physics.utah.edu/~zhaoyue/">Zhao</a>]
+                            [<a href="https://astro.utah.edu/people/joelbrownstein/">Brownstein</a>, <a href="https://faculty.utah.edu/u0410334-PAOLO_GONDOLO/">Gondolo</a>, <a href="https://yymao.github.io/">Mao</a>, <a href="https://web.physics.utah.edu/~sandick/">Sandick</a>, <a href="https://www.astro.utah.edu/~wik/">Wik</a>, <a href="https://web.physics.utah.edu/~zhaoyue/">Zhao</a>]
                             <br>&nbsp;
                             <br>
 
