@@ -56,7 +56,7 @@
                 "image" => "https://ogtelford.github.io/images/headshot.jpg",
                 "homepage" => "https://ogtelford.github.io/",
                 "keywords" => "Massive Stars, Low-mass Galaxies, Stellar Populations, Interstellar Medium, Galaxy Evolution",
-                "links" => "<a target='_blank' href='https://ui.adsabs.harvard.edu/user/libraries/tKglpzXUSr6DVNDKmCCJpw'>Publications</a>",
+                "links" => "<a target='_blank' href='https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0003-4122-7749'>Publications</a>",
                 ),
             "Daniel Wik" => array(
                 "image" => "https://profiles.faculty.utah.edu/u6008171/thumbnail",
