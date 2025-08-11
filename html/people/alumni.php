@@ -2,6 +2,46 @@
 <?php
     try {
         $members = array(
+            "Callie Clontz" => array(
+                "image" => "../resources/jpg/clontz_headshot.jpeg",
+                "advisor" => "Prof. Anil Seth"
+				"date" => "Ph.D. 2025",
+				"position" => "Postdoc at MPIA",
+                ),
+            "Benjamin Gibson" => array(
+                "image" => "../resources/jpg/bengibson_headshot.jpg",
+                "homepage" => "https://benjamin-gibson.github.io/",
+                "advisor" => "Prof. Gail Zasowski",
+				"date" => "Ph.D. 2025",
+				"position" => "Postdoc at STScI",
+                ),
+            "Austin King" => array(
+                "image" => "../resources/jpg/austin_king.jpg",
+                "advisor" => "Prof. Ben Bromley",
+				"date" => "Ph.D. 2025",
+				"position" => "Instructor at Western Governors University",
+                ),
+            "Hannah Moon" => array(
+                "image" => "../resources/jpg/hannah_fritze.jpg",
+                "advisor" => "Prof. Dan Wik",
+				"date" => "Ph.D. 2025",
+				"position" => "NPP Postdoc Fellow at NASA Goddard",
+                ),
+            "Cicely Potter" => array(
+                "advisor" => "Prof. Dan Wik",
+				"date" => "Ph.D. 2025",
+				"position" => "Postdoc at U of Utah",
+                ),
+            "Emily Strickland" => array(
+                "advisor" => "Prof. Yao-Yuan Mao",
+				"date" => "Ph.D. 2025",
+				"position" => "Faculty at Wayne State University",
+                ),
+            "Corinna Pena" => array(
+                "advisor" => "Prof. Tanmoy Laskar",
+				"date" => "M.S. 2024",
+				"position" => "Data Scientist at Veracio",
+                ),
             "Allyson Brodzeller" => array(
                 "image" => "../resources/jpg/allyson_brodzeller.jpg",
                 "advisor" => "Prof. Kyle Dawson",
