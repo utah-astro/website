@@ -4,7 +4,7 @@
         $members = array(
             "Callie Clontz" => array(
                 "image" => "../resources/jpg/clontz_headshot.jpeg",
-                "advisor" => "Prof. Anil Seth"
+                "advisor" => "Prof. Anil Seth",
 				"date" => "Ph.D. 2025",
 				"position" => "Postdoc at MPIA",
                 ),
@@ -66,7 +66,7 @@
                 ),
             "Joseph Summers" => array(
                 "advisor" => "Prof. Joel Brownstein",
-                "date" => "Master 2023"
+                "date" => "Master 2023",
             ),
             "Angela Berti" => array(
                 "image" => "../resources/jpg/angela_berti.jpg",
