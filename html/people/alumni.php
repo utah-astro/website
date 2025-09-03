@@ -2,6 +2,12 @@
 <?php
     try {
         $members = array(
+            "Ekta Patel" => array(
+                "image" => "../resources/jpg/ekta_patel.jpeg",
+                "homepage" => "https://www.ektapatelastro.com/",
+                "date" => "NASA Hubble Fellow at the U from 2023 to 2025",
+				"position" => "Faculty at Villanova University",
+                ),
             "Callie Clontz" => array(
                 "image" => "../resources/jpg/clontz_headshot.jpeg",
                 "advisor" => "Prof. Anil Seth",
@@ -27,11 +33,6 @@
 				"date" => "Ph.D. 2025",
 				"position" => "NPP Postdoc Fellow at NASA Goddard",
                 ),
-            "Cicely Potter" => array(
-                "advisor" => "Prof. Dan Wik",
-				"date" => "Ph.D. 2025",
-				"position" => "Postdoc at U of Utah",
-                ),
             "Emily Strickland" => array(
                 "advisor" => "Prof. Yao-Yuan Mao",
 				"date" => "Ph.D. 2025",
@@ -46,13 +47,13 @@
                 "image" => "../resources/jpg/allyson_brodzeller.jpg",
                 "advisor" => "Prof. Kyle Dawson",
                 "date" => "Ph.D. 2023",
-		"position" => "Postdoc at Berkeley Lab",
+				"position" => "Postdoc at Berkeley Lab",
                 ),
             "Mallory Molina" => array(
                 "image" => "../resources/jpg/molina_mallory_crop.jpeg",
                 "homepage" => "https://sites.google.com/view/m-molina/home",
-		"date" => "Eccles Fellow at the U from 2022 to 2024",
-		"position" => "Faculty at Vanderbilt University",
+				"date" => "Eccles Fellow at the U from 2022 to 2024",
+				"position" => "Faculty at Vanderbilt University",
                 ),
             "Steve Rossland" => array(
                 "advisor" => "Prof. Dan Wik",
@@ -62,7 +63,7 @@
                 "image" => "../resources/jpg/abigail_headshot.jpg",
                 "advisor" => "Prof. Yao-Yuan Mao",
                 "date" => "Master 2023",
-		"position" => "Data Analyst, HRL Laboratories",
+				"position" => "Data Analyst, HRL Laboratories",
                 ),
             "Joseph Summers" => array(
                 "advisor" => "Prof. Joel Brownstein",
@@ -94,7 +95,7 @@
                 "homepage" => "https://www.ashashok.com/",
                 "advisor" => "Prof. Anil Seth",
                 "date" => "Ph.D. 2022",
-		"position" => "Senior Data Scientist, Data and Analytics at PURE Group of Insurance Companies",
+				"position" => "Senior Data Scientist, Data and Analytics at PURE Group of Insurance Companies",
                 ),
             "Chia-Hsun (Albert) Chuang" => array(
                 "date" => "Postdoc at the U from Sep. 2021 to Aug. 2022",
