@@ -6,6 +6,14 @@
                 "image" => "../resources/jpg/Coluccio_Hayley.jpg",
                 "keywords" => "Milky Way Stellar Populations, Galaxy Evolution"
                 ),
+            "Xiang Hu" => array(
+                ),
+            "Ashley Meglino" => array(
+                ),
+            "Bella Carlton" => array(
+                ),
+            "Raymon Isaac" => array(
+                ),
             "Christian H. Hannah" => array(
                 "image" => "../resources/jpg/christian_hannah.jpg",
                 "homepage" => "https://www.christianhhannah.com/",
@@ -38,7 +46,7 @@
                 "advisor" => "Prof. Zheng Zheng",
                 ),
             "David Ohlson" => array(
-                "advisor" => "Prof. Anil Seth",
+                "advisor" => "Profs. Yao-Yuan Mao and Anil Seth",
                 ),
             "Samantha Creech" => array(
                 "advisor" => "Prof. Dan Wik",
